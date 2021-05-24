@@ -1,0 +1,608 @@
+* {
+    margin: 0;
+}
+body {
+    background-color: #131313;
+    color: white;
+    font-family: 'Cairo', sans-serif;
+}
+
+.main-nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+}
+
+.appLogo {
+    color: red;
+    font-weight: 900;
+    font-size: 25px;
+    margin: 0px 30px;
+    line-height: 23px;
+}
+.main-nav-bar .right {
+    color: white;
+    list-style: none;
+    width: 550px;
+    /* margin-right: 2px; */
+    text-align: center;
+    
+}
+.main-nav-bar .right li {
+    display: inline-block;
+    margin: 0 15px;
+    font-weight: 800;
+    font-size: 15px;
+    cursor: pointer;
+    user-select: none;
+}
+.main-nav-bar .right li a {
+    text-decoration: none;
+    color: white;
+}
+.main-nav-bar .right li a:hover {
+    color: red;
+}
+
+.main-nav-bar .right {
+    display: block;
+}
+
+.menu-icon {
+    margin-right: 30px;
+    font-size: 25px;
+    display: none;
+    opacity: 1;
+    transition: all 0.5s ease-in-out;
+    
+}
+.menu-close-icon {
+    margin-right: 30px;
+    font-size: 25px;
+    display: none;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+}
+
+
+
+.leftside-nav-bar {
+    width: 80%;
+    height: calc(100vh - 70px );
+    background-color: #131313;
+    z-index: 1001;
+    position: fixed;
+    top: 70px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transform: translateX(-100%);;
+    transition: all 0.5s ease-in-out;
+}
+.leftside-nav-bar li {
+    list-style: none;
+    margin: 15px 0;
+}
+.leftside-nav-bar .firstItem {
+    margin-top: 70px;
+}
+.leftside-nav-bar li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+.leftside-nav-bar li a:hover {
+    color: red;
+}
+
+
+/* Top movie section */
+
+.top-movie-wrapper,.award-movie-wrapper {
+    position: relative;
+}
+
+.top-movie-wrapper .navButtonStyle {
+    position: absolute;
+    color: rgba(255, 255, 255, 0.4);
+    z-index: 100;
+    font-size: 40px;
+    top: 40%;
+}
+.top-movie-wrapper .navButtonStyle:hover {
+    color: rgba(255,255,255,0.7);
+}
+.top-movie-wrapper .next {
+    right: 20px;
+}
+
+.top-movie-wrapper .prev {
+    left: 20px;
+}
+.top-movie-style {
+    width: 100%;
+    height: calc(100vh - 70px );
+    position: relative;
+    /* background: linear-gradient(to left,rgba(0,0,0,0.8),rgba(0,0,0,0)); */
+}
+.top-movie-style img,.award-movie-style img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 20%;
+    opacity: 0.7;
+    position: absolute;
+}
+.top-movie-style .contentWrapper, .award-movie-style .contentWrapper {
+    position: absolute;
+    width: 70%;
+    height: 100%;
+    /* background-color: rgba(0, 0, 0, 0.8); */
+    background: linear-gradient(to right,rgba(0,0,0,1),rgba(0,0,0,0));
+}
+.top-movie-style .contentWrapper .content,
+.award-movie-style .contentWrapper .content {
+    position: absolute;
+    color: white;
+    top: 20%;
+    left: 100px;
+}
+.top-movie-style .contentWrapper .content .title,
+.award-movie-style .contentWrapper .content .title {
+    font-size: 33px;
+    font-weight: 700;
+    transition: all 0.5s ease;
+}
+
+.top-movie-style .contentWrapper .content .duration,
+.rating,
+.award-movie-style .contentWrapper .content .duration,
+.rating {
+    color: white;
+    font-size: 17px;
+    font-weight: 700;
+    transition: all 1s ease;
+}
+
+.top-movie-style .contentWrapper .content .description,
+.award-movie-style .contentWrapper .content .description {
+    margin: 20px 0;
+    font-size: 14px;
+    font-family: roboto;
+    text-align: justify;
+    width: 60%;
+    line-height: 1.5em;
+    transition: all 1.5s ease;
+}
+
+.top-movie-style .contentWrapper .content button,
+.award-movie-style .contentWrapper .content button {
+    border: none;
+    height: 38px;
+    width: 130px;
+    font-weight: 600;
+    font-size: 12px;
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    user-select: none;
+    cursor: pointer;
+    transition: all 2s ease;
+}
+
+.top-movie-style .contentWrapper .content button:hover {
+    background-color: transparent;
+    /* color: red; */
+    border-color: red;
+    border-style: solid;
+    border-width: 2px;
+    /* font-size: 13px; */
+}
+.award-movie-style .contentWrapper .content button:hover {
+    background-color: transparent;
+    /* color: red; */
+    border-color: red;
+    border-style: solid;
+    border-width: 2px;
+    /* font-size: 13px; */
+}
+
+
+.active .title {
+    transform: translateY(10px);
+}
+.active .duration , .active .rating {
+    transform: translateY(15px);
+}
+.active .description {
+    transform: translateY(20px);
+}
+.active button {
+    transform: translateY(25px);
+}
+
+/* Top release movie section */
+
+
+.minorMovies .title {
+    font-size: 22px;
+    font-weight: 700;
+    margin: 20px 0 5px 10px;
+}
+.top-release-movie-wrapper {
+    /* width: 100%; */
+    height: 300px;
+    white-space: nowrap;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+    object-position: 50%;
+    user-select: none;
+    display: flex;
+    align-items: flex-end;
+}
+.minorMovies .navButtonStyle {
+    position: absolute;
+    z-index: 1000;
+    font-size: 35px;
+    color: rgba(255,0,0, 0.5);
+    top: 40%;
+}
+.minorMovies .next {
+    right: 10px;
+}
+.minorMovies .prev {
+    left: 10px;
+}
+.minorMovies .item {
+    display: inline-block;
+    margin: 0 3px;
+}
+
+.top-release-movie-wrapper .imageContainer {
+    width: 200px;
+    height: 270px;
+    overflow: hidden;
+    border-radius: 10px;
+    position: relative;
+    transition: all 0.5s ease-in;
+}
+.minorMovies .imageContainer img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 30%;
+    transition: all 0.5s ease;
+    position: absolute;
+    z-index: 1;
+}
+
+.minorMovies .contentWrapper {
+    width: 100%;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+    z-index: 2;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /* background: linear-gradient(to right,rgba(206,66,66,1) , rgba(0,0,0,0)); */
+    background: linear-gradient(to right,rgba(0,0,0,1) , rgba(0,0,0,0));
+    /* background-color: rgba(0, 0, 0, 0.8); */
+    border-radius: 0 0 10px 10px;
+}
+.minorMovies .imageContainer .contentWrapper .title {
+    font-size: 16px;
+    font-weight: 800;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+.minorMovies .imageContainer .contentWrapper .duration,.releaseYear {
+    margin-left: 10px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.minorMovies .imageContainer .watchButtonWrapper {
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    color: white;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+}
+.minorMovies .imageContainer .watchButtonWrapper i {
+    cursor: pointer;
+}
+
+.minorMovies .imageContainer:hover img {
+    transform: scale(1.2);
+}
+.minorMovies .imageContainer:hover .watchButtonWrapper {
+    opacity: 1;
+}
+.top-release-movie-wrapper .imageContainer:hover {
+    transform: translateX(3%);
+}
+
+.new-movies-wrapper {
+    white-space: nowrap;
+    height: 260px;
+    position: relative;
+    user-select: none;
+    object-position: 50%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 30px;
+}
+.new-movies-wrapper .imageContainer{
+    width: 350px;
+    height: 230px;
+    overflow: hidden;
+    border-radius: 10px;
+    position: relative;
+    transition: all 0.5s ease-in;
+    margin: 0px 5px;
+}
+
+.award-movie-style {
+    width: 100%;
+    height: 500px;
+    position: relative;
+    /* background: linear-gradient(to left,rgba(0,0,0,0.8),rgba(0,0,0,0)); */
+}
+.award-movie-style .contentWrapper .content {
+    top: 20%;
+}
+
+
+.awardWinningTitle {
+    font-size: 30px;
+    text-align: center;
+    margin: 10px 0;
+    font-family: 'Aladin', cursive;
+
+}
+
+.findMoreMovieStyle {
+    position: absolute;
+    z-index: 101;
+    bottom: 0px;
+    right: 20px;
+    font-weight: 700;
+    font-size: 15px;
+    text-decoration: underline;
+    color: red;
+    cursor: pointer;
+    display: none;
+}
+
+.sliderEfect {
+    transition: all 0.7s ease;
+}
+
+@media only screen and ( max-width: 770px ) {
+    .top-movie-style .contentWrapper .content .description,
+    .award-movie-style .contentWrapper .content .description {
+        width: 80%;
+    }
+}
+
+@media only screen and ( min-height: 1366px ) {
+    .top-movie-style .contentWrapper .content {
+        top: 35%;
+    }
+}
+
+@media only screen and (max-width: 671px ) {
+    .main-nav-bar .right {
+        display: none;
+    }
+}
+
+@media only screen and ( max-width: 600px ) {
+    .top-movie-style {
+        height: 70vh;
+    }
+
+    .top-movie-style .contentWrapper {
+        height: 100%;
+        width: 80%;
+    }
+
+    .top-movie-style .contentWrapper .content {
+        top: 20%;
+        left: 8%;
+    }
+    .top-movie-style .contentWrapper .content .title {
+        width: 100%;
+        font-size: 25px;
+    }
+    .top-movie-style .contentWrapper .content .duration , .rating {
+        font-size: 17px;
+        margin: 5px 0;
+    }
+    .top-movie-style .contentWrapper .content .description {
+        width: 80%;
+        line-height: 1.2em;
+    }
+
+    .award-movie-style {
+        height: 350px;
+    }
+    .award-movie-style .contentWrapper .content {
+        top: 12%;
+        left: 10%;
+    }
+    .award-movie-style .contentWrapper .content .title {
+        font-size: 22px;
+    }
+    .award-movie-style .contentWrapper .content .duration , .rating {
+        font-size: 14px;
+        margin: 5px 0;
+    }
+    .award-movie-style .contentWrapper .content .description {
+        width: 80%;
+        line-height: 1.3em;
+        font-size: 13px;
+        margin: 10px 0;
+    }
+    .award-movie-style .contentWrapper .content button {
+        width: 120px;
+        height: 35px
+    }
+
+
+    .top-release-movie-wrapper {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        height: 230px;
+        margin: 0;
+    }
+    .top-release-movie-wrapper .imageContainer {
+        width: 150px;
+        height: 200px;
+    }
+
+    .new-movies-wrapper {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: 0;
+        height: 200px;
+    }
+    .new-movies-wrapper .imageContainer {
+        width: 270px;
+        height: 180px;
+    }
+}
+
+@media only screen and ( max-width: 500px ) {
+    .top-movie-style {
+        height: 45vh;
+    }
+
+    .top-movie-style .contentWrapper {
+        width: 80%;
+    }
+
+    .top-movie-style .contentWrapper .content {
+        top: 20%;
+        left: 8%;
+    }
+    .top-movie-style .contentWrapper .content .title {
+        width: 100%;
+        font-size: 15px;
+    }
+    .top-movie-style .contentWrapper .content .duration , .rating {
+        font-size: 12px;
+        margin: 1px 0;
+    }
+    .top-movie-style .contentWrapper .content .description {
+        /* width: 80%;
+        line-height: 1em;
+        margin: 5px 0; */
+        display: none;
+    }
+    .top-movie-style .contentWrapper .content button {
+        width: 110px;
+        height: 35px;
+    }
+
+    .award-movie-style {
+        height: 250px;
+    }
+    .award-movie-style .contentWrapper .content {
+        top: 25%;
+        left: 10%;
+    }
+    .award-movie-style .contentWrapper .content .title {
+        width: 100%;
+        font-size: 15px;
+        line-height: 1em;
+    }
+    .award-movie-style .contentWrapper .content .duration , .rating {
+        font-size: 12px;
+        margin: 0px;
+    }
+    .award-movie-style .contentWrapper .content .description {
+        /* width: 80%;
+        line-height: 1.3em;
+        font-size: 13px;
+        margin: 10px 0; */
+        display: none;
+    }
+    .award-movie-style .contentWrapper .content button {
+        width: 120px;
+        height: 35px
+    }
+
+
+    .top-release-movie-wrapper {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        height: 160px;
+        margin: 0;
+    }
+    .top-release-movie-wrapper .imageContainer {
+        width: 110px;
+        height: 150px;
+    }
+    .top-release-movie-wrapper .imageContainer .contentWrapper {
+        height: 70px;
+    }
+    .top-release-movie-wrapper .imageContainer .contentWrapper .title {
+        font-size: 12px;
+        margin: 0px;
+    }
+    .top-release-movie-wrapper .imageContainer .contentWrapper .duration , .releaseYear {
+        font-size: 10px;
+        margin: 0px;
+    }
+
+    .new-movies-wrapper .imageContainer .contentWrapper {
+        height: 50px;
+    }
+    .new-movies-wrapper .imageContainer .contentWrapper .title {
+        font-size: 12px;
+        margin: 1px 0px 0px 2px;
+    }
+    .new-movies-wrapper .imageContainer .contentWrapper .duration , .releaseYear {
+        font-size: 10px;
+        margin: 1px 0px 0px 2px;
+    }
+
+    .new-movies-wrapper {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: 0;
+        height: 120px;
+    }
+    .new-movies-wrapper .imageContainer {
+        width: 200px;
+        height: 110px;
+    }
+
+    .minorMovies .title {
+        font-size: medium;        
+    }
+    .awardWinningTitle {
+        font-size: medium;
+    }
+}
+
