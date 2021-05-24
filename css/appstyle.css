@@ -227,10 +227,12 @@ body {
 /* Top release movie section */
 
 
-.minorMovies .title {
+.minorMovies > .title {
     font-size: 22px;
     font-weight: 700;
     margin: 20px 0 5px 10px;
+    padding-left: 5px;
+    border-left: 4px solid red;
 }
 .top-release-movie-wrapper {
     /* width: 100%; */
@@ -448,6 +450,7 @@ body {
     }
     .award-movie-style .contentWrapper .content .title {
         font-size: 22px;
+        line-height: 1em;
     }
     .award-movie-style .contentWrapper .content .duration , .rating {
         font-size: 14px;
