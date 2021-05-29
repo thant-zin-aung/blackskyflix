@@ -156,7 +156,7 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/_qyw6LC5pnE&t",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        movieLinks: "https://vidcloud.msk.ru/embed4/fzpibhf59i31j?i=75bfd4f2b10e5e2f434ee214189faec1&el=4216078",
         isSeries: false
     },
 
@@ -506,15 +506,15 @@ let movie_data = [
         seasons: {
             season1: {
                 thumbnailLinks: [
-                    "https://m.media-amazon.com/images/M/MV5BOWQ4ZjRjZDUtNjJhMi00NTczLTg1OTAtMDZiMWM3ZmNlODJiXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg"
+                    "https://m.media-amazon.com/images/M/MV5BMTI2MGY4NzItMTM3My00NmMyLWE3ZGUtNTMwMGI1MDQ1NWZlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYmJjNGZmMzktMTEwOC00Mzg5LWJkNTUtNDAyMWEzYzg5ZjkwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BMjQ0NjdmMjMtMGZhYS00Y2FiLTkwODUtM2UzOTY0OWFkODQzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
 
                 ],
                 videoLinks: [
-                    "https://vidcloud.msk.ru/embed4/egnxevjp91h95?i=75bfd4f2b10e5e2f434ee214189faec1&el=4111777",
-                    "https://vidcloud.msk.ru/embed4/egnxevjp91h95?i=75bfd4f2b10e5e2f434ee214189faec1&el=4111777",
-                    "https://vidcloud.msk.ru/embed4/egnxevjp91h95?i=75bfd4f2b10e5e2f434ee214189faec1&el=4111777",
-                    "https://vidcloud.msk.ru/embed4/egnxevjp91h95?i=75bfd4f2b10e5e2f434ee214189faec1&el=4111777",
-                    "https://vidcloud.msk.ru/embed4/egnxevjp91h95?i=75bfd4f2b10e5e2f434ee214189faec1&el=4111777"
+                    "https://drive.google.com/file/d/1K7ScoHFCdAsP8kfH95T2qdcYquLHfaFr/preview",
+                    "https://drive.google.com/file/d/1K7ScoHFCdAsP8kfH95T2qdcYquLHfaFr/preview",
+                    "https://drive.google.com/file/d/13OW4tY4tKMCNJ_6F-ateETMLCmx_CSaX/preview"
                 ],
                 releaseDate: [
                     "3 Mar, 2021"

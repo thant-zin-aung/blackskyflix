@@ -171,7 +171,6 @@ trailerButton.click( () => {
     
 });
 watchNowButtons.click( () => {
-    console.log("clicked");
     moviePlayer.css("visibility","visible");
     moviePlayer.css("opacity","1");
     movie.css("transform","translateY(0%)");
@@ -215,74 +214,87 @@ let addIdToMovieWatchButtons = () => {
         watchButtons[id].setAttribute("id",`${id}`);
         watchButtons[id].addEventListener("click",(event) => {
             setTimeout(() => {
-                currentMovieDataId = event.target.getAttribute("id");
-            posterBackgroundImage.attr("src",`${movie_data[currentMovieDataId].backgroundPoster}`);
-            leftPosterImage.attr("src",`${movie_data[currentMovieDataId].poster}`);
-            movieTitle.text(`${movie_data[currentMovieDataId].title}`);
-            movieRating.text(`${movie_data[currentMovieDataId].rating}`);
-            movieDescription.text(`${movie_data[currentMovieDataId].description}`);
-            movieRelease.html(`<span>Release: </span>${movie_data[currentMovieDataId].release}`);
-            moviegenre.html(`<span>Genre: </span>${movie_data[currentMovieDataId].genre}`);
-            movieCasts.html(`<span>Casts: </span>${movie_data[currentMovieDataId].casts}`);
-            movieDuration.html(`<span>Duration: </span>${movie_data[currentMovieDataId].duration}`);
-            movieCountry.html(`<span>Country: </span>${movie_data[currentMovieDataId].country}`);
-            movieProduction.html(`<span>Production: </span>${movie_data[currentMovieDataId].production}`);
-            hideableSections.css("display","none");
-            movieDetailSection.css("display","block");
-            moviePLayerIframe.attr("src",`${movie_data[currentMovieDataId].trailerLink}`);
-            if ( movie_data[currentMovieDataId].isSeries ) {
-                let seasonNumber = $(".seasonNumber");
-                let episodeWrappers = document.querySelectorAll(".episodeWrapper");
-                seasonNumber.remove();
-                for ( let id=0 ; id < episodeWrappers.length ; id++ ) {
-                    episodeWrappers[id].remove();
-                }
-                seasonWrapper.css("display","block");
-                let totalSeasons = 0;
-                for ( let s in movie_data[currentMovieDataId].seasons )  ++totalSeasons;
+                    currentMovieDataId = event.target.getAttribute("id");
+                    posterBackgroundImage.attr("src",`${movie_data[currentMovieDataId].backgroundPoster}`);
+                    leftPosterImage.attr("src",`${movie_data[currentMovieDataId].poster}`);
+                    movieTitle.text(`${movie_data[currentMovieDataId].title}`);
+                    movieRating.text(`${movie_data[currentMovieDataId].rating}`);
+                    movieDescription.text(`${movie_data[currentMovieDataId].description}`);
+                    movieRelease.html(`<span>Release: </span>${movie_data[currentMovieDataId].release}`);
+                    moviegenre.html(`<span>Genre: </span>${movie_data[currentMovieDataId].genre}`);
+                    movieCasts.html(`<span>Casts: </span>${movie_data[currentMovieDataId].casts}`);
+                    movieDuration.html(`<span>Duration: </span>${movie_data[currentMovieDataId].duration}`);
+                    movieCountry.html(`<span>Country: </span>${movie_data[currentMovieDataId].country}`);
+                    movieProduction.html(`<span>Production: </span>${movie_data[currentMovieDataId].production}`);
+                    hideableSections.css("display","none");
+                    movieDetailSection.css("display","block");
+                    moviePLayerIframe.attr("src",`${movie_data[currentMovieDataId].trailerLink}`);
+                    if ( movie_data[currentMovieDataId].isSeries ) {
+                        let seasonNumber = $(".seasonNumber");
+                        let episodeWrappers = document.querySelectorAll(".episodeWrapper");
+                        seasonNumber.remove();
+                        for ( let id=0 ; id < episodeWrappers.length ; id++ ) {
+                            episodeWrappers[id].remove();
+                        }
+                        seasonWrapper.css("display","block");
+                        let totalSeasons = 0;
+                        for ( let s in movie_data[currentMovieDataId].seasons )  ++totalSeasons;
 
-                seasonWrapper.append(`<div class="seasonNumber">Season 1</div>`);
-                for ( let id = 0 ; id < movie_data[currentMovieDataId].seasons.season1.videoLinks.length ; id++ ) {
-                    seasonWrapper.append(`
-                        <div class="episodeWrapper ep${id}">
-                            <div class="left">
-                                <div class="imageWrapper">
-                                    <img src="${movie_data[currentMovieDataId].seasons.season1.thumbnailLinks[id]}" alt="Poster">
-                                </div>
-                                <div class="verticalSeperatorLine"></div>
-                                <div class="episodeDetailWrapper">
-                                    <div class="episodeNumber">Episode ${id+1}</div>
-                                    <div class="ratingAndDate">
-                                        <i class="fas fa-star fillStar"></i> 9.1 (104) &nbsp;&nbsp;&nbsp; <i class="far fa-star unFillStar"></i> Rate
+                        seasonWrapper.append(`<div class="seasonNumber">Season 1</div>`);
+                        for ( let id = 0 ; id < movie_data[currentMovieDataId].seasons.season1.videoLinks.length ; id++ ) {
+                            seasonWrapper.append(`
+                                <div class="episodeWrapper ep${id}">
+                                    <div class="left">
+                                        <div class="imageWrapper">
+                                            <img src="${movie_data[currentMovieDataId].seasons.season1.thumbnailLinks[id]}" alt="Poster">
+                                        </div>
+                                        <div class="verticalSeperatorLine"></div>
+                                        <div class="episodeDetailWrapper">
+                                            <div class="episodeNumber">Episode ${id+1}</div>
+                                            <div class="ratingAndDate">
+                                                <i class="fas fa-star fillStar"></i> 9.1 (104) &nbsp;&nbsp;&nbsp; <i class="far fa-star unFillStar"></i> Rate
+                                            </div>
+                                            <p class="releaseDate">${movie_data[currentMovieDataId].seasons.season1.releaseDate[id]}</p>
+                                        </div>
                                     </div>
-                                    <p class="releaseDate">${movie_data[currentMovieDataId].seasons.season1.releaseDate[id]}</p>
+                                    <div class="right">
+                                        <i class="fas fa-eye watchButton"></i>
+                                        <div class="watchButtonWrapper"><button class="${id}">Watch</button></div>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="right">
-                                <i class="fas fa-eye watchButton"></i>
-                                <div class="watchButtonWrapper"><button>Watch</button></div>
-                            </div>
-                        </div>
-                    `);
-                }
-            } else {
-                let seasonNumber = $(".seasonNumber");
-                let episodeWrappers = document.querySelectorAll(".episodeWrapper");
-                seasonNumber.remove();
-                for ( let id=0 ; id < episodeWrappers.length ; id++ ) {
-                    episodeWrappers[id].remove();
-                }
-                seasonWrapper.css("display","none");
+                            `);
+                        }
+                        let seriesWatchButton = document.querySelectorAll(".seasonWrapper .watchButtonWrapper");
+                        for ( let id=0 ; id<seriesWatchButton.length ; id++ ) {
+                            seriesWatchButton[id].addEventListener("click",(event) => {
+                                let currentId=event.target.getAttribute("class");
+                                moviePlayer.css("visibility","visible");
+                                moviePlayer.css("opacity","1");
+                                movie.css("transform","translateY(0%)");
+                                body.css("overflow-y","hidden");
+                                moviePLayerIframe.attr("src",`${movie_data[currentMovieDataId].seasons.season1.videoLinks[currentId]}`);
+                            });
+                        }
+                    } else {
+                        let seasonNumber = $(".seasonNumber");
+                        let episodeWrappers = document.querySelectorAll(".episodeWrapper");
+                        seasonNumber.remove();
+                        for ( let id=0 ; id < episodeWrappers.length ; id++ ) {
+                            episodeWrappers[id].remove();
+                        }
+                        seasonWrapper.css("display","none");
+                        
+                    }
+                    document.querySelector(".main-nav-bar").scrollIntoView();
+                    
+                });
                 
-            }
-            document.querySelector(".main-nav-bar").scrollIntoView();
-            
-        });
             }, 500);
     }
 
 };
 addIdToMovieWatchButtons();
+
 menuButtons.click( () => {
     hideableSections.css("display","block");
     movieDetailSection.css("display","none");
