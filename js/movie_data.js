@@ -536,7 +536,21 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
         movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
-        isSeries: true
+        isSeries: true,
+        seasons: {
+            season1: {
+                thumbnailLinks: [
+                    
+
+                ],
+                videoLinks: [
+                    
+                ],
+                releaseDate: [
+                    
+                ]
+            }
+        }
     },
     {
         backgroundPoster: "./img/movie_series/3.jpg",
@@ -568,7 +582,51 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
         movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
-        isSeries: true
+        isSeries: true,
+        seasons: {
+            season1: {
+                thumbnailLinks: [
+                    "https://m.media-amazon.com/images/M/MV5BODU4YjE2ZDMtNTI1MS00NmQwLWE1MGItNDQ4YThjNWMzN2M2XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZDljYjAzZDMtMDE2MC00MTM4LWExOTAtOTk2MTRmZmMyOThkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNjY1ZDliMTEtYjk3Ny00YTBjLWFmZWUtNzlkNDJlZjEyNzBiXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYjY5ZGExMGMtZjFmNC00N2Y0LTgxYzItMzQzMTFkNmJhODRjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYjM3NjI1YjEtZjM1NS00YTYzLThlNWMtMjU2NjBlM2YxNWJjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYzgwMWMxY2ItNGI2Mi00Nzk5LTkxOTktNzVkOWYxZjRjYmE1XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BMzI5ZmRjZDEtMzAyMC00MDNkLTkyMjAtMTQzYTYyODAxNDI5XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BMzM5ZjNhMjktYTdiYS00ZjQ2LWEzYmEtZDMxMzVkNDM3MTdjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BOTA4MWQwMzctOGM2NC00Y2I2LTgxMTAtNDM2MTM1ZTc1YjhmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BMzhkNjU2YWItNjUzYy00MTg0LWE5N2MtZmIzZGI3YzRlMWViXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZTUwOGVjNmQtYjMxNi00YmZiLWE5ZjgtYmY4MTczMjRjYTQ3XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZWQ1NTJlZmQtNWNlNy00Y2M0LThjMTAtYmQyNzEwYzM3ODViXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BODQ4NDk5NWEtZWZmMS00NDRkLTk2MzktNjY5YjI3Nzg5MmEwXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BY2NmZmJlNzItZTBlNC00MGMzLTkwYTQtZTkxNzRjOWFiOTJkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UY126_UX224_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZTFjNWY4MmItZjQzYi00Y2RiLWIwYzItMGMxMTc4YTI3ZjU2XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UY126_CR11,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZTJmYzczNWUtNDM0MS00NWQ4LTg4ZDktMzliZDA2ZTQ1OTdlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX224_CR0,0,224,126_AL_.jpg"
+
+                ],
+                videoLinks: [
+                    "https://drive.google.com/file/d/1BEdKh4i3Zp-DJVlHxjAmtbZ1cBEH9T8f/preview",
+                    "https://drive.google.com/file/d/1Wv1rvv0wXyG6mK3buyiRmvUrPOFup0rF/preview",
+                    "https://drive.google.com/file/d/12P25mJ8qDCQoINU0gWVvZxf59RB5r0M2/preview",
+                    "https://drive.google.com/file/d/1cB63WDUf_LTfymtoYWTRkaHGJ_6i8Uzn/preview",
+                    "https://drive.google.com/file/d/1Zsd9ySQBuRztXqVQhaIYd85VckpjAji4/preview",
+                    "https://drive.google.com/file/d/1eZCAhmETRaPaVj4uFBWcqNDIwqnBAyWk/preview",
+                    "https://drive.google.com/file/d/16-hzj6rAOomEIre0_Zi2rHI4vT7k6hYP/preview",
+                    "https://drive.google.com/file/d/19nyI0PPGEzMiEV9fUztb4rhYhDb7HNwo/preview",
+                    "https://drive.google.com/file/d/1C2mXQxmsi9dW1Ft-wIWkDHwyesdQvoqx/preview",
+                    // "https://drive.google.com/file/d/1AEANLa7LX3oCEnOxgaEzeCLe0aSS9zwP/preview",
+                    // "https://drive.google.com/file/d/1y2L5LxSeuoTz74X0fNnUpKu9jrktPgMz/preview",
+                    // "https://drive.google.com/file/d/1DJto0eNwF1VO3GDrOjKWNQatWxCXHKkg/preview",
+                    // "https://drive.google.com/file/d/1gfi8STEOocisZS-FbskPQEiRFZIDVq0G/preview",
+                    // "https://drive.google.com/file/d/1QX_OYj41eKneZPlv52N5_F4Nsnu3bpGf/preview",
+                    // "https://drive.google.com/file/d/145jenfZtz1s4w1GRao7dhmkI46PEmyok/preview",
+                    // "https://drive.google.com/file/d/1mX9qlgy0qjYoeRXqn5ORlR8AXgLJ-yxF/preview"
+                ],
+                releaseDate: [
+                    "3 Mar, 2021"
+                ]
+            }
+        }
     },
     {
         backgroundPoster: "./img/movie_series/5.jpg",
@@ -637,25 +695,39 @@ let movie_data = [
     {
         backgroundPoster: "./img/movie_series/9.jpg",
         poster: "./img/movie_series/portrait/9.jpg",
-        title: "THE HEIRS",
+        title: "TRUE BEAUTY",
         rating: "IMDB N/A",
-        description: "The Heirs",
+        description: "The series follows a group of rich, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way. Kim Tan (Lee Min-ho) is a wealthy heir to a large Korean conglomerate called Jeguk Group.",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/XbQfJNtDSCI",
         movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
-        isSeries: true
+        isSeries: true,
+        seasons: {
+            season1: {
+                thumbnailLinks: [
+                    "https://m.media-amazon.com/images/M/MV5BNjZmZjAxYWMtY2UxYS00OGI4LWIwY2EtMTkyZDhhM2Q5YjE3XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg"
+
+                ],
+                videoLinks: [
+                    "https://mega.nz/embed/cY8QHYzR#rBMU_mccBt7MmxJITd8wMRTTcfN7yDw_XyiIOb4UmXI"
+                ],
+                releaseDate: [
+                    "3 Mar, 2021"
+                ]
+            }
+        }
     },
     {
         backgroundPoster: "./img/movie_series/10.jpg",
         poster: "./img/movie_series/portrait/10.jpg",
-        title: "THE HEIRS",
+        title: "WHAT'S WRONG WITH SECRETARY KIM",
         rating: "IMDB N/A",
-        description: "The Heirs",
+        description: "WHAT'S WRONG WITH SECRETARY KIM",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
