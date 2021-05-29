@@ -1367,6 +1367,7 @@ body {
     }
     .seasonWrapper .episodeWrapper .right i {
         font-size: 11px;
+        padding-right: 10px;
     }
     .seasonWrapper .episodeWrapper .right .watchButtonWrapper button {
         width: 65px;
@@ -1383,3 +1384,55 @@ body {
     }
 }
 
+@media only screen and ( max-width: 430px ) {
+    .seasonWrapper .episodeWrapper .left {
+        width: 70%;
+    }
+}
+@media only screen and ( max-width: 368px ) {
+    .seasonWrapper {
+        width: 93%
+    }
+    .seasonWrapper .episodeWrapper {
+        height: 60px;
+    }
+    .seasonWrapper .episodeWrapper .left {
+        width: 70%;
+    }
+    .seasonWrapper .episodeWrapper .left .imageWrapper {
+        width: 150px;
+        height: 85%;
+    }
+    .seasonWrapper .episodeWrapper .left .episodeDetailWrapper .ratingAndDate {
+        display: none;
+    }
+}
+@media only screen and ( max-width: 342px ) {
+    .seasonWrapper {
+        width: 93%
+    }
+    .seasonWrapper .episodeWrapper {
+        height: 60px;
+    }
+    .seasonWrapper .episodeWrapper .left {
+        width: 70%;
+    }
+    .seasonWrapper .episodeWrapper .left .imageWrapper {
+        width: 150px;
+        height: 85%;
+    }
+    .verticalSeperatorLine {
+        margin: 0 10px;
+    }
+    .seasonWrapper .episodeWrapper .left .episodeDetailWrapper {
+        justify-content: center;
+        align-items: flex-start;
+    }
+    .seasonWrapper .episodeWrapper .left .episodeDetailWrapper .episodeNumber {
+        font-size: 12px;
+    }
+    .seasonWrapper .episodeWrapper .left .episodeDetailWrapper .ratingAndDate {
+        display: none;
+    }
+
+}
