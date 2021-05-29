@@ -7,6 +7,7 @@ html {
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 body {
     width: 100%;
@@ -23,6 +24,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    /* background-color: rgba(19, 19, 19, 1); */
     height: 70px;
 }
 
@@ -115,6 +117,23 @@ body {
 
 .top-movie-wrapper,.award-movie-wrapper {
     position: relative;
+}
+
+.topFadingStyle {
+    position: absolute;
+    z-index: 2000;
+    width: 100%;
+    height: 70px;
+    background: linear-gradient(to top,rgba(19, 19, 19, 0),rgba(19, 19, 19, 1));
+    top: 0;
+}
+.bottomFadingStyle {
+    position: absolute;
+    z-index: 2000;
+    width: 100%;
+    height: 50px;
+    background: linear-gradient(to bottom,rgba(19, 19, 19, 0),rgba(19, 19, 19, 1));
+    bottom: 0px;
 }
 
 .top-movie-wrapper .navButtonStyle {
@@ -334,6 +353,9 @@ body {
     color: white;
     opacity: 0;
     transition: all 0.5s ease-in-out;
+}
+.minorMovies .imageContainer .watchButtonWrapper a {
+    color: white;
 }
 .minorMovies .imageContainer .watchButtonWrapper i {
     cursor: pointer;
@@ -569,6 +591,297 @@ body {
     font-size: 13px;
 }
 
+
+#movieDetails {
+    position: relative;
+    font-family: roboto;
+    display: none;
+}
+.posterWrapper {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.posterWrapper .imageWrapper {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.posterWrapper .imageWrapper img {
+    width: 100%;
+    height: 100%;
+    filter: brightness(45%);
+    object-fit: cover;
+}
+.posterWrapper .imageOverlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    color: white;
+    z-index: 20;
+}
+.posterWrapper .imageOverlay i:hover {
+    color: red;
+}
+.slightlyBlack {
+    position: absolute;
+    width: 100%;
+    height: 400px;
+    background: linear-gradient(to bottom,rgba(19,19,19,0),rgba(19,19,19,1));
+    z-index: 10;
+    bottom: 0px;
+}
+
+.detailWrapper {
+    width: 100%;
+    padding: 0 100px;
+    display: flex;
+
+}
+.detailWrapper .left {
+    width:  250px;
+    margin-right: 50px;
+}
+.detailWrapper .left .imageWrapper {
+    width: 100%;
+    height: 350px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.detailWrapper .left .imageWrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+
+.seperatorLine {
+    width: 100%;
+    height: 4px;
+    margin: 10px 0;
+    background-color: red;
+    border-radius: 5px;
+    display: none;
+}
+
+.likeButtonWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+}
+.likeButtonWrapper button {
+    width: 150px;
+    height: 40px;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    background-color: #474747;
+}
+.likeButtonWrapper button:hover {
+    border-color: white;
+}
+.likeButtonWrapper button i {
+    margin-right: 5px;
+}
+.likeButtonWrapper .firstButton {
+    background-color: red;
+    margin-right: 10px;
+}
+
+.watchNowButtonWrapper button {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+}
+.trailerButtonWrapper {
+    width: 270px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.trailerButtonWrapper button {
+    border: none;
+    border-radius: 3px;
+}
+.trailerButtonWrapper .trailerButton button {
+    width: 110px;
+    height: 35px;
+    background-color: white;
+    color: black;
+    word-spacing: 5px;
+    transition: all 0.4s ease;
+}
+.trailerButtonWrapper .trailerButton button:hover {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+}
+.trailerButtonWrapper .hdButton button {
+    width: 50px;
+    height: 35px;
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    font-weight: 600;
+    transition: all 0.4s ease;
+}
+.trailerButtonWrapper .hdButton button:hover {
+    background-color: white;
+    color: black;
+}
+.trailerButtonWrapper .rating {
+    color: #FF7E31;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.detailWrapper .right .movieTitle {
+    font-size: 35px;
+    font-weight: 300;
+    margin: 10px 0;
+}
+
+.detailWrapper .right .movieDescription {
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 1.1em;
+    margin: 20px 0;
+    text-align: justify;
+}
+
+.detailWrapper .right .movieInfoWrapper {
+    display: flex;
+    margin: 20px 0;
+    
+}
+.detailWrapper .right .movieInfoWrapper .style {
+    width: 60%;
+    font-size: 15px;
+}
+.detailWrapper .right .movieInfoWrapper .style div {
+    margin: 10px 0;
+    color: gainsboro;
+}
+.detailWrapper .right .movieInfoWrapper .style div span {
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.seasonWrapper {
+    width: 80%;
+    margin: 20px auto;
+}
+.seasonWrapper .seasonNumber {
+    font-size: 25px;
+    font-weight: 400;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.seasonWrapper .episodeWrapper {
+    height: 80px;
+    padding: 5px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #373737;
+    border-width: 1px 0 0 0;
+    user-select: none;
+    /* transition: background-color 0.3s ease; */
+}
+.seasonWrapper .episodeWrapper:hover {
+    background-color: #2B2B2B;
+}
+
+.verticalSeperatorLine {
+    width: 2px;
+    height: 80%;
+    background-color: #434343;
+    margin: 0 20px;
+}
+.seasonWrapper .episodeWrapper .left {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.seasonWrapper .episodeWrapper .left .imageWrapper {
+    width: 200px;
+    height: 95%;
+    
+}
+.seasonWrapper .episodeWrapper .left .imageWrapper img {
+    width: 100%;
+    height: 100%;
+}
+.seasonWrapper .episodeWrapper .left .episodeDetailWrapper {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.seasonWrapper .episodeWrapper .left .episodeDetailWrapper .ratingAndDate {
+    font-size: 13px;
+    font-weight: 300;
+}
+.seasonWrapper .episodeWrapper .left .episodeDetailWrapper .releaseDate {
+    /* display: inline-block; */
+    margin: 0;
+    font-size: 12px;
+    font-weight: 300;
+    opacity: 0.8;
+}
+.seasonWrapper .episodeWrapper .left .episodeDetailWrapper .ratingAndDate .fillStar {
+    color: #FF9A00;
+}
+.seasonWrapper .episodeWrapper .left .episodeDetailWrapper .ratingAndDate .unFillStar {
+    cursor: pointer;
+}
+
+.seasonWrapper .episodeWrapper .right {
+    width: 10%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.seasonWrapper .episodeWrapper .right i {
+    font-size: 15px;
+    transition: transform 0.2s ease;
+    padding: 0 15px 0 0 ;
+}
+/* .seasonWrapper .episodeWrapper .right .watchButton:hover {
+    color: red;
+    transform: scale(1.2);
+} */
+.seasonWrapper .episodeWrapper .right .watchButtonWrapper button {
+    border: none;
+    color: white;
+    border-radius: 2px;
+    background-color: red;
+    width: 75px;
+    height: 32px;
+    margin-right: 10px;
+    transition: transform 0.2s ease;
+}
+.seasonWrapper .episodeWrapper .right .watchButtonWrapper button:hover {
+    transform: scale(1.1);
+}
+
 .findMoreMovieStyle {
     position: absolute;
     z-index: 101;
@@ -586,11 +899,139 @@ body {
     transition: all 0.7s ease;
 }
 
+.moviePlayerAreaWrapper {
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.9);
+    position: absolute;
+    z-index: 200;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 1s ease;
+}
+.moviePlayerArea {
+    width: 800px;
+    height: 450px;
+    border: 3px solid white;
+    transition: all 1s ease;
+    
+}
+.moviePlayerArea iframe {
+    width: 100%;
+    height: 100%;
+}
+.moviePlayerAreaWrapper .closeButton {
+    position: absolute;
+    bottom: 70px;
+    font-size: 40px;
+}
+.moviePlayerAreaWrapper .closeButton:hover {
+    color: red;
+}
+
 @media only screen and ( max-width: 770px ) {
     .top-movie-style .contentWrapper .content .description,
     .award-movie-style .contentWrapper .content .description {
         width: 80%;
     }
+    
+    /* Movie Detail Section Styles */
+
+    .posterWrapper {
+        height: 70vh;
+    }
+    .posterWrapper .imageOverlay i {
+        font-size: 40px;
+    }
+    .detailWrapper {
+        padding: 0 30px;
+    }
+    .detailWrapper .left {
+        width: 200px;
+        margin-right: 35px;
+    }
+    .detailWrapper .left .imageWrapper {
+        height: 250px;
+    }
+    .likeButtonWrapper button {
+        width: 120px;
+        height: 32px;
+        font-size: 13px;
+    }
+    .watchNowButtonWrapper button {
+        width: 120px;
+        height: 35px;
+        border-radius: 17px;
+        font-size: 14px;
+    }
+    .watchNowButtonWrapper button i {
+        font-size: 13px;
+        margin-right: 5px;
+    }
+    .trailerButtonWrapper {
+        width: 220px;
+        height: 37px;
+    }
+    .trailerButtonWrapper .trailerButton button {
+        width: 95px;
+        height: 32px;
+        word-spacing: 2px;
+    }
+    .trailerButtonWrapper .hdButton button {
+        width: 38px;
+        height: 32px;
+    }
+    .trailerButtonWrapper .rating {
+        font-size: 14px;
+    }
+    .detailWrapper .right .movieTitle {
+        font-size: 30px;
+        font-weight: 400;
+        margin: 7px 0;
+    }
+    .detailWrapper .right .movieDescription {
+        display: none;
+    }
+    .detailWrapper .right .movieInfoWrapper .style {
+        font-size: 13px;
+    }
+    .detailWrapper .right .movieInfoWrapper .style div {
+        margin: 5px 0;
+    }
+    .detailWrapper .right .movieInfoWrapper .style div span {
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .seasonWrapper {
+        width: 90%
+    }
+    .seasonWrapper .episodeWrapper {
+        height: 70px;
+    }
+    .seasonWrapper .episodeWrapper .left {
+        width: 50%;
+    }
+    .seasonWrapper .episodeWrapper .left .episodeDetailWrapper .ratingAndDate {
+        font-size: 12px;
+    }
+    .seasonWrapper .episodeWrapper .right {
+        width: 25%;
+    }
+    .seasonWrapper .episodeWrapper .right .watchButtonWrapper button {
+        width: 68px;
+        height: 29px;
+        font-size: 14px;
+    }
+
+    .moviePlayerArea {
+        width: 580px;
+        height: 340px;
+    }
+
+
 }
 
 @media only screen and ( min-height: 1366px ) {
@@ -803,7 +1244,7 @@ body {
         display: none;
     }
     #blackskyflexInfo {
-        height: 400px;
+        height: 300px;
     }
     .infoWrapper {
         width: 100%;
@@ -813,13 +1254,132 @@ body {
         align-items: center;
     }
     .infoWrapper .socialNetwork {
-        height: 100px;
+        margin-bottom: 15px;
+        height: 20px;
         align-items: center;
         justify-content: space-around;
     }
     .socialNetwork .content {
         display: none;
         height: 0px;
+    }
+
+
+    /* Movie Details Style */
+
+    .posterWrapper {
+        height: 50vh;
+    }
+    .posterWrapper .imageOverlay i {
+        font-size: 30px;
+    }
+    .detailWrapper {
+        padding: 0 15px;
+    }
+    .detailWrapper .left {
+        width: 130px;
+        margin-right: 25px;
+    }
+    .detailWrapper .left .imageWrapper {
+        height: 180px;
+    }
+    .likeButtonWrapper button {
+        width: 90px;
+        height: 25px;
+        font-size: 11px;
+    }
+    .likeButtonWrapper button i {
+        margin-right: 1px;
+    }
+    .watchNowButtonWrapper button {
+        width: 100px;
+        height: 30px;
+        border-radius: 17px;
+        font-size: 12px;
+    }
+    .watchNowButtonWrapper button i {
+        font-size: 9px;
+        margin-right: 4px;
+    }
+    .trailerButtonWrapper {
+        width: 170px;
+        height: 35px;
+    }
+    .trailerButtonWrapper .trailerButton button {
+        width: 70px;
+        height: 28px;
+        font-size: 12px;
+        word-spacing: 2px;
+    }
+    .trailerButtonWrapper .hdButton button {
+        width: 36px;
+        height: 28px;
+        font-size: 12px;
+    }
+    .trailerButtonWrapper .rating {
+        font-size: 11px;
+    }
+    .detailWrapper .right .movieTitle {
+        font-size: 20px;
+        font-weight: 400;
+        margin: 7px 0;
+    }
+    .detailWrapper .right .movieDescription {
+        display: none;
+    }
+    .detailWrapper .right .movieInfoWrapper {
+        margin: 5px 0;
+    }
+    .detailWrapper .right .movieInfoWrapper .left {
+        width: 100%;
+        margin-right: 0px;
+    }
+    .detailWrapper .right .movieInfoWrapper .right {
+        display: none;
+    }
+    .detailWrapper .right .movieInfoWrapper .style {
+        font-size: 12px;
+    }
+    .detailWrapper .right .movieInfoWrapper .style div {
+        margin: 3px 0;
+    }
+    .detailWrapper .right .movieInfoWrapper .style div span {
+        font-size: 13px;
+        font-weight: 500;
+    }
+    .seasonWrapper {
+        width: 93%
+    }
+    .seasonWrapper .episodeWrapper {
+        height: 60px;
+    }
+    .seasonWrapper .episodeWrapper .left {
+        width: 60%;
+    }
+    .seasonWrapper .episodeWrapper .left .episodeDetailWrapper .ratingAndDate {
+        font-size: 11px;
+    }
+    .seasonWrapper .episodeWrapper .left .episodeDetailWrapper .episodeNumber {
+        font-size: 14px;
+    }
+    .seasonWrapper .episodeWrapper .right {
+        width: 30%;
+    }
+    .seasonWrapper .episodeWrapper .right i {
+        font-size: 11px;
+    }
+    .seasonWrapper .episodeWrapper .right .watchButtonWrapper button {
+        width: 65px;
+        height: 25px;
+        font-size: 12px;
+    }
+
+    .moviePlayerArea {
+        width: 350px;
+        height: 200px;
+    }
+    .moviePlayerAreaWrapper .closeButton {
+        bottom: 125px;
     }
 }
 
