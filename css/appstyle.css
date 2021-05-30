@@ -870,6 +870,17 @@ body {
 }
 
 @media only screen and ( max-width: 770px ) {
+
+    .minorMovies .imageWrapper .contentWrapper .title {
+        font-size: 14px;
+        font-weight: 700;
+        white-space: nowrap;
+    }
+    .minorMovies .imageWrapper .contentWrapper .duration,.releaseYear {
+        font-size: 13px;
+        font-weight: 600;
+    }
+
     .top-movie-style .contentWrapper .content .description,
     .award-movie-style .contentWrapper .content .description {
         width: 80%;
@@ -984,6 +995,26 @@ body {
 }
 
 @media only screen and ( max-width: 600px ) {
+
+    .minorMovies .watchButtonWrapper i {
+        font-size: 20px;
+    }
+    .awardWinningTitle {
+        font-size: 20px;
+    }
+    .minorMovies > .title {
+        font-size: 20px;
+    }
+    .minorMovies .imageWrapper .contentWrapper .title {
+        font-size: 14px;
+        font-weight: 700;
+        white-space: nowrap;
+    }
+    .minorMovies .imageWrapper .contentWrapper .duration,.releaseYear {
+        font-size: 12px;
+        font-weight: 600;
+    }
+
     .top-movie-style {
         height: 70vh;
     }
@@ -1063,6 +1094,33 @@ body {
 }
 
 @media only screen and ( max-width: 500px ) {
+
+    .minorMovies .watchButtonWrapper i {
+        font-size: 18px;
+    }
+    .awardWinningTitle {
+        font-size: 17px;
+    }
+    .minorMovies > .title {
+        font-size: 17px;
+    }
+    .minorMovies .imageWrapper .contentWrapper {
+        line-height: 1em;
+    }
+    .minorMovies .imageWrapper .contentWrapper .title {
+        font-size: 11px;
+        font-weight: 600;
+        white-space: nowrap;
+        line-height: 1.7em;
+    }
+    .minorMovies .imageWrapper .contentWrapper .duration,.releaseYear {
+        font-size: 9px;
+        font-weight: 400;
+        line-height: 1em;
+    }
+
+
+
     .top-movie-style {
         height: 45vh;
     }
