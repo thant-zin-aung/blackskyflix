@@ -580,8 +580,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/eXMjTXL2Vks",
+        movieLinks: "",
         isSeries: true,
         seasons: {
             season1: {
@@ -614,8 +614,8 @@ let movie_data = [
                     "https://mega.nz/embed/Lf5UgKIJ#Rv-pWl3M9XTGpCecyfsBDvhukkIfBx9uTGoC2qChzh4",
                     "https://mega.nz/embed/yL5ilISZ#DhK3oWpLcjxTaA5d2JS2VqkS71NtzTycLfHVHOsu8pU",
                     "https://mega.nz/embed/nKg0WAbI#cd88XqT37CljvnuDKIrakRKAhpbpkWHEr58Tlo7Rlio",
-                    // "https://mega.nz/embed/7S4kFC6K#XH3AQqHUYJq3Y1f7c8qUhiozbm_H9YMajalZzFHkde4",
-                    // "https://mega.nz/embed/7S4kFC6K#XH3AQqHUYJq3Y1f7c8qUhiozbm_H9YMajalZzFHkde4",
+                    "https://mega.nz/embed/7S4kFC6K#XH3AQqHUYJq3Y1f7c8qUhiozbm_H9YMajalZzFHkde4",
+                    "https://mega.nz/embed/7S4kFC6K#XH3AQqHUYJq3Y1f7c8qUhiozbm_H9YMajalZzFHkde4",
                     // "https://mega.nz/embed/SGxEjKxB#q-RVysPJZ4aMZjnG3tdcpT-st_Szjimgnjt5bVIXzKA",
                     // "https://mega.nz/embed/SGxEjKxB#q-RVysPJZ4aMZjnG3tdcpT-st_Szjimgnjt5bVIXzKA",
                     // "https://mega.nz/embed/uO5k0KAZ#3JrFvyt3Ibns3syNGaISJhDAPn163pf-CE3rfrAkg0U",
