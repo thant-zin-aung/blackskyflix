@@ -10,6 +10,21 @@ new Splide('.splide',{
     padding: {
         left: '5px',
         
+    },
+    breakpoints: {
+        770: {
+            fixedWidth: '180px',
+            fixedHeight: '240px'
+        },
+        600: {
+            fixedWidth: '150px',
+            fixedHeight: '200px'
+        },
+        500: {
+            fixedWidth: '110px',
+            fixedHeight: '150px',
+            gap: '8px'
+        }
     }
 }).mount();
 
@@ -25,6 +40,21 @@ new Splide('#newMoviesSplide',{
     padding: {
         left: '5px',
         
+    },
+    breakpoints: {
+        770: {
+            fixedWidth: '280px',
+            fixedHeight: '180px'
+        },
+        600: {
+            fixedWidth: '240px',
+            fixedHeight: '150px'
+        },
+        500: {
+            fixedWidth: '170px',
+            fixedHeight: '110px',
+            gap: '8px'
+        }
     }
 }).mount();
 
@@ -40,6 +70,21 @@ new Splide('#cartoonSplide',{
     padding: {
         left: '5px',
         
+    },
+    breakpoints: {
+        770: {
+            fixedWidth: '180px',
+            fixedHeight: '240px'
+        },
+        600: {
+            fixedWidth: '150px',
+            fixedHeight: '200px'
+        },
+        500: {
+            fixedWidth: '110px',
+            fixedHeight: '150px',
+            gap: '8px'
+        }
     }
 }).mount();
 new Splide('#seriesSplide',{
@@ -56,6 +101,21 @@ new Splide('#seriesSplide',{
     padding: {
         left: '5px',
         
+    },
+    breakpoints: {
+        770: {
+            fixedWidth: '280px',
+            fixedHeight: '180px'
+        },
+        600: {
+            fixedWidth: '240px',
+            fixedHeight: '150px'
+        },
+        500: {
+            fixedWidth: '170px',
+            fixedHeight: '110px',
+            gap: '8px'
+        }
     }
 }).mount();
 
