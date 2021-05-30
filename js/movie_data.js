@@ -605,22 +605,22 @@ let movie_data = [
 
                 ],
                 videoLinks: [
-                    "https://drive.google.com/file/d/1BEdKh4i3Zp-DJVlHxjAmtbZ1cBEH9T8f/preview",
-                    "https://drive.google.com/file/d/1Wv1rvv0wXyG6mK3buyiRmvUrPOFup0rF/preview",
-                    "https://drive.google.com/file/d/12P25mJ8qDCQoINU0gWVvZxf59RB5r0M2/preview",
-                    "https://drive.google.com/file/d/1cB63WDUf_LTfymtoYWTRkaHGJ_6i8Uzn/preview",
-                    "https://drive.google.com/file/d/1Zsd9ySQBuRztXqVQhaIYd85VckpjAji4/preview",
-                    "https://drive.google.com/file/d/1eZCAhmETRaPaVj4uFBWcqNDIwqnBAyWk/preview",
-                    "https://drive.google.com/file/d/16-hzj6rAOomEIre0_Zi2rHI4vT7k6hYP/preview",
-                    "https://drive.google.com/file/d/19nyI0PPGEzMiEV9fUztb4rhYhDb7HNwo/preview",
-                    "https://drive.google.com/file/d/1C2mXQxmsi9dW1Ft-wIWkDHwyesdQvoqx/preview",
-                    // "https://drive.google.com/file/d/1AEANLa7LX3oCEnOxgaEzeCLe0aSS9zwP/preview",
-                    // "https://drive.google.com/file/d/1y2L5LxSeuoTz74X0fNnUpKu9jrktPgMz/preview",
-                    // "https://drive.google.com/file/d/1DJto0eNwF1VO3GDrOjKWNQatWxCXHKkg/preview",
-                    // "https://drive.google.com/file/d/1gfi8STEOocisZS-FbskPQEiRFZIDVq0G/preview",
-                    // "https://drive.google.com/file/d/1QX_OYj41eKneZPlv52N5_F4Nsnu3bpGf/preview",
-                    // "https://drive.google.com/file/d/145jenfZtz1s4w1GRao7dhmkI46PEmyok/preview",
-                    // "https://drive.google.com/file/d/1mX9qlgy0qjYoeRXqn5ORlR8AXgLJ-yxF/preview"
+                    "https://mega.nz/embed/TDAT2KSI#1I6N1pTBYu8-nnPS8jTAtMxVYv8HEx7p1kAGR7vis1w",
+                    "https://mega.nz/embed/uP5ESKoL#CeusUhgmqk4V0neTsRv9IAiMzq8wJgsHeXvkvmOk4AE",
+                    "https://mega.nz/embed/aC5EHSKC#ZxUWL63QIXM6keBD8B7ZvSkEfZyr39TZcqSXs3W7fCY",
+                    "https://mega.nz/embed/Db4gTCzC#wDvVkMYLS5BLO7aFla1dYGVvG2F_qPKYu0GPuzWakiY",
+                    "https://mega.nz/embed/iDxGxIgC#J7nYJiFsZttanFGc2BbDbZMj1V0nXOz2QunDs74kN-w",
+                    "https://mega.nz/embed/Wb4SUApZ#606GLdM9MJCJQdcIysuORQOe5hSGFAy3f7KRA2r-ZEA",
+                    "https://mega.nz/embed/Lf5UgKIJ#Rv-pWl3M9XTGpCecyfsBDvhukkIfBx9uTGoC2qChzh4",
+                    "https://mega.nz/embed/yL5ilISZ#DhK3oWpLcjxTaA5d2JS2VqkS71NtzTycLfHVHOsu8pU",
+                    "https://mega.nz/embed/nKg0WAbI#cd88XqT37CljvnuDKIrakRKAhpbpkWHEr58Tlo7Rlio",
+                    // "https://mega.nz/embed/7S4kFC6K#XH3AQqHUYJq3Y1f7c8qUhiozbm_H9YMajalZzFHkde4",
+                    // "https://mega.nz/embed/7S4kFC6K#XH3AQqHUYJq3Y1f7c8qUhiozbm_H9YMajalZzFHkde4",
+                    // "https://mega.nz/embed/SGxEjKxB#q-RVysPJZ4aMZjnG3tdcpT-st_Szjimgnjt5bVIXzKA",
+                    // "https://mega.nz/embed/SGxEjKxB#q-RVysPJZ4aMZjnG3tdcpT-st_Szjimgnjt5bVIXzKA",
+                    // "https://mega.nz/embed/uO5k0KAZ#3JrFvyt3Ibns3syNGaISJhDAPn163pf-CE3rfrAkg0U",
+                    // "https://mega.nz/embed/Ke4AQSrA#8E3rO7uXM4qR621Ea4zKRR6MHcqZ8CVXMQhBOasTE2A",
+                    // "https://mega.nz/embed/qWp2kABa#MYrIiDKyumDoiPXKKJn5pflJsXSJhCpc7Ur5r0eq3Ec"
                 ],
                 releaseDate: [
                     "3 Mar, 2021"
