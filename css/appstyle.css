@@ -255,143 +255,77 @@ body {
     transform: translateY(25px);
 }
 
-/* Top release movie section */
+/* Top release movies style */
 
-
-.minorMovies > .title {
-    font-size: 22px;
-    font-weight: 700;
-    margin: 20px 0 5px 10px;
-    padding-left: 5px;
-    border-left: 4px solid red;
+.splide__pagination__page {
+    display: none;
 }
-.top-release-movie-wrapper {
-    /* width: 100%; */
-    height: 300px;
-    white-space: nowrap;
-    overflow-x: hidden;
-    overflow-y: hidden;
+
+.minorMovies .watchButtonWrapper i {
+    color: white;
+    cursor: pointer;
+}
+.minorMovies .imageWrapper {
     position: relative;
-    object-position: 50%;
-    user-select: none;
-    display: flex;
-    align-items: flex-end;
-}
-.minorMovies .navButtonStyle {
-    position: absolute;
-    z-index: 1000;
-    font-size: 35px;
-    color: rgba(255,0,0, 0.5);
-    top: 40%;
-}
-.minorMovies .next {
-    right: 10px;
-}
-.minorMovies .prev {
-    left: 10px;
-}
-.minorMovies .item {
-    display: inline-block;
-    margin: 0 3px;
-}
-
-.top-release-movie-wrapper .imageContainer {
-    width: 200px;
-    height: 270px;
-    overflow: hidden;
     border-radius: 10px;
-    position: relative;
-    transition: all 0.5s ease-in;
+    transition: transform 0.5s ease;
+    overflow: hidden;
 }
-.minorMovies .imageContainer img {
+.minorMovies .imageWrapper .contentWrapper {
     width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: 50% 30%;
-    transition: all 0.5s ease;
+    height: 35%;
     position: absolute;
-    z-index: 1;
-}
-
-.minorMovies .contentWrapper {
-    width: 100%;
-    height: 80px;
-    position: absolute;
-    bottom: 0;
-    z-index: 2;
-    
+    bottom: 0px;
+    background: linear-gradient(to left,rgba(0,0,0,0),rgba(0,0,0,1));
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    /* background: linear-gradient(to right,rgba(206,66,66,1) , rgba(0,0,0,0)); */
-    background: linear-gradient(to right,rgba(0,0,0,1) , rgba(0,0,0,0));
-    /* background-color: rgba(0, 0, 0, 0.8); */
-    border-radius: 0 0 10px 10px;
+    padding: 5px 0;
 }
-.minorMovies .imageContainer .contentWrapper .title {
-    font-size: 16px;
-    font-weight: 800;
-    margin-left: 10px;
-    margin-top: 0px;
+.minorMovies .imageWrapper .contentWrapper .title {
+    font-size: 15px;
+    font-weight: 700;
+    white-space: nowrap;
 }
-.minorMovies .imageContainer .contentWrapper .duration,.releaseYear {
-    margin-left: 10px;
-    font-size: 13px;
+.minorMovies .imageWrapper .contentWrapper .duration,.releaseYear {
+    font-size: 14px;
     font-weight: 600;
 }
+.minorMovies .imageWrapper .contentWrapper > div {
+    margin-left: 8px;
+}
 
-.minorMovies .imageContainer .watchButtonWrapper {
+.minorMovies .imageWrapper .watchButtonWrapper {
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.4);
-    position: absolute;
-    z-index: 100;
+    background-color: rgba(0, 0, 0, 0.8);
+    font-size: 30px;
     display: flex;
-    align-items: center;
     justify-content: center;
-    font-size: 40px;
-    color: white;
+    align-items: center;
+    visibility: hidden;
     opacity: 0;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease;
+    z-index: 10;
 }
-.minorMovies .imageContainer .watchButtonWrapper a {
-    color: white;
+.minorMovies .imageWrapper:hover{
+    transform: scale(1.05);
 }
-.minorMovies .imageContainer .watchButtonWrapper i {
-    cursor: pointer;
-}
-
-.minorMovies .imageContainer:hover img {
-    transform: scale(1.2);
-}
-.minorMovies .imageContainer:hover .watchButtonWrapper {
+.minorMovies .imageWrapper:hover .watchButtonWrapper{
+    visibility: visible;
     opacity: 1;
+    
 }
-.top-release-movie-wrapper .imageContainer:hover {
-    transform: translateX(3%);
+.minorMovies > .title {
+    font-size: 25px;
+    font-weight: 600;
+    margin: 30px 0 10px 10px;
+    padding-left: 10px;
+    border-left:  5px solid red;
+    
 }
 
-.new-movies-wrapper {
-    white-space: nowrap;
-    height: 260px;
-    position: relative;
-    user-select: none;
-    object-position: 50%;
-    overflow-x: hidden;
-    overflow-y: hidden;
-    display: flex;
-    align-items: flex-end;
-    margin-bottom: 30px;
-}
-.new-movies-wrapper .imageContainer{
-    width: 350px;
-    height: 230px;
-    overflow: hidden;
-    border-radius: 10px;
-    position: relative;
-    transition: all 0.5s ease-in;
-    margin: 0px 5px;
-}
+/* Award Movie Styles */
 
 .award-movie-style {
     width: 100%;
@@ -411,6 +345,9 @@ body {
     font-family: 'Aladin', cursive;
 
 }
+
+
+
 
 /* Pricing section style */
 #pricing {
