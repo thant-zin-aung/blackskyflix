@@ -1446,6 +1446,15 @@ body {
     }
 }
 
+@media  screen and ( min-width: 390px ) {
+    @media screen and ( min-height: 850px ) {
+        .posterWrapper {
+            height: 20vh;
+        }
+    } 
+}
+
+
 @media only screen and ( max-width: 370px ) {
     .posterWrapper {
         height: 20vh;
