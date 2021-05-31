@@ -34,9 +34,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/top_release/landscape/3.jpg",
         poster: "./img/top_release/3.jpg",
-        title: "BOSS BABY",
+        title: "THOSE WHO WISH ME DEAD",
         rating: "IMDB N/A",
-        description: "Boss Baby",
+        description: "THOSE WHO WISH ME DEAD",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -50,9 +50,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/top_release/landscape/4.jpg",
         poster: "./img/top_release/4.jpg",
-        title: "BOSS BABY",
+        title: "OXYGEN",
         rating: "IMDB N/A",
-        description: "Boss Baby",
+        description: "OXYGEN",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -66,9 +66,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/top_release/landscape/5.jpg",
         poster: "./img/top_release/5.jpg",
-        title: "BOSS BABY",
+        title: "AVENGERS: ENDGAME",
         rating: "IMDB N/A",
-        description: "Boss Baby",
+        description: "AVENGERS: ENDGAME",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -82,9 +82,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/top_release/landscape/6.jpg",
         poster: "./img/top_release/6.jpg",
-        title: "BOSS BABY",
+        title: "A QUIET PLACE",
         rating: "IMDB N/A",
-        description: "Boss Baby",
+        description: "A QUIET PLACE",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -98,9 +98,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/top_release/landscape/7.jpg",
         poster: "./img/top_release/7.jpg",
-        title: "BOSS BABY",
+        title: "ARMY OF THE DEAD",
         rating: "IMDB N/A",
-        description: "Boss Baby",
+        description: "ARMY OF THE DEAD",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -108,15 +108,15 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/tI1JGPhYBS8",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        movieLinks: "https://mega.nz/embed/7CpUVDSY#oNL3kO_7w39EdfJ8E2T5N_dBv2KmX7l52MF4DxA9SIA",
         isSeries: false
     } , 
     {
         backgroundPoster: "./img/top_release/landscape/8.jpg",
         poster: "./img/top_release/8.jpg",
-        title: "BOSS BABY",
+        title: "MORTAL KOMBAT",
         rating: "IMDB N/A",
-        description: "Boss Baby",
+        description: "MORTAL KOMBAT",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -130,9 +130,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/top_release/landscape/9.jpg",
         poster: "./img/top_release/9.jpg",
-        title: "BOSS BABY",
+        title: "NOBODY",
         rating: "IMDB N/A",
-        description: "Boss Baby",
+        description: "NOBODY",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -155,7 +155,7 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/_qyw6LC5pnE&t",
+        trailerLink: "https://www.youtube.com/embed/FqAjVAf5fNA",
         movieLinks: "https://vidcloud.msk.ru/embed4/fzpibhf59i31j?i=75bfd4f2b10e5e2f434ee214189faec1&el=4216078",
         isSeries: false
     },
@@ -181,9 +181,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/new_movies/2.jpg",
         poster: "./img/new_movies/portrait/2.jpg",
-        title: "BAD BOYS",
+        title: "FANTASY ISLAND",
         rating: "IMDB N/A",
-        description: "Bad Boys",
+        description: "FANTASY ISLAND",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -197,9 +197,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/new_movies/3.jpg",
         poster: "./img/new_movies/portrait/3.jpg",
-        title: "BAD BOYS",
+        title: "THE CALL OF WILD",
         rating: "IMDB N/A",
-        description: "Bad Boys",
+        description: "THE CALL OF WILD",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -213,9 +213,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/new_movies/4.jpg",
         poster: "./img/new_movies/portrait/4.jpg",
-        title: "BAD BOYS",
+        title: "SECRET MAGIC CONTROL AGENCY",
         rating: "IMDB N/A",
-        description: "Bad Boys",
+        description: "SECRET MAGIC CONTROL AGENCY",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -229,9 +229,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/new_movies/5.jpg",
         poster: "./img/new_movies/portrait/5.jpg",
-        title: "BAD BOYS",
+        title: "I CARE A LOT",
         rating: "IMDB N/A",
-        description: "Bad Boys",
+        description: "I CARE A LOT",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -245,9 +245,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/new_movies/6.jpg",
         poster: "./img/new_movies/portrait/6.jpg",
-        title: "BAD BOYS",
+        title: "HOLIDATE",
         rating: "IMDB N/A",
-        description: "Bad Boys",
+        description: "HOLIDATE",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -261,9 +261,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/new_movies/7.jpg",
         poster: "./img/new_movies/portrait/7.jpg",
-        title: "BAD BOYS",
+        title: "BLOODSHOT",
         rating: "IMDB N/A",
-        description: "Bad Boys",
+        description: "BLOODSHOT",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -277,9 +277,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/new_movies/8.jpg",
         poster: "./img/new_movies/portrait/8.jpg",
-        title: "BAD BOYS",
+        title: "THE CRAFT",
         rating: "IMDB N/A",
-        description: "Bad Boys",
+        description: "THE CRAFT",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -293,9 +293,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/new_movies/9.jpg",
         poster: "./img/new_movies/portrait/9.jpg",
-        title: "BAD BOYS",
+        title: "NEZHA REBORN",
         rating: "IMDB N/A",
-        description: "Bad Boys",
+        description: "NEZHA REBORN",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -309,9 +309,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/new_movies/10.jpg",
         poster: "./img/new_movies/portrait/10.jpg",
-        title: "BAD BOYS",
+        title: "A GIRL ON THE TRAIN",
         rating: "IMDB N/A",
-        description: "Bad Boys",
+        description: "A GIRL ON THE TRAIN",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -344,9 +344,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/cartoon_movies/landscape/2.jpg",
         poster: "./img/cartoon_movies/2.jpg",
-        title: "THE GOOLS",
+        title: "ONWARD",
         rating: "IMDB N/A",
-        description: "The Gools",
+        description: "ONWARD",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -360,9 +360,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/cartoon_movies/landscape/3.jpg",
         poster: "./img/cartoon_movies/3.jpg",
-        title: "THE GOOLS",
+        title: "LUCA",
         rating: "IMDB N/A",
-        description: "The Gools",
+        description: "LUCA",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -376,9 +376,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/cartoon_movies/landscape/4.jpg",
         poster: "./img/cartoon_movies/4.jpg",
-        title: "THE GOOLS",
+        title: "MAYA THE BEE 3",
         rating: "IMDB N/A",
-        description: "The Gools",
+        description: "MAYA THE BEE 3",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -392,9 +392,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/cartoon_movies/landscape/5.jpg",
         poster: "./img/cartoon_movies/5.jpg",
-        title: "THE GOOLS",
+        title: "PETER RABBIT 2",
         rating: "IMDB N/A",
-        description: "The Gools",
+        description: "PETER RABBIT 2",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -408,9 +408,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/cartoon_movies/landscape/6.jpg",
         poster: "./img/cartoon_movies/6.jpg",
-        title: "THE GOOLS",
+        title: "SOUL",
         rating: "IMDB N/A",
-        description: "The Gools",
+        description: "SOUL",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -424,9 +424,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/cartoon_movies/landscape/7.jpg",
         poster: "./img/cartoon_movies/7.jpg",
-        title: "THE GOOLS",
+        title: "SPIRIT UNTAMED",
         rating: "IMDB N/A",
-        description: "The Gools",
+        description: "SPIRIT UNTAMED",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -440,9 +440,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/cartoon_movies/landscape/8.jpg",
         poster: "./img/cartoon_movies/8.jpg",
-        title: "THE GOOLS",
+        title: "WISH DRAGON",
         rating: "IMDB N/A",
-        description: "The Gools",
+        description: "WISH DRAGON",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -456,9 +456,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/cartoon_movies/landscape/9.jpg",
         poster: "./img/cartoon_movies/9.jpg",
-        title: "THE GOOLS",
+        title: "OVER THE MOON",
         rating: "IMDB N/A",
-        description: "The Gools",
+        description: "OVER THE MOON",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -472,9 +472,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/cartoon_movies/landscape/10.jpg",
         poster: "./img/cartoon_movies/10.jpg",
-        title: "THE GOOLS",
+        title: "THE CROODS A NEW AGE",
         rating: "IMDB N/A",
-        description: "The Gools",
+        description: "THE CROODS A NEW AGE",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -525,9 +525,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/movie_series/2.jpg",
         poster: "./img/movie_series/portrait/2.jpg",
-        title: "THE HEIRS",
+        title: "DESCENDANT OF THE SUN",
         rating: "IMDB N/A",
-        description: "The Heirs",
+        description: "DESCENDANT OF THE SUN",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -555,9 +555,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/movie_series/3.jpg",
         poster: "./img/movie_series/portrait/3.jpg",
-        title: "THE HEIRS",
+        title: "DOCTOR STRANGER",
         rating: "IMDB N/A",
-        description: "The Heirs",
+        description: "DOCTOR STRANGER",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -566,14 +566,28 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/_S2IMBFHS-A",
         movieLinks: "https://www.youtube.com/embed/_S2IMBFHS-A",
-        isSeries: true
+        isSeries: true,
+        seasons: {
+            season1: {
+                thumbnailLinks: [
+                    
+
+                ],
+                videoLinks: [
+                    
+                ],
+                releaseDate: [
+                    
+                ]
+            }
+        }
     },
     {
         backgroundPoster: "./img/movie_series/4.jpg",
         poster: "./img/movie_series/portrait/4.jpg",
-        title: "THE HEIRS",
+        title: "CRASH LANDING ON YOU",
         rating: "IMDB N/A",
-        description: "The Heirs",
+        description: "CRASH LANDING ON YOU",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -631,9 +645,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/movie_series/5.jpg",
         poster: "./img/movie_series/portrait/5.jpg",
-        title: "THE HEIRS",
+        title: "SO I MARRIED TO AN ANTI FAN",
         rating: "IMDB N/A",
-        description: "The Heirs",
+        description: "SO I MARRIED TO AN ANTI FAN",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -642,14 +656,28 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/8sKHp1_tO6A",
         movieLinks: "https://www.youtube.com/embed/8sKHp1_tO6A",
-        isSeries: true
+        isSeries: true,
+        seasons: {
+            season1: {
+                thumbnailLinks: [
+                    
+
+                ],
+                videoLinks: [
+                    
+                ],
+                releaseDate: [
+                    
+                ]
+            }
+        }
     },
     {
         backgroundPoster: "./img/movie_series/6.jpg",
         poster: "./img/movie_series/portrait/6.jpg",
-        title: "THE HEIRS",
+        title: "THE KING",
         rating: "IMDB N/A",
-        description: "The Heirs",
+        description: "THE KING",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -658,14 +686,28 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/N1L1iaFZQ9I",
         movieLinks: "https://www.youtube.com/embed/N1L1iaFZQ9I",
-        isSeries: true
+        isSeries: true,
+        seasons: {
+            season1: {
+                thumbnailLinks: [
+                    
+
+                ],
+                videoLinks: [
+                    
+                ],
+                releaseDate: [
+                    
+                ]
+            }
+        }
     },
     {
         backgroundPoster: "./img/movie_series/7.jpg",
         poster: "./img/movie_series/portrait/7.jpg",
-        title: "THE HEIRS",
+        title: "MOUSE",
         rating: "IMDB N/A",
-        description: "The Heirs",
+        description: "MOUSE",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -674,14 +716,28 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/9tEvLePgANQ",
         movieLinks: "https://www.youtube.com/embed/9tEvLePgANQ",
-        isSeries: true
+        isSeries: true,
+        seasons: {
+            season1: {
+                thumbnailLinks: [
+                    
+
+                ],
+                videoLinks: [
+                    
+                ],
+                releaseDate: [
+                    
+                ]
+            }
+        }
     },
     {
         backgroundPoster: "./img/movie_series/8.jpg",
         poster: "./img/movie_series/portrait/8.jpg",
-        title: "THE HEIRS",
+        title: "DOCTOR CRUSH",
         rating: "IMDB N/A",
-        description: "The Heirs",
+        description: "DOCTOR CRUSH",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -690,7 +746,21 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/ZFTxkc1yNMo",
         movieLinks: "https://www.youtube.com/embed/ZFTxkc1yNMo",
-        isSeries: true
+        isSeries: true,
+        seasons: {
+            season1: {
+                thumbnailLinks: [
+                    
+
+                ],
+                videoLinks: [
+                    
+                ],
+                releaseDate: [
+                    
+                ]
+            }
+        }
     },
     {
         backgroundPoster: "./img/movie_series/9.jpg",
@@ -736,7 +806,21 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/e43gG2nC8Cg",
         movieLinks: "https://www.youtube.com/embed/e43gG2nC8Cg",
-        isSeries: true
+        isSeries: true,
+        seasons: {
+            season1: {
+                thumbnailLinks: [
+                    
+
+                ],
+                videoLinks: [
+                    
+                ],
+                releaseDate: [
+                    
+                ]
+            }
+        }
     },
 
 
@@ -744,17 +828,17 @@ let movie_data = [
     {
         backgroundPoster: "./img/top_movies/1.jpg",
         poster: "./img/top_movies/portrait/1.jpg",
-        title: "RAYA AND THE LAST DRAGON",
+        title: "CRUELLA",
         rating: "IMDB N/A",
-        description: "Raya And The Last Dragon",
+        description: "CRUELLA",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/1VIZ89FEjYI",
-        movieLinks: "https://www.youtube.com/embed/1VIZ89FEjYI",
+        trailerLink: "https://www.youtube.com/embed/gmRKv7n2If8",
+        movieLinks: "https://mega.nz/embed/iPp0BRSb#wX7_ZxbTB_5UhDKXO7OqZjP9Wr1mv0L5lKt1ZlMHk-M",
         isSeries: false
     },
     {
