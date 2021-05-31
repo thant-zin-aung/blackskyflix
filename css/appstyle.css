@@ -536,19 +536,21 @@ body {
 }
 .posterWrapper {
     width: 100%;
-    height: 100vh;
+    height: 75vh;
     position: relative;
 }
 .posterWrapper .imageWrapper {
     width: 100%;
     height: 100%;
+    overflow: hidden;
     position: absolute;
 }
 .posterWrapper .imageWrapper img {
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
     filter: brightness(45%);
-    object-fit: cover;
+    
+    /* object-fit: cover; */
 }
 .posterWrapper .imageOverlay {
     position: absolute;
@@ -577,6 +579,7 @@ body {
     width: 100%;
     padding: 0 100px;
     display: flex;
+    z-index: 20;
 
 }
 .detailWrapper .left {
@@ -869,6 +872,45 @@ body {
     color: red;
 }
 
+
+@media only screen and ( max-width: 1366px ) {
+    .posterWrapper {
+        height: 70vh;
+    }
+}
+
+@media only screen and ( max-width: 1250px ) {
+    .posterWrapper {
+        height: 70vh;
+    }
+}
+
+@media  screen and ( max-width: 1024px ) {
+    @media screen and ( min-height: 1100px ) {
+        .posterWrapper {
+            height: 35vh;
+        }
+    } 
+}
+@media  screen and ( max-width: 1024px ) {
+    @media screen and ( max-height: 680px ) {
+        .posterWrapper {
+            height: 60vh;
+        }
+    } 
+}
+/* @media ( max-width: 1024px ) and ( min-height: 680px ) {
+    .posterWrapper {
+        height: 65vh;
+    }
+} */
+
+@media only screen and ( max-width: 900px ) {
+    .posterWrapper {
+        height: 55vh;
+    }
+}
+
 @media only screen and ( max-width: 770px ) {
 
     .minorMovies .imageWrapper .contentWrapper .title {
@@ -889,7 +931,7 @@ body {
     /* Movie Detail Section Styles */
 
     .posterWrapper {
-        height: 70vh;
+        height: 55vh;
     }
     .posterWrapper .imageOverlay i {
         font-size: 40px;
@@ -982,6 +1024,12 @@ body {
 
 }
 
+@media only screen and ( max-width: 768px ) {
+    .posterWrapper {
+        height: 38vh;
+    }
+}
+
 @media only screen and ( min-height: 1366px ) {
     .top-movie-style .contentWrapper .content {
         top: 35%;
@@ -991,6 +1039,12 @@ body {
 @media only screen and (max-width: 671px ) {
     .main-nav-bar .right {
         display: none;
+    }
+    .main-nav-bar .menu-icon {
+        display: block;
+    }
+    .posterWrapper {
+        height: 40vh;
     }
 }
 
@@ -1090,6 +1144,10 @@ body {
     .new-movies-wrapper .imageContainer {
         width: 270px;
         height: 180px;
+    }
+
+    .posterWrapper {
+        height: 45vh;
     }
 }
 
@@ -1263,7 +1321,7 @@ body {
     /* Movie Details Style */
 
     .posterWrapper {
-        height: 50vh;
+        height: 35vh;
     }
     .posterWrapper .imageOverlay i {
         font-size: 30px;
@@ -1400,6 +1458,9 @@ body {
     }
     .seasonWrapper .episodeWrapper .left .episodeDetailWrapper .ratingAndDate {
         display: none;
+    }
+    .posterWrapper {
+        height: 30vh;
     }
 }
 @media only screen and ( max-width: 342px ) {
