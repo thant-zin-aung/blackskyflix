@@ -1329,11 +1329,11 @@ body {
         padding: 0 15px;
     }
     .detailWrapper .left {
-        width: 130px;
+        width: 120px;
         margin-right: 25px;
     }
     .detailWrapper .left .imageWrapper {
-        height: 180px;
+        height: 150px;
     }
     .likeButtonWrapper button {
         width: 90px;
@@ -1342,6 +1342,7 @@ body {
     }
     .likeButtonWrapper button i {
         margin-right: 1px;
+        display: none;
     }
     .watchNowButtonWrapper button {
         width: 100px;
