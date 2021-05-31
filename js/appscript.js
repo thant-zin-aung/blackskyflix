@@ -198,6 +198,7 @@ let addIdToMovieWatchButtons = () => {
                         seasonWrapper.css("display","none");
                         
                     }
+                    document.querySelector(".main-nav-bar").scrollIntoView();
                     // window.location.href = "./html/movie_detail.html";
                     
                     
