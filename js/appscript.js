@@ -11,8 +11,7 @@ const leftSideMenu = $(".main-nav-bar .leftside-nav-bar");
 const menuIcon = $(".main-nav-bar .menu-icon");
 const menuCloseIcon = $(".main-nav-bar .menu-close-icon");
 let watchButtons = document.querySelectorAll(".watchButtonWrapper .fa-play");
-
-
+let majorWatchButtons = document.querySelectorAll(".majorWatchButton");
 
 
 $(window).on("popstate",() => {
@@ -121,12 +120,8 @@ let seasonWrapper = $("#movieDetails .seasonWrapper");
 //     }
 // }
 
-let addIdToMovieWatchButtons = () => {
-    for ( id = 0 ; id < watchButtons.length ; id++ ) {
-        watchButtons[id].setAttribute("id",`${id}`);
-        watchButtons[id].addEventListener("click",(event) => {
-            setTimeout(() => {
-                    currentMovieDataId = event.target.getAttribute("id");
+let movie_data_manipulation = (event) => {
+    currentMovieDataId = event.target.getAttribute("id");
                     posterBackgroundImage.attr("src",`${movie_data[currentMovieDataId].backgroundPoster}`);
                     // console.log(posterBackgroundImage);
                     leftPosterImage.attr("src",`${movie_data[currentMovieDataId].poster}`);
@@ -200,15 +195,35 @@ let addIdToMovieWatchButtons = () => {
                     }
                     document.querySelector(".main-nav-bar").scrollIntoView();
                     // window.location.href = "./html/movie_detail.html";
-                    
-                    
+}
+
+let addIdToMovieWatchButtons = () => {
+    for ( id = 0 ; id < watchButtons.length ; id++ ) {
+        watchButtons[id].setAttribute("id",`${id}`);
+        watchButtons[id].addEventListener("click",(event) => {
+            setTimeout(() => {
+                    movie_data_manipulation(event);
                 });    
             }, 500);
-            
     }
 
 };
 addIdToMovieWatchButtons();
+
+let addIdToMajorWatchButtons = () => {
+    let startId = 40;
+    for ( let id = 0 ; id < majorWatchButtons.length ; id++ ) {
+        majorWatchButtons[id].setAttribute("id",`${startId}`);
+        majorWatchButtons[id].addEventListener("click",(event) => {
+            setTimeout(() => {
+                console.log("clicked");
+                movie_data_manipulation(event);
+            });    
+        }, 500);
+        ++startId;
+    }
+}
+addIdToMajorWatchButtons();
 
 menuButtons.click( () => {
     hideableSections.css("display","block");

@@ -21,8 +21,8 @@ new Splide('.splide',{
             fixedHeight: '200px'
         },
         500: {
-            fixedWidth: '110px',
-            fixedHeight: '150px',
+            fixedWidth: '120px',
+            fixedHeight: '160px',
             gap: '8px'
         }
     }
@@ -51,8 +51,8 @@ new Splide('#newMoviesSplide',{
             fixedHeight: '150px'
         },
         500: {
-            fixedWidth: '170px',
-            fixedHeight: '110px',
+            fixedWidth: '187px',
+            fixedHeight: '120px',
             gap: '8px'
         }
     }
@@ -81,8 +81,8 @@ new Splide('#cartoonSplide',{
             fixedHeight: '200px'
         },
         500: {
-            fixedWidth: '110px',
-            fixedHeight: '150px',
+            fixedWidth: '120px',
+            fixedHeight: '160px',
             gap: '8px'
         }
     }
@@ -112,8 +112,8 @@ new Splide('#seriesSplide',{
             fixedHeight: '150px'
         },
         500: {
-            fixedWidth: '170px',
-            fixedHeight: '110px',
+            fixedWidth: '187px',
+            fixedHeight: '120px',
             gap: '8px'
         }
     }

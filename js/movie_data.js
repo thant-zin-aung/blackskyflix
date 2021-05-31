@@ -174,8 +174,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/jKCj3XuPG8M",
+        movieLinks: "https://www.youtube.com/embed/jKCj3XuPG8M",
         isSeries: false
     },
     {
@@ -190,8 +190,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/a6O30nJ02PU",
+        movieLinks: "https://www.youtube.com/embed/a6O30nJ02PU",
         isSeries: false
     },
     {
@@ -222,8 +222,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/OESJJ2vZn9M",
+        movieLinks: "https://www.youtube.com/embed/OESJJ2vZn9M",
         isSeries: false
     },
     {
@@ -238,8 +238,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/D40uHmTSPew",
+        movieLinks: "https://www.youtube.com/embed/D40uHmTSPew",
         isSeries: false
     },
     {
@@ -254,8 +254,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/hxaaAoI57fk",
+        movieLinks: "https://www.youtube.com/embed/hxaaAoI57fk",
         isSeries: false
     },
     {
@@ -270,8 +270,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/vOUVVDWdXbo",
+        movieLinks: "https://www.youtube.com/embed/vOUVVDWdXbo",
         isSeries: false
     },
     {
@@ -286,8 +286,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/J60ueFp-jv8",
+        movieLinks: "https://www.youtube.com/embed/J60ueFp-jv8",
         isSeries: false
     },
     {
@@ -302,8 +302,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/4_FvK9FUG2I",
+        movieLinks: "https://www.youtube.com/embed/4_FvK9FUG2I",
         isSeries: false
     },
     {
@@ -318,8 +318,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/LE8-4aRf5VQ",
+        movieLinks: "https://www.youtube.com/embed/LE8-4aRf5VQ",
         isSeries: false
     },
     
@@ -337,8 +337,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/qXzKfEQBxJ8",
+        movieLinks: "https://www.youtube.com/embed/qXzKfEQBxJ8",
         isSeries: false
     },
     {
@@ -353,8 +353,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/nuycwaIYKDM",
+        movieLinks: "https://www.youtube.com/embed/nuycwaIYKDM",
         isSeries: false
     },
     {
@@ -369,8 +369,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/0hgHY9k-44U",
+        movieLinks: "https://www.youtube.com/embed/0hgHY9k-44U",
         isSeries: false
     },
     {
@@ -385,8 +385,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/fNQawiJ6FR8",
+        movieLinks: "https://www.youtube.com/embed/fNQawiJ6FR8",
         isSeries: false
     },
     {
@@ -401,8 +401,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/PWBcqCz7l_c",
+        movieLinks: "https://www.youtube.com/embed/PWBcqCz7l_c",
         isSeries: false
     },
     {
@@ -417,8 +417,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/txdUE10OopA",
+        movieLinks: "https://www.youtube.com/embed/txdUE10OopA",
         isSeries: false
     },
     {
@@ -433,8 +433,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/9jG1nnQGpdI",
+        movieLinks: "https://www.youtube.com/embed/9jG1nnQGpdI",
         isSeries: false
     },
     {
@@ -449,8 +449,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/uWIRyU5fuzU",
+        movieLinks: "https://www.youtube.com/embed/uWIRyU5fuzU",
         isSeries: false
     },
     {
@@ -465,8 +465,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/P_zuK_pergw",
+        movieLinks: "https://www.youtube.com/embed/P_zuK_pergw",
         isSeries: false
     },
     {
@@ -481,8 +481,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/GkXeVIfbJOw",
+        movieLinks: "https://www.youtube.com/embed/GkXeVIfbJOw",
         isSeries: false
     },
 
@@ -501,7 +501,7 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/XbQfJNtDSCI",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        movieLinks: "https://www.youtube.com/embed/XbQfJNtDSCI",
         isSeries: true,
         seasons: {
             season1: {
@@ -534,8 +534,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/3Fyrt0qByOQ",
+        movieLinks: "https://www.youtube.com/embed/3Fyrt0qByOQ",
         isSeries: true,
         seasons: {
             season1: {
@@ -564,8 +564,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/_S2IMBFHS-A",
+        movieLinks: "https://www.youtube.com/embed/_S2IMBFHS-A",
         isSeries: true
     },
     {
@@ -581,7 +581,7 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/eXMjTXL2Vks",
-        movieLinks: "",
+        movieLinks: "https://www.youtube.com/embed/eXMjTXL2Vks",
         isSeries: true,
         seasons: {
             season1: {
@@ -617,8 +617,8 @@ let movie_data = [
                     "https://mega.nz/embed/7S4kFC6K#XH3AQqHUYJq3Y1f7c8qUhiozbm_H9YMajalZzFHkde4",
                     "https://mega.nz/embed/mG4A0YhZ#NLzxRbhaVI8KBNQi7zGHYLRPfrsqArzL9iw8IguJMaE",
                     "https://mega.nz/embed/SGxEjKxB#q-RVysPJZ4aMZjnG3tdcpT-st_Szjimgnjt5bVIXzKA",
-                    // "https://mega.nz/embed/SGxEjKxB#q-RVysPJZ4aMZjnG3tdcpT-st_Szjimgnjt5bVIXzKA",
-                    // "https://mega.nz/embed/uO5k0KAZ#3JrFvyt3Ibns3syNGaISJhDAPn163pf-CE3rfrAkg0U",
+                    "https://mega.nz/embed/SGxEjKxB#q-RVysPJZ4aMZjnG3tdcpT-st_Szjimgnjt5bVIXzKA",
+                    "https://mega.nz/embed/uO5k0KAZ#3JrFvyt3Ibns3syNGaISJhDAPn163pf-CE3rfrAkg0U",
                     // "https://mega.nz/embed/Ke4AQSrA#8E3rO7uXM4qR621Ea4zKRR6MHcqZ8CVXMQhBOasTE2A",
                     // "https://mega.nz/embed/qWp2kABa#MYrIiDKyumDoiPXKKJn5pflJsXSJhCpc7Ur5r0eq3Ec"
                 ],
@@ -640,8 +640,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/8sKHp1_tO6A",
+        movieLinks: "https://www.youtube.com/embed/8sKHp1_tO6A",
         isSeries: true
     },
     {
@@ -656,8 +656,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/N1L1iaFZQ9I",
+        movieLinks: "https://www.youtube.com/embed/N1L1iaFZQ9I",
         isSeries: true
     },
     {
@@ -672,8 +672,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/9tEvLePgANQ",
+        movieLinks: "https://www.youtube.com/embed/9tEvLePgANQ",
         isSeries: true
     },
     {
@@ -688,8 +688,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/ZFTxkc1yNMo",
+        movieLinks: "https://www.youtube.com/embed/ZFTxkc1yNMo",
         isSeries: true
     },
     {
@@ -704,8 +704,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/XbQfJNtDSCI",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/GqnQs5ybyq8",
+        movieLinks: "https://www.youtube.com/embed/GqnQs5ybyq8",
         isSeries: true,
         seasons: {
             season1: {
@@ -734,9 +734,112 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        trailerLink: "https://www.youtube.com/embed/e43gG2nC8Cg",
+        movieLinks: "https://www.youtube.com/embed/e43gG2nC8Cg",
         isSeries: true
     },
+
+
+    // Top Movie Data
+    {
+        backgroundPoster: "./img/top_movies/1.jpg",
+        poster: "./img/top_movies/portrait/1.jpg",
+        title: "RAYA AND THE LAST DRAGON",
+        rating: "IMDB N/A",
+        description: "Raya And The Last Dragon",
+        release: "2021-03-18",
+        genre: "Comedy,Animation,Family",
+        casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
+        duration: "97min",
+        country: "The United States Of America",
+        production: "DreamWorks Animation",
+        trailerLink: "https://www.youtube.com/embed/1VIZ89FEjYI",
+        movieLinks: "https://www.youtube.com/embed/1VIZ89FEjYI",
+        isSeries: false
+    },
+    {
+        backgroundPoster: "./img/top_movies/2.jpg",
+        poster: "./img/top_movies/portrait/2.jpg",
+        title: "BLACK WIDOW",
+        rating: "IMDB N/A",
+        description: "Black Widow",
+        release: "2021-03-18",
+        genre: "Comedy,Animation,Family",
+        casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
+        duration: "97min",
+        country: "The United States Of America",
+        production: "DreamWorks Animation",
+        trailerLink: "https://www.youtube.com/embed/Fp9pNPdNwjI",
+        movieLinks: "https://www.youtube.com/embed/Fp9pNPdNwjI",
+        isSeries: false
+    },
+    {
+        backgroundPoster: "./img/top_movies/3.jpg",
+        poster: "./img/top_movies/portrait/3.jpg",
+        title: "HOTEL TRANSYLVANIA 4",
+        rating: "IMDB N/A",
+        description: "Hotel Translylvania 4",
+        release: "2021-03-18",
+        genre: "Comedy,Animation,Family",
+        casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
+        duration: "97min",
+        country: "The United States Of America",
+        production: "DreamWorks Animation",
+        trailerLink: "https://www.youtube.com/embed/GN96y9HgZa0",
+        movieLinks: "https://www.youtube.com/embed/GN96y9HgZa0",
+        isSeries: false
+    },
+
+    
+    // Award Movies Data
+    {
+        backgroundPoster: "./img/award_movies/1.jpg",
+        poster: "./img/award_movies/portrait/1.jpg",
+        title: "MULAN",
+        rating: "IMDB N/A",
+        description: "Mulan",
+        release: "2021-03-18",
+        genre: "Comedy,Animation,Family",
+        casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
+        duration: "97min",
+        country: "The United States Of America",
+        production: "DreamWorks Animation",
+        trailerLink: "https://www.youtube.com/embed/H3PR1v_5cfc",
+        movieLinks: "https://www.youtube.com/embed/H3PR1v_5cfc",
+        isSeries: false
+    },
+    {
+        backgroundPoster: "./img/award_movies/2.jpg",
+        poster: "./img/award_movies/portrait/2.jpg",
+        title: "JOKER",
+        rating: "IMDB N/A",
+        description: "Joker",
+        release: "2021-03-18",
+        genre: "Comedy,Animation,Family",
+        casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
+        duration: "97min",
+        country: "The United States Of America",
+        production: "DreamWorks Animation",
+        trailerLink: "https://www.youtube.com/embed/-_DJEzZk2pc",
+        movieLinks: "https://www.youtube.com/embed/-_DJEzZk2pc",
+        isSeries: false
+    },
+    {
+        backgroundPoster: "./img/award_movies/3.jpg",
+        poster: "./img/award_movies/portrait/3.jpg",
+        title: "HOW TO TRAIN YOUR DRAGON: THE HIDDEN WORLD",
+        rating: "IMDB N/A",
+        description: "How To Train Your Dragon: The Hidden World",
+        release: "2021-03-18",
+        genre: "Comedy,Animation,Family",
+        casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
+        duration: "97min",
+        country: "The United States Of America",
+        production: "DreamWorks Animation",
+        trailerLink: "https://www.youtube.com/embed/SkcucKDrbOI",
+        movieLinks: "https://www.youtube.com/embed/SkcucKDrbOI",
+        isSeries: false
+    },
+
 
 ]
