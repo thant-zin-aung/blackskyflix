@@ -12,7 +12,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     } , 
     {
@@ -28,7 +32,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/odM92ap8_c0",
-        movieLinks: "https://vidcloud.msk.ru/embed4/fnuc2ucq88f96?i=75bfd4f2b10e5e2f434ee214189faec1&el=4149002",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     } , 
     {
@@ -44,7 +52,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/sV6VNNjBkcE",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     } , 
     {
@@ -60,7 +72,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/8IqXgZd-P98",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     } , 
     {
@@ -76,7 +92,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/TcMBFSGVi1c",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     } , 
     {
@@ -92,7 +112,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/BpdDN9d9Jio",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     } , 
     {
@@ -108,7 +132,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/tI1JGPhYBS8",
-        movieLinks: "https://mega.nz/embed/7CpUVDSY#oNL3kO_7w39EdfJ8E2T5N_dBv2KmX7l52MF4DxA9SIA",
+        movieLinks: {
+            sd: "",
+            hd: "https://mega.nz/embed/2OByQDxK#elz0kkPNoJR0fFEmPSZX_nD-UID2nd1ZCLZO_TfWSwM",
+            fhd: "https://mega.nz/embed/rKY0EZQC#fHa18eJnzDfCCR_X2VXdKETJDnNdyRBCIn_ZdLuiJKw"
+        },
         isSeries: false
     } , 
     {
@@ -124,7 +152,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/-BQPKD7eozY",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     } , 
     {
@@ -140,7 +172,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/wZti8QKBWPo",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     } , 
     {
@@ -156,7 +192,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/FqAjVAf5fNA",
-        movieLinks: "https://vidcloud.msk.ru/embed4/fzpibhf59i31j?i=75bfd4f2b10e5e2f434ee214189faec1&el=4216078",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
 
@@ -175,7 +215,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/jKCj3XuPG8M",
-        movieLinks: "https://www.youtube.com/embed/jKCj3XuPG8M",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -191,7 +235,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/a6O30nJ02PU",
-        movieLinks: "https://www.youtube.com/embed/a6O30nJ02PU",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -207,7 +255,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
-        movieLinks: "https://www.youtube.com/embed/EWizz52lZvw",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -223,7 +275,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/OESJJ2vZn9M",
-        movieLinks: "https://www.youtube.com/embed/OESJJ2vZn9M",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -239,7 +295,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/D40uHmTSPew",
-        movieLinks: "https://www.youtube.com/embed/D40uHmTSPew",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -255,7 +315,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/hxaaAoI57fk",
-        movieLinks: "https://www.youtube.com/embed/hxaaAoI57fk",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -271,7 +335,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/vOUVVDWdXbo",
-        movieLinks: "https://www.youtube.com/embed/vOUVVDWdXbo",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -287,7 +355,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/J60ueFp-jv8",
-        movieLinks: "https://www.youtube.com/embed/J60ueFp-jv8",
+        movieLinks: {
+            sd: "https://mega.nz/embed/fXBwFRoD#afleSYn-WBaRq_MUhhBPdi7AE8rRvtHXHp8FeVJPMTg",
+            hd: "https://mega.nz/embed/WTRy1ZQI#S-QZpFWNUQhX9qLDaepf-aBPbseb5aMIP8J98gEUFcM",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -303,7 +375,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/4_FvK9FUG2I",
-        movieLinks: "https://www.youtube.com/embed/4_FvK9FUG2I",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -319,7 +395,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/LE8-4aRf5VQ",
-        movieLinks: "https://www.youtube.com/embed/LE8-4aRf5VQ",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     
@@ -338,7 +418,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/qXzKfEQBxJ8",
-        movieLinks: "https://www.youtube.com/embed/qXzKfEQBxJ8",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -354,7 +438,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/nuycwaIYKDM",
-        movieLinks: "https://www.youtube.com/embed/nuycwaIYKDM",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -370,7 +458,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/0hgHY9k-44U",
-        movieLinks: "https://www.youtube.com/embed/0hgHY9k-44U",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -386,7 +478,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/fNQawiJ6FR8",
-        movieLinks: "https://www.youtube.com/embed/fNQawiJ6FR8",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -402,7 +498,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/PWBcqCz7l_c",
-        movieLinks: "https://www.youtube.com/embed/PWBcqCz7l_c",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -418,7 +518,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/txdUE10OopA",
-        movieLinks: "https://www.youtube.com/embed/txdUE10OopA",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -434,7 +538,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/9jG1nnQGpdI",
-        movieLinks: "https://www.youtube.com/embed/9jG1nnQGpdI",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -450,7 +558,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/uWIRyU5fuzU",
-        movieLinks: "https://www.youtube.com/embed/uWIRyU5fuzU",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -466,7 +578,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/P_zuK_pergw",
-        movieLinks: "https://www.youtube.com/embed/P_zuK_pergw",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -482,7 +598,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/GkXeVIfbJOw",
-        movieLinks: "https://www.youtube.com/embed/GkXeVIfbJOw",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
 
@@ -633,8 +753,8 @@ let movie_data = [
                     "https://mega.nz/embed/SGxEjKxB#q-RVysPJZ4aMZjnG3tdcpT-st_Szjimgnjt5bVIXzKA",
                     "https://mega.nz/embed/PWhElYpS#6l5Bd6ZZkUZVXrro1FqttsoC45-pBwh8ledFI0BeSkw",
                     "https://mega.nz/embed/uO5k0KAZ#3JrFvyt3Ibns3syNGaISJhDAPn163pf-CE3rfrAkg0U",
-                    // "https://mega.nz/embed/Ke4AQSrA#8E3rO7uXM4qR621Ea4zKRR6MHcqZ8CVXMQhBOasTE2A",
-                    // "https://mega.nz/embed/qWp2kABa#MYrIiDKyumDoiPXKKJn5pflJsXSJhCpc7Ur5r0eq3Ec"
+                    "https://mega.nz/embed/Ke4AQSrA#8E3rO7uXM4qR621Ea4zKRR6MHcqZ8CVXMQhBOasTE2A",
+                    "https://mega.nz/embed/qWp2kABa#MYrIiDKyumDoiPXKKJn5pflJsXSJhCpc7Ur5r0eq3Ec"
                 ],
                 releaseDate: [
                     "3 Mar, 2021"
@@ -838,7 +958,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/gmRKv7n2If8",
-        movieLinks: "https://mega.nz/embed/iPp0BRSb#wX7_ZxbTB_5UhDKXO7OqZjP9Wr1mv0L5lKt1ZlMHk-M",
+        movieLinks: {
+            sd: "https://mega.nz/embed/GC4S2CbC#bgarghtsnCuCbr8EhN7sCTRnWAO-h5pF671ppIxQMWw",
+            hd: "https://mega.nz/embed/iPp0BRSb#wX7_ZxbTB_5UhDKXO7OqZjP9Wr1mv0L5lKt1ZlMHk-M",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -854,7 +978,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/Fp9pNPdNwjI",
-        movieLinks: "https://www.youtube.com/embed/Fp9pNPdNwjI",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -870,7 +998,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/GN96y9HgZa0",
-        movieLinks: "https://www.youtube.com/embed/GN96y9HgZa0",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
 
@@ -889,7 +1021,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/H3PR1v_5cfc",
-        movieLinks: "https://www.youtube.com/embed/H3PR1v_5cfc",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -905,7 +1041,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/-_DJEzZk2pc",
-        movieLinks: "https://www.youtube.com/embed/-_DJEzZk2pc",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
     {
@@ -921,7 +1061,11 @@ let movie_data = [
         country: "The United States Of America",
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/SkcucKDrbOI",
-        movieLinks: "https://www.youtube.com/embed/SkcucKDrbOI",
+        movieLinks: {
+            sd: "",
+            hd: "",
+            fhd: ""
+        },
         isSeries: false
     },
 

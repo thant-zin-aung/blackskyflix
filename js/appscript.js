@@ -12,7 +12,8 @@ const menuIcon = $(".main-nav-bar .menu-icon");
 const menuCloseIcon = $(".main-nav-bar .menu-close-icon");
 let watchButtons = document.querySelectorAll(".watchButtonWrapper .fa-play");
 let majorWatchButtons = document.querySelectorAll(".majorWatchButton");
-
+let resButtons = document.querySelectorAll(".resolutionWrapper button");
+let resButtonsWrapper = $(".resolutionWrapper");
 
 $(window).on("popstate",() => {
     // movieDetailSection.css("display","none");
@@ -71,7 +72,7 @@ watchNowButtons.click( () => {
     moviePlayer.css("opacity","1");
     movie.css("transform","translateY(0%)");
     body.css("overflow-y","hidden");
-    moviePLayerIframe.attr("src",`${movie_data[currentMovieDataId].movieLinks}`);
+    moviePLayerIframe.attr("src",`${movie_data[currentMovieDataId].trailerLink}`);
     
 });
 closeMovieButton.click( () => {
@@ -141,6 +142,7 @@ let movie_data_manipulation = (event) => {
                         let seasonNumber = $(".seasonNumber");
                         let episodeWrappers = document.querySelectorAll(".episodeWrapper");
                         seasonNumber.remove();
+                        resButtonsWrapper.css("display","none");
                         for ( let id=0 ; id < episodeWrappers.length ; id++ ) {
                             episodeWrappers[id].remove();
                         }
@@ -191,6 +193,26 @@ let movie_data_manipulation = (event) => {
                             episodeWrappers[id].remove();
                         }
                         seasonWrapper.css("display","none");
+
+
+                        if ( movie_data[currentMovieDataId].movieLinks.sd === "" ) resButtons[0].style.display="none";
+                        if ( movie_data[currentMovieDataId].movieLinks.hd === "" ) resButtons[1].style.display="none";
+                        if ( movie_data[currentMovieDataId].movieLinks.fhd === "" ) resButtons[2].style.display="none";
+
+
+                        for ( let resId = 0 ; resId < resButtons.length ; resId++ ) {
+                            resButtons[resId].addEventListener("click",() => {
+                                let currentResLink = "";
+                                if ( resId === 0 ) currentResLink = movie_data[currentMovieDataId].movieLinks.sd;
+                                if ( resId === 1 ) currentResLink = movie_data[currentMovieDataId].movieLinks.hd;
+                                if ( resId === 2 ) currentResLink = movie_data[currentMovieDataId].movieLinks.fhd;
+                                moviePlayer.css("visibility","visible");
+                                moviePlayer.css("opacity","1");
+                                movie.css("transform","translateY(0%)");
+                                body.css("overflow-y","hidden");
+                                moviePLayerIframe.attr("src",`${currentResLink}`);
+                            });
+                        }
                         
                     }
                     document.querySelector(".main-nav-bar").scrollIntoView();
@@ -198,7 +220,7 @@ let movie_data_manipulation = (event) => {
 }
 
 let addIdToMovieWatchButtons = () => {
-    for ( id = 0 ; id < watchButtons.length ; id++ ) {
+    for ( var id = 0 ; id < watchButtons.length ; id++ ) {
         watchButtons[id].setAttribute("id",`${id}`);
         watchButtons[id].addEventListener("click",(event) => {
             setTimeout(() => {
@@ -211,8 +233,8 @@ let addIdToMovieWatchButtons = () => {
 addIdToMovieWatchButtons();
 
 let addIdToMajorWatchButtons = () => {
-    let startId = 40;
-    for ( let id = 0 ; id < majorWatchButtons.length ; id++ ) {
+    var startId = 40;
+    for ( var id = 0 ; id < majorWatchButtons.length ; id++ ) {
         majorWatchButtons[id].setAttribute("id",`${startId}`);
         majorWatchButtons[id].addEventListener("click",(event) => {
             setTimeout(() => {
