@@ -34,8 +34,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/odM92ap8_c0",
         movieLinks: {
             sd: "",
-            hd: "https://mega.nz/embed/6aJDGajY#Hu5LPCqq_rKDMERqBMhkpyoMNGpD5_0HGNk1PKd3ttI",
-            fhd: "https://mega.nz/embed/bGAkWRbQ#Dy_QElg6QPHXmwaWio0U6mXJH_pj1skBHgEKWmcbiUA"
+            hd: "https://p-def7.pcloud.com/cBZFYBKVDZVw9t1gZZZ68hRv7Z2ZZRMZkZmYcyL7Zz0ZDXZEJZMFZoZDFZCpZGVZpkZbkZ4FZY5ZGHZOFZMb0MXZhok7qEST0jpq3i0YBLk50LSAL8dX/Godzilla%20vs%20Kong%20720p.mp4",
+            fhd: "https://p-def4.pcloud.com/cBZT9LVVDZEC8t1gZZZ68hRv7Z2ZZRMZkZU9fiekZepZhRZAFZmHZyRZpRZMpZdpZSFZpVZppZmkZ85ZqFZPb0MXZUIG5JRFAymfz0pTM62lEuYdlLesV/Godzilla%20vs%20Kong%201080p.mp4"
         },
         isSeries: false
     } , 
@@ -54,8 +54,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/sV6VNNjBkcE",
         movieLinks: {
             sd: "",
-            hd: "https://mega.nz/embed/6W42wIyA#xlTyWvjKDnxdItXSowp-Zm8BVD4VY1DAbMfchEikM38",
-            fhd: "https://mega.nz/embed/2XxAwCzI#nkwvgZaVhr3KUncKiixIR2RUfME_nsqoBSuez0sSJQE"
+            hd: "https://p-def5.pcloud.com/cfZcTQE51ZvXlmDgZpAH47ZZmGLRv7ZQ5ZZRMZZCr2GGZukZKVZHzZc0ZoFZOHZQzZ2HZjFZYkZL5ZSRZbZOJZMwW7iHaan0mhHaydjm50LbNlc6JV/Those%20Who%20Wish%20Me%20Dead%20720p.mp4",
+            fhd: "https://p-def8.pcloud.com/cfZJec651ZUiOmDgZpAH47ZZFvLRv7ZQ5ZZRMZZd7HvvZqFZCJZRHZR7ZX0ZIVZj7ZA0ZP5ZipZM7ZFpZXkZBzZw7VTtzaWPDYW6eesoaSRQLivvIHV/Those%20Who%20Wish%20Me%20Dead%201080p.mp4"
         },
         isSeries: false
     } , 
@@ -73,9 +73,9 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/8IqXgZd-P98",
         movieLinks: {
-            sd: "",
-            hd: "",
-            fhd: ""
+            sd: "https://p-def5.pcloud.com/cBZlsllJ1ZlAma1gZZZlobRv7Z2ZZRMZkZh5gLKZR5ZVZKFZcHZ0pZjzZNFZ0zZXHZsFZl7ZCHZQpZuHZW40MXZsLYbsqMNDGm3wtJUrVNOFB2cKj3y/Oxygen%20480p.mp4",
+            hd: "https://p-def1.pcloud.com/cBZBAtlJ1ZAMja1gZZZ6obRv7Z2ZZRMZkZbyeHfZNpZSXZ7zZ3XZmHZcpZNJZaFZL5ZT5ZgkZA5Zf5Z6HZD40MXZvhgt7pDzsiLXcOIbf4PU3holf8My/Oxygen%20720p.mp4",
+            fhd: "https://p-def2.pcloud.com/cBZozSlJ1ZM02a1gZZZOobRv7Z2ZZRMZkZ9KU4G7ZQkZVJZGkZGFZYZwXZoHZTFZekZF7ZR5ZNHZCJZ2JZC40MXZfUStsRgapvjilURVJWDU4Ros54Yk/Oxygen%201080p.mp4"
         },
         isSeries: false
     } , 
@@ -95,7 +95,7 @@ let movie_data = [
         movieLinks: {
             sd: "",
             hd: "",
-            fhd: "https://mega.nz/embed/DaoiCQpb#kDsLR8Y94wOBOYSSj7AfpeKB5p-xsS5m_00H_Bqnuk8"
+            fhd: "https://p-def1.pcloud.com/cBZCJdCdjZlhgl1gZZZt8hRv7Z2ZZRMZkZoFyOUXZ1pZXHZnzZqpZbRZjzZQHZUHZYRZMFZFHZAFZpzZKpZ2b0MXZbbKxkeAomumaB3PpLueNu7HBtW3X/Avengers%20-%20Endgame%201080p.mp4"
         },
         isSeries: false
     } , 
@@ -134,8 +134,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/tI1JGPhYBS8",
         movieLinks: {
             sd: "",
-            hd: "https://mega.nz/embed/2OByQDxK#elz0kkPNoJR0fFEmPSZX_nD-UID2nd1ZCLZO_TfWSwM",
-            fhd: "https://mega.nz/embed/rKY0EZQC#fHa18eJnzDfCCR_X2VXdKETJDnNdyRBCIn_ZdLuiJKw"
+            hd: "https://p-lux1.pcloud.com/cfZx9PE51ZyerYDgZpAH47ZZf0RRv7ZQ5ZZ8MZZ5pPmf7ZApZXHZc5ZLHZSFZQRZGkZs5ZoHZzzZ5HZhzZc7ZCJZrqdAxnoUdHyqB9GGy4MHiHDEuT4y/Army%20of%20the%20Dead%20720p.mp4",
+            fhd: "https://p-lux4.pcloud.com/cfZPwNq71ZXpYmDgZpAH47ZZH5RRv7ZQ5ZZ8MZZt9su27ZUFZHHZuzZr7ZOXZCFZPpZz7ZtzZh0ZyVZbRZ0pZtFZzCmJq7xj7Yh7fBXVKQQ3fzPxGEA7/Army%20of%20the%20dead%201080p.mp4"
         },
         isSeries: false
     } , 
@@ -154,7 +154,7 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/-BQPKD7eozY",
         movieLinks: {
             sd: "",
-            hd: "https://mega.nz/embed/aHAlFaaJ#AF3IxODgIHL_aSDrEhmhQ_z7XN-T9qwjHRRT46mMFVY",
+            hd: "https://p-def5.pcloud.com/cBZnhKwsDZkKOt1gZZZ68hRv7Z2ZZRMZkZxwbqs7ZMzZr7ZkRZO5ZHRZKVZeRZVzZvFZuJZBzZmRZlzZapZxb0MXZdfjVpiU6APzfhIBn2hx7rJ3wPT17/Mortal%20Kombat%202021%20720p.mp4",
             fhd: ""
         },
         isSeries: false
@@ -174,8 +174,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/wZti8QKBWPo",
         movieLinks: {
             sd: "",
-            hd: "https://mega.nz/embed/3G4CEKLD#UbhU-58KFyIiob76n8OJZvI_ymdJwEFU23Y9_H52Kg8",
-            fhd: "https://mega.nz/embed/bXxGSIgB#Su31mxzpac9vFZslQSYMQ27uHSdkzohH6Z-C341Tgc4"
+            hd: "https://p-def2.pcloud.com/cfZot1OhDZGeWmDgZpAH47ZZ2rRRv7ZQ5ZZRMZZrbrNAZDHZHpZazZCzZs5ZozZnRZNFZaHZqzZKFZFpZzRZezZECzUNe0rV2kTOlHOsJi7XBNO4uKy/Nobody%20720p.mp4",
+            fhd: "https://p-def3.pcloud.com/cfZPHnJSDZg7DmDgZpAH47ZZarRRv7ZQ5ZZRMZZPWY7tZNFZnzZLRZMRZsHZfzZi7ZYHZGHZj5Z6zZwFZCFZ0HZOyMD6wnA1Ouwxw8THwNwXufXB68X/Nobody%201080p.mp4"
         },
         isSeries: false
     } , 
@@ -216,8 +216,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/jKCj3XuPG8M",
         movieLinks: {
-            sd: "https://mega.nz/embed/iDJxiaZB#M2FlL7smdv9-C9U4rCpKJZ_gEwVUDcoNNCfJDIDz9oM",
-            hd: "https://mega.nz/embed/eaRV2IzA#uyFrU_PGbT6MHGY88W7amAaArXt3B7rVV3pTWFNuryE",
+            sd: "https://p-def6.pcloud.com/cBZkxvCJ1Zl51E1gZZZMphRv7Z2ZZRMZkZbvEU9Zh7ZqHZsHZ4zZNHZCJZpZmpZjJZyHZ9XZlZg0ZuVZKQ0MXZdMe4jehXBtm6gs76DMJciL5qaebX/Bad%20Boys%20For%20Life%20480p.mp4",
+            hd: "https://p-def3.pcloud.com/cBZ4sRFPBZp4TE1gZZZgphRv7Z2ZZRMZkZoyznb7ZrzZrpZcFZlJZvHZFzZ5HZSzZ6zZ9pZ6HZ7zZCzZMpZqQ0MXZ8XJt6GuvxQ5edAYr4i8wt7zE5tOk/Bad%20Boys%20For%20Life%20720p.mp4",
             fhd: ""
         },
         isSeries: false
@@ -236,8 +236,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/a6O30nJ02PU",
         movieLinks: {
-            sd: "https://mega.nz/embed/qfYh1Kaa#0D-lapTf6FqX-XR0pOrCz2xKWooiJ7K_C3cmiooS2yU",
-            hd: "https://mega.nz/embed/jeIEELib#CPipboclJ7bdRrXsvH8kCgZkkcohLFjbyIfnMabKBtE",
+            sd: "https://p-def2.pcloud.com/cBZlmSCJ1ZQuK61gZZZlphRv7Z2ZZRMZkZBhvOeZn0ZdFZ3VZOFZN7ZwXZIJZhpZtZHZ2JZSzZLHZdkZaQ0MXZWi3OuxEleDHsJCrPzxcMVLxq1wyk/Fantasy%20Island%20480p.mp4",
+            hd: "https://p-def5.pcloud.com/cBZekuCJ1ZJjq61gZZZtphRv7Z2ZZRMZkZSeqhJ7ZgHZ9pZq7ZU0ZoHZaXZakZBHZg0ZSzZFXZUHZBpZKFZvQ0MXZAlkiudkPwL0ybUxYRisz2hzDyFWy/Fantasy%20Island%20720p.mp4",
             fhd: ""
         },
         isSeries: false
@@ -256,8 +256,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
         movieLinks: {
-            sd: "https://mega.nz/embed/6bRHBAYA#7ovxWn23W7jkXj5hv7zGl2JU_hjE-iSin2s1o8Y_Qvc",
-            hd: "https://mega.nz/embed/aHJG2TJZ#NTjbn2rU16i3OV50jP_WDQCEppvP51R2d02rW-zENw0",
+            sd: "https://p-def4.pcloud.com/cBZPrIxJ1ZrIEO1gZZZ7HhRv7Z2ZZRMZkZx2lhjZepZ5HZmXZN7ZW7ZLkZBpZypZS7ZKHZcZ6HZCFZgHZHY0MXZb0esm7JGTVzLIhFBMtJKjmugWbNy/The%20Call%20Of%20The%20Wild%20480p.mp4",
+            hd: "https://p-def4.pcloud.com/cBZIsriY2ZJAIO1gZZZXHhRv7Z2ZZRMZkZ9yB9J7ZxpZeHZGpZopZlHZ7zZazZjHZ9zZ8zZDzZEzZEHZNFZ4Y0MXZv4egjKKPBobbxelHVOuEsbvKjOIV/The%20Call%20Of%20The%20Wild%20720p.mp4",
             fhd: ""
         },
         isSeries: false
@@ -297,8 +297,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/D40uHmTSPew",
         movieLinks: {
             sd: "",
-            hd: "https://mega.nz/embed/bXAxEY4Q#z6b8U2tozde1fC6DOSPNqvlhrMM73JIaho9zE1EaRlk",
-            fhd: "https://mega.nz/embed/PbBQ3ZYb#n3thAbl4IvS4jDgA5Idw8zI6NdYDFScU5GvortkcXpo"
+            hd: "https://p-def1.pcloud.com/cBZjgxxpDZ7SVE1gZZZGphRv7Z2ZZRMZkZClKdLkZ1zZepZNzZGFZ6zZJzZIpZzzZBpZOpZkRZ2HZWRZrkZJY0MXZHq7fTI1OD9Lox8bFG6H7fFR79lWy/ICAL%20720p.mp4",
+            fhd: "https://p-def4.pcloud.com/cBZVWlxJ1ZnqgO1gZZZrphRv7Z2ZZRMZkZqknHXXZ57ZdFZU7ZIJZyzZTHZJXZEFZSHZRVZM5ZOHZhJZypZFY0MXZeEhI2jWh7SJxiQLA7f5J8LMAhMzy/ICAL%201080p.mp4"
         },
         isSeries: false
     },
@@ -316,8 +316,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/hxaaAoI57fk",
         movieLinks: {
-            sd: "https://mega.nz/embed/GDAmlDQB#tr-t8SRfl-loqX1sypQzrJnQwONdS-SvypiL4Ggh44g",
-            hd: "https://mega.nz/embed/iDJxiaZB#M2FlL7smdv9-C9U4rCpKJZ_gEwVUDcoNNCfJDIDz9oM",
+            sd: "https://p-def5.pcloud.com/cBZY1fCJ1ZxWE61gZZZEphRv7Z2ZZRMZkZUFcxDZQZq7ZUkZlJZ8pZeHZepZKVZQkZFJZszZg0ZqpZTVZcQ0MXZ2tGaA9WjHMBgfa0roRsHV4qMCi8y/Holidate%20480p.mp4",
+            hd: "https://p-def8.pcloud.com/cBZ6akkX1ZUo361gZZZAphRv7Z2ZZRMZkZhmreJ7ZvFZfpZ7RZiHZf5ZyVZQzZ70ZNZSHZDFZWXZkHZFFZ0Y0MXZAErGJNocyqzyoVgpTtTMIuOIU87k/Holidate%20720p.mp4",
             fhd: ""
         },
         isSeries: false
@@ -356,8 +356,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/J60ueFp-jv8",
         movieLinks: {
-            sd: "https://mega.nz/embed/fXBwFRoD#afleSYn-WBaRq_MUhhBPdi7AE8rRvtHXHp8FeVJPMTg",
-            hd: "https://mega.nz/embed/WTRy1ZQI#S-QZpFWNUQhX9qLDaepf-aBPbseb5aMIP8J98gEUFcM",
+            sd: "https://p-def4.pcloud.com/cBZT1sIT2Z77KA1gZZZ8cbRv7Z2ZZRMZkZ5zQAjZmJZpHZjHZFFZn5ZeVZTpZGFZ5zZLVZv5ZT7ZhzZkkZtL0MXZwJyx4Tdc6EumVyp567bmCbA2wIeV/The%20Craft%20480p.mp4",
+            hd: "https://p-def7.pcloud.com/cBZXz0OT2ZKEEA1gZZZQcbRv7Z2ZZRMZkZDUNAy7Z1HZHzZFFZtHZlHZRHZWRZXzZ6pZvHZ8HZSRZ2zZopZUL0MXZN5VqgaGS8BpyvCn1vqs6bYyjGS4V/The%20Craft%20%20720p.mp4",
             fhd: ""
         },
         isSeries: false
@@ -397,8 +397,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/LE8-4aRf5VQ",
         movieLinks: {
             sd: "",
-            hd: "",
-            fhd: ""
+            hd: "https://p-def5.pcloud.com/cBZoQgdJ1ZWqM31gZZZrxbRv7Z2ZZRMZkZzNFR07Zg0Z7JZgHZkzZfpZezZvpZ3VZuHZdFZ17ZLzZSFZbHZ050MXZhBVKLb6xzgFNleNIO7tdRHF22ftV/The%20Girl%20On%20The%20Train%20720p.mp4",
+            fhd: "https://p-def8.pcloud.com/cBZ2yhdJ1Z37p31gZZZ7rbRv7Z2ZZRMZkZQrNYpkZ5HZOHZOpZX0ZJFZVHZvkZgFZiHZqXZbHZwpZgkZDFZLL0MXZroXBqPuUYd0aSgwm6b203ur4uuUX/The%20Girl%20On%20The%20Train%201080p.mp4"
         },
         isSeries: false
     },
@@ -560,7 +560,7 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/uWIRyU5fuzU",
         movieLinks: {
             sd: "",
-            hd: "https://mega.nz/embed/XDQBECzJ#vq7RvqwDTHqq28CyjvQRVsmRZBgEf1WGAkLG7uQgbpA",
+            hd: "https://p-def4.pcloud.com/cBZ39vhyDZM1SN1gZZZcvbRv7Z2ZZRMZkZJKk467ZnzZopZyRZf7ZOFZCXZtJZnRZvFZk7ZQRZOkZUpZpRZxR0MXZCBMpJcpRk3uGX1lIirS3JJNt8spX/Wish%20Dragon%202021%20720p.mp4",
             fhd: ""
         },
         isSeries: false
@@ -599,9 +599,9 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/GkXeVIfbJOw",
         movieLinks: {
-            sd: "https://mega.nz/embed/vDREzTDI#JsLJHun_SDGR0Zdd0eclnlQ9x-OBJjGYpE-mwvZNdgc",
-            hd: "https://mega.nz/embed/LeIUzJ5T#tzEuXLPGBJvq3X32Je_OvCJbd4Vkz6xhA30T1Yuyusc",
-            fhd: "https://mega.nz/embed/zDJETbhb#CplLP_j4rAa9_kBdUbwLJDajhO2uAg9fN0LqiPw89nY"
+            sd: "https://p-def2.pcloud.com/cBZsVnKJ1ZzgUA1gZZZKdbRv7Z2ZZRMZkZmvCn2ZaVZ0FZ5JZvpZ2HZg0Z6JZaFZP5Z2FZppZlpZXzZIHZkJ0MXZqKQIEV7koDjdadL8vXquy0RfT3Iy/The%20Croods%20A%20New%20Age%20480p.mp4",
+            hd: "https://p-def5.pcloud.com/cBZYTGhyDZwYkN1gZZZEdbRv7Z2ZZRMZkZv9g3Q7ZNHZnzZkRZmHZYRZjRZ0RZXpZ3FZ3zZtzZSFZBpZeHZLJ0MXZs813Ko7sslbedxJHGwISSjg4tAty/The%20Croods%20A%20New%20Age%20720p.mp4",
+            fhd: "https://p-def7.pcloud.com/cBZrX4WfWZCVSN1gZZZadbRv7Z2ZZRMZkZ50au6kZD5ZdFZ2FZ9pZzHZOkZEJZ8zZBpZkFZLFZSzZ8JZA0ZQJ0MXZf6Ezdrkr1xL5TVJkrwU2dF5IgWQV/The%20Croods%20A%20New%20Age%201080p.mkv"
         },
         isSeries: false
     },
@@ -713,26 +713,26 @@ let movie_data = [
 
                 ],
                 videoLinks: [
-                    "https://mega.nz/embed/3G413YLQ#ByQi-eJzYyUq5ZXIzLzBmc6Mgt7qXljHOEyewjj6-W4",
-                    "https://mega.nz/embed/6f5FkIwC#zphocD-O7Ab0WST7nn2QAMTEm01pkqfp47yr4Q5T54k",
-                    "https://mega.nz/embed/LPwzlCjZ#p1_53SjqgYdVx41BxbFfmEg04inDpNxovkcPB1mbeOg",
-                    "https://mega.nz/embed/TTxH0SLB#MRvazIVUuJ60HOJybxxRkWVXZgNQiqTOTtELg6H7pm0",
-                    "https://mega.nz/embed/rW4HWawT#871mAo4GOMErf_7t6zyUQfDZQX90tDy0NVVwdY41BCI",
-                    "https://mega.nz/embed/zLg3wYRD#H_zSLqd1ruHB75NUts3HFjclTuXQU7uNiiyD60URERw",
-                    "https://mega.nz/embed/zfhl3YZT#sdy12QfCAXNz-h8DCTxd5NtTBpo7qs4JMoPt_pVc6QU",
-                    "https://mega.nz/embed/aP5lRQKD#PJLU06WXJDjLW2ddfib3tkjpgZmS1XFLNV86wfsO1Ds",
-                    "https://mega.nz/embed/SDwBCI5S#DkN1TtyxnOIeNyv95y3Zdl_ypst69pCN8ur5Y_VSaC4",
-                    "https://mega.nz/embed/WCwDCIrA#4Wbcz1yKY_gLLnVP0Jr6I8_XGhtrdyIG36faHYm1Lfc",
-                    "https://mega.nz/embed/HPhDDY5C#K5fuwlQVQZV4QhQdEcSy7--u0pNvn8mGvLthtPxVuho",
-                    "https://mega.nz/embed/TPhRlSaa#xKsZrsw3fnIKZgLBgluhp1gHtovVsP-AhSEgSIOESvY",
-                    "https://mega.nz/embed/beoRDQ4T#j2cJkfjygyQnSkV7ACVeUr71EMNTmiETVLdFeVdsAno",
-                    "https://mega.nz/embed/CLp3jQzQ#YcA3uRXi1H8STqTn5Qm735MT-KcJX5RDR28QmxfAMVU",
-                    "https://mega.nz/embed/fb5jxApR#x2ay_dGEAi-lXFPZAIgbe0R9XG74gWIn4yH4eQjiKGc",
-                    "https://mega.nz/embed/fKg1mCRI#9ztBi2xP7B2XrJyzkVCdW34DlSF6c9QAGPJOXfBKGJ0",
-                    "https://mega.nz/embed/7X5lTY4S#b27IRUWxi4fkcrr7XyyOdMkpERx2yo-RIdhT0ZrBlXA",
-                    "https://mega.nz/embed/PH4TUSZS#_jFZ-2bJU_e1pYBI83ED73ybIiR5y_kL8E3-T0TDmsU",
-                    "https://mega.nz/embed/XWwFjAQA#6kAnfqJE02mIo7kv3WExOUgtf-l3TJ4Gz9R7oPMCODM",
-                    "https://mega.nz/embed/2b51lASD#jHWYpy_v7VfMs0ixcTxO-QYeg2UUOP9SDr5AzydcA9g"
+                    "https://p-def8.pcloud.com/cBZP4wdJ1Z2ax31gZZZA9bRv7Z2ZZRMZkZQ7aeCZmVZupZL5ZcFZ7FZMJZkpZikZepZ6FZcpZyJZQXZ30Z2NVMXZvUOtYe0LEpSmEzvblUaP2Vek3ioy/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E01.mp4",
+                    "https://p-def2.pcloud.com/cBZd9xdJ1Zk3C31gZZZo9bRv7Z2ZZRMZkZQL9oeZA0ZVJZ1pZEFZzHZmzZ55ZmVZqXZoJZukZ6VZtJZ5zZ8rVMXZ1yyuwFSV5iQel1Ho97ilSSvnYPzk/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E02.mp4",
+                    "https://p-def4.pcloud.com/cBZdqKdJ1Z86K31gZZZJMbRv7Z2ZZRMZkZDrT1eZFZxHZ4pZwpZjJZVpZ5JZvpZVVZkzZEJZKJZM5ZWpZQrVMXZlFtFrCzHCxh6xftkPT14muR7Llzk/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E03.mp4",
+                    "https://p-def6.pcloud.com/cBZF9ddJ1ZI9q31gZZZ8MbRv7Z2ZZRMZkZmKF7nZzHZikZQFZMHZrHZOFZbkZ6HZk7ZTVZA5ZMJZFJZqHZbrVMXZ0vN5uzSSke7jaAxdWD6ybzYT02jy/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E04.mp4",
+                    "https://p-def5.pcloud.com/cBZdVqdJ1Zxjt31gZZZmMbRv7Z2ZZRMZkZXYPOeZgJZypZxZnkZU5Z2HZ20ZDpZ3HZU7ZDzZlFZOpZhzZSrVMXZeaT2xnAzxXRvqriWeFQ2wQIClob7/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E05.mp4",
+                    "https://p-def5.pcloud.com/cBZS9tdJ1ZEME31gZZZbMbRv7Z2ZZRMZkZTV3OeZ9HZlHZiJZ3HZF7ZxpZuJZHHZVXZQpZJzZlkZupZVJZNrVMXZ76tFXlCx5kYM7pt6GNwzfkfBsvkX/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E06.mp4",
+                    "https://p-def2.pcloud.com/cBZps6dJ1Z1NO31gZZZhMbRv7Z2ZZRMZkZrDxneZtHZFZq7Z8zZcHZWFZb0ZeHZJ7Zu5Z6FZgXZjkZrXZorVMXZBrYpfpUGe25eEza6Cwi2y7RMBUV0/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E07.mp4",
+                    "https://p-def2.pcloud.com/cBZOeOdJ1ZQJA31gZZZSMbRv7Z2ZZRMZkZOqV6eZvpZ50ZyJZYHZK7ZEpZ5HZMJZlHZH0ZNHZvHZjpZGJZXcVMXZRdL6b9gnlKVT02lJuwJTM7BLLc8y/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E08.mp4",
+                    "https://p-def6.pcloud.com/cBZtvUdJ1ZR9N31gZZZjMbRv7Z2ZZRMZkZYSwNeZ8pZuFZ0zZnJZrkZWVZDpZWHZYXZuVZ6kZkpZ5HZXVZ5cVMXZYf8cWg7BkwHtjD08iUQ8HVuxX96k/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E09.mp4",
+                    "https://p-def5.pcloud.com/cBZ9bIdJ1ZJka31gZZZuMbRv7Z2ZZRMZkZpF5DeZgpZK7ZDzZUJZ9pZ3XZaVZyHZLzZ3FZDFZJHZVXZLFZ8cVMXZUHpPCJdVP9QGOshPAXGwGjlSXf5X/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E10.mp4",
+                    "https://p-def8.pcloud.com/cBZ34NdJ1ZjVG31gZZZuMbRv7Z2ZZRMZkZxns5nZuFZSHZrkZkzZDHZXpZL0ZXHZxHZ0FZdkZ57ZFHZpZjcVMXZRS8nWUNixGzKTWvs1N1IhQfiff67/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E11.mp4",
+                    "https://p-def6.pcloud.com/cBZnQAdJ1ZGV331gZZZfMbRv7Z2ZZRMZkZCaAFnZc0Z8VZDHZbzZzzZmJZ6HZmHZXpZR5ZGHZlHZqFZWpZecVMXZ7hJYNXPHqUbzD7kEHEdVmpUeTVuk/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E12.mp4",
+                    "https://p-def3.pcloud.com/cBZlUadJ1ZGcv31gZZZfMbRv7Z2ZZRMZkZcO3FnZlFZWpZF0Zj5ZaXZbzZ5JZjpZpZ2zZGkZgVZ8pZcHZMcVMXZHIiIRS3NLBSVvHi62dqg7b848zXX/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E13.mp4",
+                    "https://p-def8.pcloud.com/cBZ8e3dJ1Ziti31gZZZBMbRv7Z2ZZRMZkZam4JnZIZLFZJZNXZVXZpHZPHZm5ZDFZTHZF7ZcpZgJZ8VZKcVMXZxVuXrpDcgvbw0RErKiviG00MBlRy/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E14.mp4",
+                    "https://p-def7.pcloud.com/cBZ08GdJ1ZYwr31gZZZBMbRv7Z2ZZRMZkZrC43eZIZQHZykZ8kZQpZRzZS7Z50ZL0ZvHZEFZUJZ4FZfHZ6cVMXZgwXKVogwpRymh5pJYrKyD0SUUuOk/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E15.mp4",
+                    "https://p-def7.pcloud.com/cBZIPGdJ1ZV5c31gZZZ2MbRv7Z2ZZRMZkZG9OaeZNHZ97ZTVZPJZUJZXHZjHZlkZmVZkzZmHZo7Zk7ZEFZIcVMXZ0tLyRi8okQH19jDlbwbt98kfUACV/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E16.mp4",
+                    "https://p-def7.pcloud.com/cBZdVidJ1Zjto31gZZZWMbRv7Z2ZZRMZkZi84aeZ7FZGpZqHZ2JZxpZYHZ6HZlFZuHZYXZ75Z2pZu5Z3FZAcVMXZPrlucdytXNQCfXt1ukNnJLqrvKH7/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E17.mp4",
+                    "https://p-def1.pcloud.com/cBZsridJ1ZGMyG1gZZZWMbRv7Z2ZZRMZkZFT2NeZ9FZoHZJFZIJZpZv5ZFFZqXZYzZ7pZOkZkpZg0Z5JZGcVMXZJLNdRAuMFe5BhOdPLIEmz8fS3Auy/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E18.mp4",
+                    "https://p-def6.pcloud.com/cBZcwcdJ1Z9CkG1gZZZsMbRv7Z2ZZRMZkZuEoIeZAFZc5ZwJZDFZ8VZcHZuJZk7ZIZAHZW7Z5zZhFZgXZicVMXZrVX0Pg00LgfQ44Vr0fYQ07xrDUdV/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E19.mp4",
+                    "https://p-def2.pcloud.com/cBZxfodJ1Z1wXG1gZZZsMbRv7Z2ZZRMZkZt7VDeZuFZVpZFFZO0ZCFZj5ZeHZg0ZGJZXFZzHZsHZLHZbpZrcVMXZjrQYDayhcQQDyy8DM6umsH1HPFsX/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E20%20%28%20END%20%29.mp4"
                 ],
                 releaseDate: [
                     "5 May 2014",
@@ -1072,8 +1072,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/gmRKv7n2If8",
         movieLinks: {
-            sd: "https://mega.nz/embed/GC4S2CbC#bgarghtsnCuCbr8EhN7sCTRnWAO-h5pF671ppIxQMWw",
-            hd: "https://mega.nz/embed/iPp0BRSb#wX7_ZxbTB_5UhDKXO7OqZjP9Wr1mv0L5lKt1ZlMHk-M",
+            sd: "https://p-def4.pcloud.com/cBZRYzCJ1Zgcf61gZZZK8hRv7Z2ZZRMZkZSKoHUZ2HZFJZeHZ3VZbpZ7XZFFZoJZbzZ47ZNHZYRZ9pZVzZ8b0MXZ9V64AzWPLKFtJyWHoth7qJcTOnFk/Cruella%20480p.mp4",
+            hd: "https://p-def3.pcloud.com/cBZA24CJ1Z9y161gZZZd8hRv7Z2ZZRMZkZV9dxI7ZIJZkHZxFZq7Z0XZz7Zw7ZjFZFJZIZWpZ3VZf5ZQHZQb0MXZyryHa9hvktuB5VI3Pk3iWbEEGrV0/Cruella.mp4",
             fhd: ""
         },
         isSeries: false
