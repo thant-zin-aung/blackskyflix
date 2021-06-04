@@ -73,9 +73,9 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/8IqXgZd-P98",
         movieLinks: {
-            sd: "https://p-def5.pcloud.com/cBZlsllJ1ZlAma1gZZZlobRv7Z2ZZRMZkZh5gLKZR5ZVZKFZcHZ0pZjzZNFZ0zZXHZsFZl7ZCHZQpZuHZW40MXZsLYbsqMNDGm3wtJUrVNOFB2cKj3y/Oxygen%20480p.mp4",
-            hd: "https://p-def1.pcloud.com/cBZBAtlJ1ZAMja1gZZZ6obRv7Z2ZZRMZkZbyeHfZNpZSXZ7zZ3XZmHZcpZNJZaFZL5ZT5ZgkZA5Zf5Z6HZD40MXZvhgt7pDzsiLXcOIbf4PU3holf8My/Oxygen%20720p.mp4",
-            fhd: "https://p-def2.pcloud.com/cBZozSlJ1ZM02a1gZZZOobRv7Z2ZZRMZkZ9KU4G7ZQkZVJZGkZGFZYZwXZoHZTFZekZF7ZR5ZNHZCJZ2JZC40MXZfUStsRgapvjilURVJWDU4Ros54Yk/Oxygen%201080p.mp4"
+            sd: "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.CUBgDv0IBu2dA1TFY_ICnMgjTY8awyK28H3hNy90mqVFJilVbsI5ZZawKIZN8Vf6Xx_FwowvQhpuIZBgBKIpyWZ9YRSq_CWrOrjyK25AJDMokdhgEuphO9A7IdEEfZSnk6YIdEkmTJ7NSoQ77nbx2fdokQRU_HUDn0M4IXtQGGA--",
+            hd: "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.iUiCqpb8zjHEqpc4BWC2lMgjTY8awyK28H3hNy90mqVFJilVbsI5ZZawKIZN8Vf7gTHCyjGgRKW1VINdf.ufqjdbC0L55TS.toOd5AereM1ACDkn.rLLLxSAdbZlblW2km9VOG4b4rT4UkGDmbfjrfdokQRU_HUDn0M4IXtQGGA--",
+            fhd: "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9TiQC5ypNrH.pG.t5QIPVEMgjTY8awyK28H3hNy90mqVFJilVbsI5ZZawKIZN8Vf5U2KdQhKQ.Dk5VGc5Zwpmuys0DQtfgdE3ewvatzi5y7kYFuPQP7TslAykv7yu1itLMFBfYXcn9w8cx5xNOa2T5Z2pVn_fQyZ138t02TFNnjg--"
         },
         isSeries: false
     } , 
@@ -276,9 +276,9 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/OESJJ2vZn9M",
         movieLinks: {
-            sd: "",
-            hd: "",
-            fhd: ""
+            sd: "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.nlgODkTyllZJnTvCEPrwLMBTvygU0htt8WuWrHhwca_fZpSzvSBsSDgIVbIb1jQ.DEYslqReDaNxR5W4DQMHfSh7ig2ORvzHFj.U0vh05G2XAp1H7kzmiNEL8K6BGhGSY435eAXDkh9H849R9xr3x9pxJRS1NIIExk31QT7zMBn3z4JKrYJ6cHJYfojN8ALA-",
+            hd: "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9wg1B0A0Ywc3Ubmm1L.c3TMBTvygU0htt8WuWrHhwca_fZpSzvSBsSDgIVbIb1jQ.nOzuZZTrrk69QqhB8DISR0UH8WF0rH5vWZtdlFEw05j9gzLtQ1z2qRZ_0fykgmxCY435eAXDkh9H849R9xr3xNu85UJ3yEwiSmla_9.SLd16F5gVXDE82OxkMPuCo4B0-",
+            fhd: "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE8br6dTaSzsdbSwp_DzeE6cMBTvygU0htt8WuWrHhwca_fZpSzvSBsSDgIVbIb1jQ_EVgEx52pNwNLdrzRfDgS1b8e0nIf_8ZHhPJOH3BsxuoUpZueH7mWfsjiEB.DOdkqY435eAXDkh9H849R9xr3xdqMwXc.DUxo2gNpPY_Uxq8d3x.tXq9UZgptSRayIY3A-"
         },
         isSeries: false
     },
@@ -296,9 +296,9 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/D40uHmTSPew",
         movieLinks: {
-            sd: "",
-            hd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9qfgJ1_KtjsQppfewVw33vi52g2BMVUlbjy5vaBUsH3lP3ZhMVuHeYCt49MPh5N76PNHZ3LTY8Mc.Fq2zPsO3orhs.wQJkMTNm_huEGx3x0ubc.nOFYyXM7BBmpcKkgs0y_WOtIYzbIyyqIstxGJkJ3dhnWEEf6V3Wxsx33qWudg--",
-            fhd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_sgq.zXXncB3G3YcQlWYFAi52g2BMVUlbjy5vaBUsH3lP3ZhMVuHeYCt49MPh5N76bLckqS8ft5ni7UHbdUL1uosugk1u8GaOIp4.AGfia1am4SBnUIUinuBsl3sE6txIoQTp9i1q8cXuAxViLrU.z57Cx8IQowyslDy99ZmH5_A--"
+            sd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.MuWNyKi7TE1HiyuWVt5qAi52g2BMVUlbjy5vaBUsH3lP3ZhMVuHeYCt49MPh5N76LzWHi2LnzpkVKUKmZUvOmCQxJUYX4c44sZmrA6d1YlJoy1v8Gknm_wzHEV2RCzevP_Y_zyPibQ4efMHQnqRV8GgwcVw36H4jD6GWLK6OTMw--",
+            hd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_VGot_dd8SJuvyx6GsMNMri52g2BMVUlbjy5vaBUsH3lP3ZhMVuHeYCt49MPh5N76Mw35fnQcgAwch5v1WrorKoglzvkRr1WhZaTS7a8QIunwk.AgrUiWCLNOVgQvepfTP_Y_zyPibQ4efMHQnqRV80vhItw9ZZYsVFtsC5S7Jow--",
+            fhd: ""
         },
         isSeries: false
     },
@@ -336,9 +336,9 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/vOUVVDWdXbo",
         movieLinks: {
-            sd: "",
-            hd: "",
-            fhd: ""
+            sd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_UHQYivHBGoeQ8nI6deqEPMBTvygU0htt8WuWrHhwca_fZpSzvSBsSDgIVbIb1jQ_09vGcMdpW8gqhEfFzvwEyGQBlXygoUtEZCHLPQgMtA1_RUTQrXhAuxcyZM.R14tZtSIUM_Dp1biqbkWSXuYC3Vk3PaJhcaN4MzUjCoYDm4Q--",
+            hd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_I0jz4GsRx7CwTCKlQLiIoMBTvygU0htt8WuWrHhwca_fZpSzvSBsSDgIVbIb1jQ.1r32GiXYAMXm3FSJQ5qhtogZ1V.qJZHgcXFUuLdsJao4VuTek0g9YsdHgqyGFDFX4Gt6JVyLsQU_XS4SSTkpFVk3PaJhcaN4MzUjCoYDm4Q--",
+            fhd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9IE0P0MnPN7_.JHmbEM9LFMBTvygU0htt8WuWrHhwca_fZpSzvSBsSDgIVbIb1jQ8ttBpPycHZrRxf5.0AiFcBW5Fk0T.5_H2jU.pGRc0h3LjBFP7250GTb5fEVgS6RNBLYt42Ak2ho3SEXjOy.KJeDA.EvIfCiZ1KVRevnbVlTQ--"
         },
         isSeries: false
     },
@@ -376,8 +376,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/4_FvK9FUG2I",
         movieLinks: {
-            sd: "",
-            hd: "",
+            sd: "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.WODx6r0xHL9oAnhbS_wP3MBTvygU0htt8WuWrHhwca_fZpSzvSBsSDgIVbIb1jQ8tozaKu0FzCw9jyKNGNbvq6pBhSC4OAb6rXGhbKnRMZiQ9D5nhtf8MNq4.SWtZtuEcptxe5nGhWxi93UOVthqta_BBGXqRipTeMPfdbC3pOA--",
+            hd: "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE8B6VdQLopAKN851uvJyVBNMBTvygU0htt8WuWrHhwca_fZpSzvSBsSDgIVbIb1jQ8GP5XU1p3wc_7HqKPk.bYZXzsmJAvo2jjP7n9t9eHm2U0DiH.cCWxr5DrSIamEpWkcptxe5nGhWxi93UOVthqtjYEVgeUlJFqqH2kfj2Lg_Q--",
             fhd: ""
         },
         isSeries: false
@@ -397,8 +397,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/LE8-4aRf5VQ",
         movieLinks: {
             sd: "",
-            hd: "https://p-def5.pcloud.com/cBZoQgdJ1ZWqM31gZZZrxbRv7Z2ZZRMZkZzNFR07Zg0Z7JZgHZkzZfpZezZvpZ3VZuHZdFZ17ZLzZSFZbHZ050MXZhBVKLb6xzgFNleNIO7tdRHF22ftV/The%20Girl%20On%20The%20Train%20720p.mp4",
-            fhd: "https://p-def8.pcloud.com/cBZ2yhdJ1Z37p31gZZZ7rbRv7Z2ZZRMZkZQrNYpkZ5HZOHZOpZX0ZJFZVHZvkZgFZiHZqXZbHZwpZgkZDFZLL0MXZroXBqPuUYd0aSgwm6b203ur4uuUX/The%20Girl%20On%20The%20Train%201080p.mp4"
+            hd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_TwteKrW_3kScaSIwjb.ZIMBTvygU0htt8WuWrHhwca_fZpSzvSBsSDgIVbIb1jQ9TFfrucLpM5mJhclwr8BY4kHZDkvNYtHqZn55d.VwFjjOH9C1Mgc8tmIckZlI8NwUjV1HDZO_fJ75O1mHY_ey7y8MZMhMlPFi0wSB2jdysMo2BFYHlJSRaqh9pH49i4P0-",
+            fhd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_ZCJLHJobuPK7zienW8lGWMBTvygU0htt8WuWrHhwca_fZpSzvSBsSDgIVbIb1jQ9bWaaXrchXTCgnDCe32QxIV2JQWy_N8_Yv_FJgUn2xwV4emKOUEm5SfFh3yqT46VsjV1HDZO_fJ75O1mHY_ey7y8MZMhMlPFi0wSB2jdysMpBp.h8bBgU28UfqW1XuFcQ-"
         },
         isSeries: false
     },
@@ -440,8 +440,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/nuycwaIYKDM",
         movieLinks: {
             sd: "",
-            hd: "",
-            fhd: ""
+            hd: "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_M5XUtqUCAnoZF2Q0xhiNELFJOtBHA208lb66LyGsctcIIYoLGF0opk38E6iFFTez530Muy.DmxaRwGyaTFq8oG6QPa0IMO3UpK3hz6DpueZon.idyy2in76UAgW_XIaU60wCFVoPqYCPFB.6feGkMfdokQRU_HUDn0M4IXtQGGA--",
+            fhd: "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_EUFWKFAlnmlILYr38SQsgLFJOtBHA208lb66LyGsctcIIYoLGF0opk38E6iFFTeyXdl5FUGXzGLYHhuzRzLnM.bYwaf6tpvWIvR0gOi6_qegvgWC6IwQnSZbYbUihIasObTs9EI6DvEbiANTjxq6FaZgreGUEKghjIViqOcKeQw--"
         },
         isSeries: false
     },
@@ -579,8 +579,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/P_zuK_pergw",
         movieLinks: {
-            sd: "",
-            hd: "",
+            sd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9jIALKS6xxHwzru0Cp0WNyi52g2BMVUlbjy5vaBUsH3lP3ZhMVuHeYCt49MPh5N75qcBs_Go9ezlup4dMCYtElaAeYsGMZa7N7gAviP6PiJVszrRU8z8m0gqe3ujOz_kdaXXW9bqJjBTfdnLQYxxiBDQiAjGPCOLFASgLNyFvT5W.GjIb63b72rji.7533uYQ-",
+            hd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.KuXJ6e8UXGu7zfj8NwCkJi52g2BMVUlbjy5vaBUsH3lP3ZhMVuHeYCt49MPh5N777QDnl6fO8CERhgEjGyCZIp8bLnn0ggcvLGEoUV1Zeat7DYAGIToZiQSqaUwrzeQ4Q_Lplw2B9UqM55qNoiunsp2QIlk29TGV9F5OIN1tc2t3YZ1hBH.ld1sbMd96lrnY-",
             fhd: ""
         },
         isSeries: false
@@ -599,9 +599,9 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/GkXeVIfbJOw",
         movieLinks: {
-            sd: "https://p-def2.pcloud.com/cBZsVnKJ1ZzgUA1gZZZKdbRv7Z2ZZRMZkZmvCn2ZaVZ0FZ5JZvpZ2HZg0Z6JZaFZP5Z2FZppZlpZXzZIHZkJ0MXZqKQIEV7koDjdadL8vXquy0RfT3Iy/The%20Croods%20A%20New%20Age%20480p.mp4",
-            hd: "https://p-def5.pcloud.com/cBZYTGhyDZwYkN1gZZZEdbRv7Z2ZZRMZkZv9g3Q7ZNHZnzZkRZmHZYRZjRZ0RZXpZ3FZ3zZtzZSFZBpZeHZLJ0MXZs813Ko7sslbedxJHGwISSjg4tAty/The%20Croods%20A%20New%20Age%20720p.mp4",
-            fhd: "https://p-def7.pcloud.com/cBZrX4WfWZCVSN1gZZZadbRv7Z2ZZRMZkZ50au6kZD5ZdFZ2FZ9pZzHZOkZEJZ8zZBpZkFZLFZSzZ8JZA0ZQJ0MXZf6Ezdrkr1xL5TVJkrwU2dF5IgWQV/The%20Croods%20A%20New%20Age%201080p.mkv"
+            sd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9hsGOTlG6Phtk_9.WMHwWOMgjTY8awyK28H3hNy90mqVFJilVbsI5ZZawKIZN8Vf7KTc83i89pBCHuF_wHIGuaoBhJE8u4r9ku8HOhiVseYPYqtrYMb2evmK_7_T8B6Y77nl3Cu0jg7yidW_B9jdc7N9kw8Xt4.8MCt8m5Ojp7Xt3YZ1hBH.ld1sbMd96lrnY-",
+            hd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.VHKQZn7vWfASGmzj00lS9MgjTY8awyK28H3hNy90mqVFJilVbsI5ZZawKIZN8Vf754pAY_1LPM11rCbdKGSF9aJLZpe9GnnA.ekQFRwkUBbAXaM4WKAMUS3lHy2ZmHgP7nl3Cu0jg7yidW_B9jdc7ufQFi75AMXN.Lgw9pQmHW93YZ1hBH.ld1sbMd96lrnY-",
+            fhd: ""
         },
         isSeries: false
     },
@@ -648,7 +648,7 @@ let movie_data = [
         title: "DESCENDANT OF THE SUN",
         rating: "IMDB N/A",
         description: "DESCENDANT OF THE SUN",
-        release: "2021-03-18",
+        release: "2016-02-24",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
         duration: "97min",
@@ -660,14 +660,59 @@ let movie_data = [
         seasons: {
             season1: {
                 thumbnailLinks: [
-                    
+                    "https://m.media-amazon.com/images/M/MV5BZTNiODMzOTYtZmFmZC00ZWY5LThmY2UtN2JjYTQ5NGM1NTk1XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_UY126_UX224_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZTgwOTFlYTctNjZkYS00MzM0LTk2OTMtYzQ0NjgxYTE5NTU2XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BMGMzODIxNzAtMTdmZC00ZWI4LTlhZjQtODk5ODM4YWQwZWM4XkEyXkFqcGdeQXVyODQ1MDYzOTg@._V1_UY126_CR10,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNjFlOTFiZmUtNjJlNC00ZTEyLTlkYjctYWUzNGFjYWQ3NDQ4XkEyXkFqcGdeQXVyOTM4MjkzNTc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BN2QxZGRhZmUtM2I0ZC00NmI0LWEzODItMzIxMDBkYWUyMTBiXkEyXkFqcGdeQXVyODQ1MDYzOTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYmY0MmQ1N2YtMzhkMi00Yjk1LThlNDMtOTRlODJiYzMxZDQyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYWZhMzU1YjQtMzg2Ny00ZmQ5LWFiOWMtZDk1YzVlNzE1OTUxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYmQ3YjEzNjktMDg1NS00ZjkxLTk4YzctNmI1NWI1Y2M4MDhhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNTBhMTZhYTAtMDhlNy00NDkwLTlmM2YtZjBlNDFjNzAxNmMwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNjgyZmUxYjktZTM2Mi00YTcwLTg1YWItZjdhZGE0Mzc1MTkxXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY126_UX224_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNDVmNTNhZjgtNTUzYy00ZjE2LWEwNjEtZmFjNGMxYzRlZWQ0XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY126_UX224_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZTE0ZGJlNzAtNWQxOS00MWM5LThmZTMtMGU4ODJkNmQ3ZjdjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYmQyOGE1ZTEtM2Y0ZS00ZTc2LTg0NjQtZDNkMDFiZTExNzFhXkEyXkFqcGdeQXVyODA4ODIwNDM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNjBhZmE5MjAtMjUzMi00M2Y1LWI3NDgtYzFiNWY2ZjZmNDEwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BMWZjZjFhYzUtOWExYi00ZjJjLTgzZDAtY2FhNzEzNDdhZTcwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BOWY1OTlkZDQtNjYxZC00ZjQyLWIzNmYtYjU0MjIyNjliYjRlXkEyXkFqcGdeQXVyNjY0NjM5NDg@._V1_UX224_CR0,0,224,126_AL_.jpg",
 
                 ],
                 videoLinks: [
-                    
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9zh7wgvg60L.C4QOHTl0LCuVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.MgSHDbeXhu2exa6wBcKzq7bM6QVXA_Ez1MxsZ7yy06E8HNmsIKyyfuOuCicGwZis1yz_rF.dqYBN35zReWW90WYv2O6J2AyLu.DKTO40dOgSuewsfCEKMMrJQ8vfWZh.fw-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.jiwuHhbra1MFq5FjTUmN0uVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.MhAsqfte2reSJXc3A5z8VCbVrCFg5uRJfmhfyhD1z6zwuFSSxePWnKW351C28ETZomz_rF.dqYBN35zReWW90WYKUB3W5udugq2w.Vyke2OL.ewsfCEKMMrJQ8vfWZh.fw-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9LzJVBR3f.j.pI2QevERE_uVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.MjFQGMbHqUkYXG7jcogkjHXfhs8BPmgqGvlK3AmvZQEe_5uhgQZ4Np0WLUy0_z1Friz_rF.dqYBN35zReWW90WYozG1PA3y8ocLW6VW.dBZsOewsfCEKMMrJQ8vfWZh.fw-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9VjApODCnS3q4LMspBu_WWuVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.MhVXNEbmP62Wo8oDlU0_HKv2oPARMH.QaDFHSVp4WOk8fACsJUA1H241mb4ptdTpoCz_rF.dqYBN35zReWW90WYoXPXicS1ZXXEIXFBa6kCpeewsfCEKMMrJQ8vfWZh.fw-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9rnoxWQsn7PR2JNgcHx2JLuVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.MgDJ5cKH1MiLL0o0_jOhHIJ1g2Or7EDazHIMlPROCDJyXD3jxllU985aMORn0SZgOyz_rF.dqYBN35zReWW90WYD.P_9F2fRe_.0DWfSs8IX.ewsfCEKMMrJQ8vfWZh.fw-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9H86mXTu_3DT_SwvLnaZpouVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.MhFG_OjwIKY0yWZA5TP_IxGHNsEWxxH56LBRjcVHnBldBOmlfQRNmVktcdZMJJ06Iqz_rF.dqYBN35zReWW90WY0FNrwudrCOtDv5NEvXQkmuewsfCEKMMrJQ8vfWZh.fw-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9v_TOdA1pnlJvaH.t7QI0LuVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.Mh_eVVKhHL5_DkEjjIq6SM6Y9mPYFBJCfWRyfFa1GpDCb2o0Krin5DNKTFB4mTU48uz_rF.dqYBN35zReWW90WYR2ILxLFvRc2hd5aHI9hBReewsfCEKMMrJQ8vfWZh.fw-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_lJn0PhtR6ahyHDl4ceOL_uVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.MhdKzna6H4pRLFy8ibSiZkft5p8vXF42Dsdsp7NMYUZrsV3v7crpFSnYrSXiZKxG2ez_rF.dqYBN35zReWW90WYzZ9XevlmVs4..N.JRKsWNOewsfCEKMMrJQ8vfWZh.fw-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.s5B4bsZfJkoKSiWSGxOl9uVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.MgSagLdUi6ta819Eoe8ebtSRJvBkEhqbCMdAFZmRMX27G3VSydjGDf33uvMGyP4jOiz_rF.dqYBN35zReWW90WYJT6C7XXIq.ESVQCXXC6O3OewsfCEKMMrJQ8vfWZh.fw-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_rD_16rww2rHT6WQ41PNA0uVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.MjZKdsvea2GaJ64JZKRUk.7j7jGEujLhPQx.qbovAmzbr8v1cevS8cG2D0xMxwzrBqz_rF.dqYBN35zReWW90WYBf8OayJIJtVCLCDWQXLqD33aJEEVPx1A59DOCF7UBhg-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9fOaGpEqTgKtsAeWOd0whmuVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.MhahHzbWYKzi6MK4xQL5DqSCxtkS6HNLhK3ism0xCdKlCF.L9..O6Be947.EG2lkxiz_rF.dqYBN35zReWW90WY0FCKdt767nW1T6JTMo1bLX3aJEEVPx1A59DOCF7UBhg-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9VYIx43WV0bEX82SRYQcqsuVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.Mhl9w7Whpy84XXofuDI27St285Z20daPBvehThRqwNM8hC1EQrJBnSR9Sc.u5YxUBSz_rF.dqYBN35zReWW90WYnA8aK9G3w7KzeLM3.AeyN33aJEEVPx1A59DOCF7UBhg-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9Sy3OVTy6VZyzMMS8pGX9ZuVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.MjTHciB9nv69.wx65WHhH5oaYhsJIKxdkiSk7JVKIP0C8Rf.UpyEoIQigItmtruz2uz_rF.dqYBN35zReWW90WYmg93CFBdrkiuacu18_VTm33aJEEVPx1A59DOCF7UBhg-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.M33_yN52lmxnGQY4ge_cbuVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.MhXDgr6hzOu8vrn_Ohx0eZzmMQKHnheU72WWl..R8wiRDvK2H94d4KQK6J9uM0_LTOz_rF.dqYBN35zReWW90WYsgXrfRjlxLV3NS2sGo.0KH3aJEEVPx1A59DOCF7UBhg-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE8m1DU18EkBT6JA5Bzf8xabuVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.MgOG7N9JithjOLUUrwU6KsiRlE7eMHxP7U3WL_vM787pQmJB6FrYG4piyZkrde5JZyz_rF.dqYBN35zReWW90WYg_jANVF8eajnG65tb4Pnrn3aJEEVPx1A59DOCF7UBhg-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE8BPa2joP.dacljdC212c57uVIbOn7o5P8fgdWNCjZH_088YmsgJtibTqHlSCNh.Mg3h.36SXsItFWsPk7vKAoXMhsgsCkn5V0wuZvdFBIicugGrz7h1YAMR8A4Bnl96zez_rF.dqYBN35zReWW90WYg_FG4fZJ8t2PdPSi_WO55X3aJEEVPx1A59DOCF7UBhg-",
                 ],
                 releaseDate: [
-                    
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
+                    "2016-02-24",
                 ]
             }
         }
@@ -713,26 +758,26 @@ let movie_data = [
 
                 ],
                 videoLinks: [
-                    "https://p-def8.pcloud.com/cBZP4wdJ1Z2ax31gZZZA9bRv7Z2ZZRMZkZQ7aeCZmVZupZL5ZcFZ7FZMJZkpZikZepZ6FZcpZyJZQXZ30Z2NVMXZvUOtYe0LEpSmEzvblUaP2Vek3ioy/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E01.mp4",
-                    "https://p-def2.pcloud.com/cBZd9xdJ1Zk3C31gZZZo9bRv7Z2ZZRMZkZQL9oeZA0ZVJZ1pZEFZzHZmzZ55ZmVZqXZoJZukZ6VZtJZ5zZ8rVMXZ1yyuwFSV5iQel1Ho97ilSSvnYPzk/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E02.mp4",
-                    "https://p-def4.pcloud.com/cBZdqKdJ1Z86K31gZZZJMbRv7Z2ZZRMZkZDrT1eZFZxHZ4pZwpZjJZVpZ5JZvpZVVZkzZEJZKJZM5ZWpZQrVMXZlFtFrCzHCxh6xftkPT14muR7Llzk/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E03.mp4",
-                    "https://p-def6.pcloud.com/cBZF9ddJ1ZI9q31gZZZ8MbRv7Z2ZZRMZkZmKF7nZzHZikZQFZMHZrHZOFZbkZ6HZk7ZTVZA5ZMJZFJZqHZbrVMXZ0vN5uzSSke7jaAxdWD6ybzYT02jy/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E04.mp4",
-                    "https://p-def5.pcloud.com/cBZdVqdJ1Zxjt31gZZZmMbRv7Z2ZZRMZkZXYPOeZgJZypZxZnkZU5Z2HZ20ZDpZ3HZU7ZDzZlFZOpZhzZSrVMXZeaT2xnAzxXRvqriWeFQ2wQIClob7/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E05.mp4",
-                    "https://p-def5.pcloud.com/cBZS9tdJ1ZEME31gZZZbMbRv7Z2ZZRMZkZTV3OeZ9HZlHZiJZ3HZF7ZxpZuJZHHZVXZQpZJzZlkZupZVJZNrVMXZ76tFXlCx5kYM7pt6GNwzfkfBsvkX/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E06.mp4",
-                    "https://p-def2.pcloud.com/cBZps6dJ1Z1NO31gZZZhMbRv7Z2ZZRMZkZrDxneZtHZFZq7Z8zZcHZWFZb0ZeHZJ7Zu5Z6FZgXZjkZrXZorVMXZBrYpfpUGe25eEza6Cwi2y7RMBUV0/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E07.mp4",
-                    "https://p-def2.pcloud.com/cBZOeOdJ1ZQJA31gZZZSMbRv7Z2ZZRMZkZOqV6eZvpZ50ZyJZYHZK7ZEpZ5HZMJZlHZH0ZNHZvHZjpZGJZXcVMXZRdL6b9gnlKVT02lJuwJTM7BLLc8y/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E08.mp4",
-                    "https://p-def6.pcloud.com/cBZtvUdJ1ZR9N31gZZZjMbRv7Z2ZZRMZkZYSwNeZ8pZuFZ0zZnJZrkZWVZDpZWHZYXZuVZ6kZkpZ5HZXVZ5cVMXZYf8cWg7BkwHtjD08iUQ8HVuxX96k/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E09.mp4",
-                    "https://p-def5.pcloud.com/cBZ9bIdJ1ZJka31gZZZuMbRv7Z2ZZRMZkZpF5DeZgpZK7ZDzZUJZ9pZ3XZaVZyHZLzZ3FZDFZJHZVXZLFZ8cVMXZUHpPCJdVP9QGOshPAXGwGjlSXf5X/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E10.mp4",
-                    "https://p-def8.pcloud.com/cBZ34NdJ1ZjVG31gZZZuMbRv7Z2ZZRMZkZxns5nZuFZSHZrkZkzZDHZXpZL0ZXHZxHZ0FZdkZ57ZFHZpZjcVMXZRS8nWUNixGzKTWvs1N1IhQfiff67/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E11.mp4",
-                    "https://p-def6.pcloud.com/cBZnQAdJ1ZGV331gZZZfMbRv7Z2ZZRMZkZCaAFnZc0Z8VZDHZbzZzzZmJZ6HZmHZXpZR5ZGHZlHZqFZWpZecVMXZ7hJYNXPHqUbzD7kEHEdVmpUeTVuk/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E12.mp4",
-                    "https://p-def3.pcloud.com/cBZlUadJ1ZGcv31gZZZfMbRv7Z2ZZRMZkZcO3FnZlFZWpZF0Zj5ZaXZbzZ5JZjpZpZ2zZGkZgVZ8pZcHZMcVMXZHIiIRS3NLBSVvHi62dqg7b848zXX/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E13.mp4",
-                    "https://p-def8.pcloud.com/cBZ8e3dJ1Ziti31gZZZBMbRv7Z2ZZRMZkZam4JnZIZLFZJZNXZVXZpHZPHZm5ZDFZTHZF7ZcpZgJZ8VZKcVMXZxVuXrpDcgvbw0RErKiviG00MBlRy/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E14.mp4",
-                    "https://p-def7.pcloud.com/cBZ08GdJ1ZYwr31gZZZBMbRv7Z2ZZRMZkZrC43eZIZQHZykZ8kZQpZRzZS7Z50ZL0ZvHZEFZUJZ4FZfHZ6cVMXZgwXKVogwpRymh5pJYrKyD0SUUuOk/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E15.mp4",
-                    "https://p-def7.pcloud.com/cBZIPGdJ1ZV5c31gZZZ2MbRv7Z2ZZRMZkZG9OaeZNHZ97ZTVZPJZUJZXHZjHZlkZmVZkzZmHZo7Zk7ZEFZIcVMXZ0tLyRi8okQH19jDlbwbt98kfUACV/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E16.mp4",
-                    "https://p-def7.pcloud.com/cBZdVidJ1Zjto31gZZZWMbRv7Z2ZZRMZkZi84aeZ7FZGpZqHZ2JZxpZYHZ6HZlFZuHZYXZ75Z2pZu5Z3FZAcVMXZPrlucdytXNQCfXt1ukNnJLqrvKH7/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E17.mp4",
-                    "https://p-def1.pcloud.com/cBZsridJ1ZGMyG1gZZZWMbRv7Z2ZZRMZkZFT2NeZ9FZoHZJFZIJZpZv5ZFFZqXZYzZ7pZOkZkpZg0Z5JZGcVMXZJLNdRAuMFe5BhOdPLIEmz8fS3Auy/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E18.mp4",
-                    "https://p-def6.pcloud.com/cBZcwcdJ1Z9CkG1gZZZsMbRv7Z2ZZRMZkZuEoIeZAFZc5ZwJZDFZ8VZcHZuJZk7ZIZAHZW7Z5zZhFZgXZicVMXZrVX0Pg00LgfQ44Vr0fYQ07xrDUdV/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E19.mp4",
-                    "https://p-def2.pcloud.com/cBZxfodJ1Z1wXG1gZZZsMbRv7Z2ZZRMZkZt7VDeZuFZVpZFFZO0ZCFZj5ZeHZg0ZGJZXFZzHZsHZLHZbpZrcVMXZjrQYDayhcQQDyy8DM6umsH1HPFsX/%5BS1.Ep1%5D%20Doctor%20Stranger%20-%20Episode%20E20%20%28%20END%20%29.mp4"
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_uQVrPKuQbW1YrxRTQoq4.nc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX0xqzNX0uadN8JB.lpmEkXx_GXdfQr937rILmcYUq4qiaFJO.QwnsF9O7eOwhkt5Yz5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nBl9ADrvpfmUlLGw60x96Lc-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE8CESP29dVtjp7WS5rveVDEnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX1bf8ym7LBhfurF6IIjHHR2BhLOiyi2Z9R3tuI_XRtc5bpFcp6H_mYTteaYOB6LPLv5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nJQar_f2spVEIgE1v7Zhnh4-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE8vImv4kxLL.rPNeVtCGLsnnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX2Ea0kVSyZryWPckb7T.tsnCVf9k3fRHAlZovanGDL1AACe08FkKpf1YpKFXD2Dm5L5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nAgLCnciL9HS0D0MLrbGWK8-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9L_LSiADxD_4Xs_Vtqzqnsnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX0eb8w4pHdSn2Oq2Lk77HYVOPHQ_tnsULnzTjKGFtoNkiGIgl5kPnWvPigia8qt28b5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nH8yeSxtfQZuQbpitJ0wsAA-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE94rtBLet4ftsx86JUGAfqanc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX2o_MlVMJ8E6JNQQkKUgT9h2i5hpghboFpanxIUJPwRWXOU9Nu5bIBGOUyRwyppK5j5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nNUMJ.8R.Fjg1A1MTzr5gMQ-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE8au26NEYYJVTWApMI4r1bCnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX3_fC..lpyA8OREPYpLOi6_O6oJ4cO.CwjueEwhCOadyTU0.RIsSHEcAXr0mYPBK7H5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nL7OFbcbLt7mbXNK7dUBSDA-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9jL1klzEH2ce9798VIlLXmnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX2tZig3I9vgqUww4aLFoPIL0j4mH660t.lhevbji7CqiaCYSp2cSg8VwkmzdOGSkq_5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nCF8pBZ1fUYCVnJH5WH5KRg-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.XWTUyLPY052Ia1YGMmGGWnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX0qDV2jmu0sXtH7nwJ_U3biSIkJkATqB3wC9LrCyBD02whzWahjojaQu9V1AknVikL5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nFb.Mw9iIxFNelTnZmJI_7k-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9R18W8c4B4kGHBSJTYfv0vnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX2iRIEiXeXMeWweT95JR_V8j4nlLlhCINDk6csebSvwPyr0Yycj6DEfXVFwjaAbAF35SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nNZY9UcRhSVfdkBfisNl5JA-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.IvD3dTY35tL2aiTHJWZ7Wnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX06GoXlsaeHRvUlJfL.mTnwrI5XfcroQ7P2B0whSYGJg6A4G416cR1I33udaLIej8n5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nExsxzAmtR0Sqhq10uhQ1n8-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_Y2Q0jWH7__EoKbXquFrganc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX1FKDwhHOf5eb1CQIELdWEcgMjKM97FMD_TIYni7CqIKYrD5OyY.xkVjuFxGJDVw7L5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nLhfbedYMRti_4bfZgCxT2c-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.K2C.TdHVlktpyirAjaR17nc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX3Oh5QgZ690P1O4UHHAarNvSGOCYY2oNx3FgJaMC2YvVs3x_RwxmjDl2SkFvpyAybL5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nAzvvMc5xMAYdcYGuLTscFE-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.WIA_2UtTwdyAgqsiVVAMfnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX1vrdFwFncMm84yRfkKDI.3a.hOjwwtJLoDi3eOiStTjhbNATckL9oaB3OPSqf7PaP5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nEcfeYLbG_FSRY4zQ3GXjso-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE84vu3bVVuIYiFOlhMVQHzxnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX3EvXHJpDiWJ5kDjcA44F0zNvFSxp1IPk.34YwPeWUfI2RSX_.PhphvYpJAdqUgIWr5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nLVvLOFnqLsfLoLrZDRqWMA-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_mQ2vnj3VW4ncIORHRYaHNnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX0pz9WSgO4nFXeJUZC0JcJoC2ZKKD5qu3VbRGBnuWqkXiAeIYxzi7Wclgm7qZPw5gz5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nHUKIF.ZZgUtYrNaHG0wQZ0-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE8f1NCF_iI1RHHQCVomMaQznc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX0WASJ_3G.gVz1dFNWWSjUdwHL401DvSEzzP.IVLsCXfhg2r7XBzvOuF593_R5DiJb5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nDuk9G52MsBACLr86IPZVk8-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9Hn.DWaxaghbuaBHjKS_iZnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX1YEk6kBk5cWj.X6jgxjfEbxrVSn09yMN0wsM0rKOXQHbAs2JDW9gMNsUjvnjr7D9T5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nFrPsAkVMhnkB9wpRhmHygc-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE8Gf8p_AIeqCOeLbJK39.rDnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX1esOLbsSttZbuODIziiTPr0Wh2alNvwHFHyi3PuwrcLELbDfy6GuUJhc5uQaipX1z5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nMIkgvvg7uQ.E0tB7.O91.s-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9y3H5s5NmbSDHBdYfdECk3nc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX0OE7HMYvpvHI.ITwzSmwvXJCRa3ACS3dmE2ZweGE6b8uGu.ooPcEjwwXG.75qX5OH5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nBnfDp7SDLUyzmm2OuDOBbo-",
+                    "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9QfGoypbxIdajOFlNCNvd5nc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX1ef72vbiaI09QkvAGW9sNtDbrlHI6BKcOf8D_acZZUHaRPxmYu5DtUiAxp2Q8o1dj5SHAeldTW8.fjGEbTzd_yN6ECmxSoMTFGUjiTpNi1nN.yaUm3kI5OW5gm0hLR8H_hdvrPgapDC_82yndKRUa2"
                 ],
                 releaseDate: [
                     "5 May 2014",
@@ -837,11 +882,32 @@ let movie_data = [
         seasons: {
             season1: {
                 thumbnailLinks: [
+                    "https://m.media-amazon.com/images/M/MV5BOWIyMmEwZjgtNzRlZC00NWU2LWI2ZGMtNjg0ZGQ2MTcyYWVjXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BMWRiODkwY2QtN2U5My00ODY5LTg3NTgtYWRiNDg5NWI5NmJlXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZTk3ZDEzOTQtZGNiNi00NzAwLWE5MzctYjhhOGZiZTMzMGJhXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BMDY5MWJjZTktYTEwNC00YjM5LWExNzktMThlMDk2MWE1NzE5XkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNjVhZjBkNzQtODQ1Yy00MDM0LTgwZmEtZjM4YmI3OTJiMzkxXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BOGY3ZTFmMWYtNTU2Ny00MWMwLWE2ODItZGI2MjAxMjZhN2YzXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UY126_UX224_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZWMzMTE1N2QtNmQzYS00OTRmLWE3NmUtYjMzN2FkN2I4OGYzXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BODRlOWQ2NjEtOTgwZS00MGIwLThlNDMtODU5ZTYwN2FiODQxXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BMDYxMTRiNDAtODE0Zi00NDg0LTkwMGYtYmVkMTMwNTU2NGFmXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://www2.mundodrama.site/wp-content/uploads/2021/05/so-i-married-an-anti-fan-806-backdrop.jpg",
+                    "https://www2.mundodrama.site/wp-content/uploads/2021/05/so-i-married-an-anti-fan-806-backdrop.jpg",
                     
 
                 ],
                 videoLinks: [
-                    
+                    "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.FIycz1BbTJmsnBTznRGPULFJOtBHA208lb66LyGsctcIIYoLGF0opk38E6iFFTexMzf4jcqpage2H9MZBvWgE9RrapA1fk9M2xwjT9bpCNMbuqNsC_XGs3PuzMa35XOr2HelBhdS77fzYeiprmlM957Cx8IQowyslDy99ZmH5_A--",
+                    "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_1YsVzwb31PV3P0x2_5ks5LFJOtBHA208lb66LyGsctcIIYoLGF0opk38E6iFFTewYagNVZM2E4U2XgxtazQr3WEOdxH.8gbDU5ErHMOwpYnPVoKzSFsOgN0dyxeEFOJsjdL6FqLWymuHuYmhv4hdX57Cx8IQowyslDy99ZmH5_A--",
+                    "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_7NvCVrSUDa5utOmX6hmS2LFJOtBHA208lb66LyGsctcIIYoLGF0opk38E6iFFTez.0UPOk_Z8ir8An88tV1xrGN07g.FA0GSg7YaEeVx1p31HgOA3oNNs9VwSC_ccfAUpXutFzdwnW3VNQ0gGhCa057Cx8IQowyslDy99ZmH5_A--",
+                    "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_h1TXhZGrwmbpg3KaM0UCCLFJOtBHA208lb66LyGsctcIIYoLGF0opk38E6iFFTewppMUbGT4a0kRdB5XqUbqR4zOWAOVRkvc3WgdHRzPMwy2B0iMziwz_lkbzyx_SUekyUqqvWOD6DX2QWEgoFxRG57Cx8IQowyslDy99ZmH5_A--",
+                    "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.7UsK2gLUUlBvTiimlW2oaLFJOtBHA208lb66LyGsctcIIYoLGF0opk38E6iFFTeyi2r8bK0fSp0URyF8zXkITs6gLpgUYor7x0829iwVNfKY5ywSvwZJ5sU.t1H.P9dhCHMzRkOZYfZT7pVneG85Y57Cx8IQowyslDy99ZmH5_A--",
+                    "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE8U6CHji2DFU78wstDjkY4MLFJOtBHA208lb66LyGsctcIIYoLGF0opk38E6iFFTez80CZSvzIrXoHMWgZKReW85b7962.aih6lbAKqmEnDb4JQ78uh5hZPbV90WamyzKGKCIKmDcWFJ.UDGLjz4ZHi57Cx8IQowyslDy99ZmH5_A--",
+                    "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.Pq.S.Y1Ky6AyyEv5WoyhYLFJOtBHA208lb66LyGsctcIIYoLGF0opk38E6iFFTeyhnT14Xr73ySGk16BePJObcVEC3J.fof5xfHGoLWFKAy2D42vBflT8_p7XL3rF.gb6O6rLUXKsVV145riu9J2l57Cx8IQowyslDy99ZmH5_A--",
+                    "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_lHSYRXUJf.j40WAbPN1PlLFJOtBHA208lb66LyGsctcIIYoLGF0opk38E6iFFTeyJ_RkK3Elz9FGDdlnQp9SdHpKCby1VUROx5JZP9KwJrv_h75aJJV6oyUPZlZR9iYlFBOSWK6jZaJbS9kXitxE.57Cx8IQowyslDy99ZmH5_A--",
+                    "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE8nrDZxqDdZPvCznobpuJrCLFJOtBHA208lb66LyGsctcIIYoLGF0opk38E6iFFTewO05MI9vDOjzKPGYSbhY1cZ_UZvHnBF_UT0LMHrZ9yx2135HM6HEkr2XgEX1VfmG0L1qb_KiN_9LvD.BGpDv0X57Cx8IQowyslDy99ZmH5_A--",
+                    "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_oYMPiaRKFFkOVsXv1xBLKLFJOtBHA208lb66LyGsctcIIYoLGF0opk38E6iFFTexb_eIwy7cjPEnyGEDz0pN63FrIq52G_DJ9SJPwvX7m8eICpgnPXxv2.lNSOicbSDqVbBo1TTyp3xckRzfcZfe1fdokQRU_HUDn0M4IXtQGGA--",
+                    "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE8dGjIbq9ggHCMtmP5dfDw6LFJOtBHA208lb66LyGsctcIIYoLGF0opk38E6iFFTezQzrnOy88lx9l1RSva4YiUfbAyZPxSlYCSlTQCiqSjX2ZygcrMeIVNZq7HWRffnHrRwFqQdsHvM_tenNjHsifKfdokQRU_HUDn0M4IXtQGGA--"
                 ],
                 releaseDate: [
                     
@@ -1072,8 +1138,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/gmRKv7n2If8",
         movieLinks: {
-            sd: "https://p-def4.pcloud.com/cBZRYzCJ1Zgcf61gZZZK8hRv7Z2ZZRMZkZSKoHUZ2HZFJZeHZ3VZbpZ7XZFFZoJZbzZ47ZNHZYRZ9pZVzZ8b0MXZ9V64AzWPLKFtJyWHoth7qJcTOnFk/Cruella%20480p.mp4",
-            hd: "https://p-def3.pcloud.com/cBZA24CJ1Z9y161gZZZd8hRv7Z2ZZRMZkZV9dxI7ZIJZkHZxFZq7Z0XZz7Zw7ZjFZFJZIZWpZ3VZf5ZQHZQb0MXZyryHa9hvktuB5VI3Pk3iWbEEGrV0/Cruella.mp4",
+            sd: "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9jj1.0YTp3IpL4eAW7bu2eMgjTY8awyK28H3hNy90mqVFJilVbsI5ZZawKIZN8Vf4blxTpfOPQKnbOFYb0mFNh3eDMECuM3JF7OQQLL8JC.bypViBx..9lVaAe9oNaDC6BTRZ8zgwLRme_542EMktjaZgreGUEKghjIViqOcKeQw--",
+            hd: "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.cSUFWCfUJl6v8eD8ngUXyMgjTY8awyK28H3hNy90mqVFJilVbsI5ZZawKIZN8Vf5ymf4de4FiVrl5yTe6c3Qbiq5KZfHnhljf30qsPd1xZc_oL4cwVc0d97REWqYWCkFKWRMoJaK_B8EAxQ4WknJ3b4aMhvrdvvauOL7vnfe5hA--",
             fhd: ""
         },
         isSeries: false
@@ -1137,7 +1203,7 @@ let movie_data = [
         movieLinks: {
             sd: "",
             hd: "",
-            fhd: ""
+            fhd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE.CCwj_p56h237rW7Bcz__bnc6oVkCeGA2bEDm_HHNOBnjQslkYUVOBaW0k6AWUEX2UO36pKSCo8MtJsQwrkGyjwk3Bs3Dm3TJ19zMjeLnsMUSk6NB48PennwBKOgL5KO99Y48JeVDT8KL8Dns1teMPfdokQRU_HUDn0M4IXtQGGA--"
         },
         isSeries: false
     },
@@ -1156,8 +1222,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/-_DJEzZk2pc",
         movieLinks: {
             sd: "",
-            hd: "",
-            fhd: ""
+            hd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE8WrRpuMgmGcJlV8KgJ2wOXMgjTY8awyK28H3hNy90mqVFJilVbsI5ZZawKIZN8Vf53y.ZTt_jKf8RnSooTgapC27mqcNc56Mn3987h8GtCVndIQt88sdjmxHg0CIcSc3yuo_P36AgXh0Z5pXSy8Ipl57Cx8IQowyslDy99ZmH5_A--",
+            fhd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9NflSkt_oLLKrt8cnOPpv1MgjTY8awyK28H3hNy90mqVFJilVbsI5ZZawKIZN8Vf7Rv.OObfSZIPBQ14bq5aXAdhxSnsXVIBQV06vaHqNhm2Kwd2W_RWHVRqBcmdQ2GIY408r1LcVWkW.knaJFGMpcfdokQRU_HUDn0M4IXtQGGA--"
         },
         isSeries: false
     },
@@ -1177,7 +1243,7 @@ let movie_data = [
         movieLinks: {
             sd: "",
             hd: "",
-            fhd: ""
+            fhd: "https://icecube-us-845.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE_sqjJnyO.H9p5NPrUgkOL5MgjTY8awyK28H3hNy90mqVFJilVbsI5ZZawKIZN8Vf7ijcSreRGhVqm_tACsSqtelclDSA6LdANhEn..4GJ8ZIrW27fWEMp5SckBgMCiqmpFJV5CbiZ2ER2P3FqetIvz10GDiab_VtO1TK1Vfd8oo1ZNz2iYXGjeDM1IwqGA5uE-"
         },
         isSeries: false
     },
