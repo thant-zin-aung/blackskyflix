@@ -66,7 +66,7 @@ trailerButton.click( () => {
     moviePlayer.css("opacity","1");
     movie.css("transform","translateY(0%)");
     body.css("overflow-y","hidden");
-    moviePlayerVideo.css("display","none");
+    // moviePlayerVideo.css("display","none");
     plyr.css("display","none");
     moviePlayerIframe.css("display","block");
     moviePlayerIframe.attr("src",`${movie_data[currentMovieDataId].trailerLink}`);
@@ -77,7 +77,7 @@ watchNowButtons.click( () => {
     moviePlayer.css("opacity","1");
     movie.css("transform","translateY(0%)");
     body.css("overflow-y","hidden");
-    moviePlayerVideo.css("display","none");
+    // moviePlayerVideo.css("display","none");
     plyr.css("display","none");
     moviePlayerIframe.css("display","block");
     moviePlayerIframe.attr("src",`${movie_data[currentMovieDataId].trailerLink}`);
@@ -148,7 +148,7 @@ let movie_data_manipulation = (event) => {
                     hideableSections.css("display","none");
                     movieDetailSection.css("display","block");
                     moviePlayerIframe.attr("src",`${movie_data[currentMovieDataId].trailerLink}`);
-                    moviePlayerVideo.attr("data-poster",`${movie_data[currentMovieDataId].backgroundPoster}`);
+                    // moviePlayerVideo.attr("data-poster",`${movie_data[currentMovieDataId].backgroundPoster}`);
                     if ( movie_data[currentMovieDataId].isSeries ) {
                         let seasonNumber = $(".seasonNumber");
                         let episodeWrappers = document.querySelectorAll(".episodeWrapper");
@@ -194,7 +194,7 @@ let movie_data_manipulation = (event) => {
                                 movie.css("transform","translateY(0%)");
                                 body.css("overflow-y","hidden");
 
-                                moviePlayerVideo.css("display","block");
+                                // moviePlayerVideo.css("display","block");
                                 plyr.css("display","flex");
                                 moviePlayerIframe.css("display","none");
                                 moviePlayerVideo.attr("src",`${movie_data[currentMovieDataId].seasons.season1.videoLinks[currentId]}`);
@@ -225,7 +225,7 @@ let movie_data_manipulation = (event) => {
                                 moviePlayer.css("opacity","1");
                                 movie.css("transform","translateY(0%)");
                                 body.css("overflow-y","hidden");
-                                moviePlayerVideo.css("display","block");
+                                // moviePlayerVideo.css("display","block");
                                 plyr.css("display","flex");
                                 moviePlayerIframe.css("display","none");
                                 moviePlayerVideo.attr("src",`${currentResLink}`);
