@@ -57,7 +57,7 @@ let closeMovieButton = $(".moviePlayerAreaWrapper .closeButton");
 let watchNowButtons = $(".watchNowButtonWrapper button,.imageOverlay .watchButton");
 let moviePlayer = $(".moviePlayerAreaWrapper");
 let movie = $(".moviePlayerAreaWrapper .moviePlayerArea");
-let moviePlayerVideo = $(".moviePlayerAreaWrapper .moviePlayerArea video");
+// let moviePlayerVideo = $(".moviePlayerAreaWrapper .moviePlayerArea video");
 let moviePlayerIframe = $(".moviePlayerAreaWrapper .moviePlayerArea iframe");
 let plyr = $(".plyr");
 let currentMovieDataId;
@@ -67,7 +67,7 @@ trailerButton.click( () => {
     movie.css("transform","translateY(0%)");
     body.css("overflow-y","hidden");
     // moviePlayerVideo.css("display","none");
-    plyr.css("display","none");
+    // plyr.css("display","none");
     moviePlayerIframe.css("display","block");
     moviePlayerIframe.attr("src",`${movie_data[currentMovieDataId].trailerLink}`);
     
@@ -78,7 +78,7 @@ watchNowButtons.click( () => {
     movie.css("transform","translateY(0%)");
     body.css("overflow-y","hidden");
     // moviePlayerVideo.css("display","none");
-    plyr.css("display","none");
+    // plyr.css("display","none");
     moviePlayerIframe.css("display","block");
     moviePlayerIframe.attr("src",`${movie_data[currentMovieDataId].trailerLink}`);
     
@@ -89,7 +89,7 @@ closeMovieButton.click( () => {
     movie.css("transform","translateY(-30%)");
     body.css("overflow-y","visible");
     moviePlayerIframe.attr("src","");
-    moviePlayerVideo.attr("src","");
+    // moviePlayerVideo.attr("src","");
 });
 
 // Modified Movie Details Section
@@ -195,9 +195,10 @@ let movie_data_manipulation = (event) => {
                                 body.css("overflow-y","hidden");
 
                                 // moviePlayerVideo.css("display","block");
-                                plyr.css("display","flex");
-                                moviePlayerIframe.css("display","none");
-                                moviePlayerVideo.attr("src",`${movie_data[currentMovieDataId].seasons.season1.videoLinks[currentId]}`);
+                                // plyr.css("display","flex");
+                                // moviePlayerIframe.css("display","none");
+                                // moviePlayerVideo.attr("src",`${movie_data[currentMovieDataId].seasons.season1.videoLinks[currentId]}`);
+                                moviePlayerIframe.attr("src",`${movie_data[currentMovieDataId].seasons.season1.videoLinks[currentId]}`);
                             });
                         }
                     } else {
@@ -226,9 +227,10 @@ let movie_data_manipulation = (event) => {
                                 movie.css("transform","translateY(0%)");
                                 body.css("overflow-y","hidden");
                                 // moviePlayerVideo.css("display","block");
-                                plyr.css("display","flex");
-                                moviePlayerIframe.css("display","none");
-                                moviePlayerVideo.attr("src",`${currentResLink}`);
+                                // plyr.css("display","flex");
+                                // moviePlayerIframe.css("display","none");
+                                // moviePlayerVideo.attr("src",`${currentResLink}`);
+                                moviePlayerIframe.attr("src",`${currentResLink}`);
                             });
                         }
                         
