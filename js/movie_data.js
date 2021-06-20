@@ -34,8 +34,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/odM92ap8_c0",
         movieLinks: {
             sd: "",
-            hd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FTop_release_videos%2FGodzilla%20Vs%20Kong%2FGodzilla%20vs%20Kong%20720p.mp4&correlationId=200ced4d-f4ef-4e72-88d5-0a19010bfd92&psi=b5b070b7-f8e0-428f-b54a-76d6d8b529d0&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-            fhd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FTop_release_videos%2FGodzilla%20Vs%20Kong%2FGodzilla%20vs%20Kong%201080p.mp4&correlationId=232ed1b7-cbd0-4db8-919a-fac948eaeeb2&psi=a8dbbbca-477e-43bc-84bb-8c0f96952256&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo"
+            hd: "https://mega.nz/embed/6aJDGajY#Hu5LPCqq_rKDMERqBMhkpyoMNGpD5_0HGNk1PKd3ttI",
+            fhd: "https://mega.nz/embed/bGAkWRbQ#Dy_QElg6QPHXmwaWio0U6mXJH_pj1skBHgEKWmcbiUA"
         },
         isSeries: false
     } , 
@@ -54,8 +54,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/sV6VNNjBkcE",
         movieLinks: {
             sd: "",
-            hd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FTop_release_videos%2FThose%20who%20wish%20me%20dead%2FThose%20Who%20Wish%20Me%20Dead%20720p.mp4&correlationId=46d6fe94-7f09-4e77-8011-230a6b0c8e57&psi=c74ddd98-d165-4a53-99b1-01a0e0fee8ca&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-            fhd: "https://minhduc-my.sharepoint.com/:v:/g/personal/streamserver1_onedrive5tb_com/EV6q9b4CRk9Fkm7l5jEOg-YBPmsiriOgGiG25gg9m1M7uQ?e=XsqFcW"
+            hd: "https://mega.nz/embed/6W42wIyA#xlTyWvjKDnxdItXSowp-Zm8BVD4VY1DAbMfchEikM38",
+            fhd: "https://mega.nz/embed/2XxAwCzI#nkwvgZaVhr3KUncKiixIR2RUfME_nsqoBSuez0sSJQE"
         },
         isSeries: false
     } , 
@@ -95,7 +95,7 @@ let movie_data = [
         movieLinks: {
             sd: "",
             hd: "",
-            fhd: "https://icecube-us-846.icedrive.io/download?p=RhkK5GRVD4phbPPwexO3ZiVcJHiAQbsMp3ZALLrdrE9zAIVugGDlfphdg7LcbthW5AhqLZRTEjyhSs4Mp1Yz1jF.0dL7exnldwjGKLi2tf8DmPKYt5sp1_yc7ffPCg3x_k5pRB4VNIGFOaoL3gK2xyqlg4X9PGzDRQ_udNGbcrKSZHno7ZhqBvBkS9tjKpRwTa9buVqpH54Yemquhwke785b7U20NtdVO.TJdzM2u9A-"
+            fhd: "https://mega.nz/embed/DaoiCQpb#kDsLR8Y94wOBOYSSj7AfpeKB5p-xsS5m_00H_Bqnuk8"
         },
         isSeries: false
     } , 
@@ -134,8 +134,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/tI1JGPhYBS8",
         movieLinks: {
             sd: "",
-            hd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FTop_release_videos%2FArmy%20Of%20The%20Dead%2FArmy%20of%20the%20Dead%20720p.mp4&correlationId=61c54285-182c-44f8-a3a5-63e99c090b29&psi=dc7afabd-aa06-4eb8-9958-5d014229d086&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-            fhd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FTop_release_videos%2FArmy%20Of%20The%20Dead%2FArmy%20of%20the%20dead%201080p.mp4&correlationId=641a0561-735c-4dc2-9c6a-e3cdb4ba09f6&psi=695c94e7-42e7-4d14-aacc-ad239d20b9eb&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo"
+            hd: "https://mega.nz/embed/2OByQDxK#elz0kkPNoJR0fFEmPSZX_nD-UID2nd1ZCLZO_TfWSwM",
+            fhd: "https://mega.nz/embed/rKY0EZQC#fHa18eJnzDfCCR_X2VXdKETJDnNdyRBCIn_ZdLuiJKw"
         },
         isSeries: false
     } , 
@@ -154,7 +154,7 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/-BQPKD7eozY",
         movieLinks: {
             sd: "",
-            hd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FTop_release_videos%2FMortal%20Kombat%2FMortal%20Kombat%202021%20720p.mp4&correlationId=bd52dd58-a044-4141-a325-7ff7bfb3e483&psi=b2c7673d-96c3-4dbd-96d1-afad3db7d39c&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
+            hd: "https://mega.nz/embed/aHAlFaaJ#AF3IxODgIHL_aSDrEhmhQ_z7XN-T9qwjHRRT46mMFVY",
             fhd: ""
         },
         isSeries: false
@@ -216,8 +216,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/jKCj3XuPG8M",
         movieLinks: {
-            sd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FNew_movies%2FBad%20Boys%20For%20LIfe%2FBad%20Boys%20For%20Life%20480p.mp4&correlationId=ea60faa1-443b-4344-9175-6cbb51ba2ac9&psi=bce5efdb-5ceb-4729-99b7-28682cbce51a&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-            hd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FNew_movies%2FBad%20Boys%20For%20LIfe%2FBad%20Boys%20For%20Life%20720p.mp4&correlationId=f69ffc80-f2a1-4732-af38-550ea15e5a61&psi=a7be5709-0ee8-4c86-afeb-bc706bd57d39&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
+            sd: "https://mega.nz/embed/DDQhWYRY#lHczTJ0XqEVKpqElNGN3Tm_hmsU_DnrjuxFpAb9hhmI",
+            hd: "https://mega.nz/embed/eaRV2IzA#uyFrU_PGbT6MHGY88W7amAaArXt3B7rVV3pTWFNuryE",
             fhd: ""
         },
         isSeries: false
@@ -236,8 +236,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/a6O30nJ02PU",
         movieLinks: {
-            sd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FNew_movies%2FFantasy%20Island%2FFantasy%20Island%20480p.mp4&correlationId=422f0eaf-1c8a-4e75-b70a-100e53bf9702&psi=0c7cc558-8740-4475-b70e-8fcb884f848c&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-            hd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FNew_movies%2FFantasy%20Island%2FFantasy%20Island%20720p.mp4&correlationId=682fc3c7-2b90-454c-8e5d-c0e8807a0950&psi=5302fb31-deb7-4296-becc-3109b8370279&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
+            sd: "https://mega.nz/embed/qfYh1Kaa#0D-lapTf6FqX-XR0pOrCz2xKWooiJ7K_C3cmiooS2yU",
+            hd: "https://mega.nz/embed/jeIEELib#CPipboclJ7bdRrXsvH8kCgZkkcohLFjbyIfnMabKBtE",
             fhd: ""
         },
         isSeries: false
@@ -256,8 +256,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
         movieLinks: {
-            sd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FNew_movies%2FThe%20Call%20Of%20The%20Wild%2FThe%20Call%20Of%20The%20Wild%20480p.mp4&correlationId=880e8da1-8d17-4654-aebf-f4674841a58c&psi=03caf6ee-70b7-4fb2-adf4-c66c24a2951e&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-            hd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FNew_movies%2FThe%20Call%20Of%20The%20Wild%2FThe%20Call%20Of%20The%20Wild%20720p.mp4&correlationId=0fdf45f0-bac2-4d88-89a5-bd638317f854&psi=6ae20b5b-9930-4888-981f-cbdf8a79ddc7&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
+            sd: "https://mega.nz/embed/6bRHBAYA#7ovxWn23W7jkXj5hv7zGl2JU_hjE-iSin2s1o8Y_Qvc",
+            hd: "https://mega.nz/embed/aHJG2TJZ#NTjbn2rU16i3OV50jP_WDQCEppvP51R2d02rW-zENw0",
             fhd: ""
         },
         isSeries: false
@@ -316,8 +316,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/hxaaAoI57fk",
         movieLinks: {
-            sd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FNew_movies%2FHolidate%2FHolidate%20480p.mp4&correlationId=4baab081-7b7a-4497-b508-ce56544d21e3&psi=ffc90175-2dd1-426d-97ef-f4987c38b920&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-            hd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FNew_movies%2FHolidate%2FHolidate%20720p.mp4&correlationId=ef28bd6b-5a58-47f0-8242-d3c9b54f0f44&psi=ed293339-7a34-40d9-8fa1-8e159256625b&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
+            sd: "https://mega.nz/embed/GDAmlDQB#tr-t8SRfl-loqX1sypQzrJnQwONdS-SvypiL4Ggh44g",
+            hd: "https://mega.nz/embed/iDJxiaZB#M2FlL7smdv9-C9U4rCpKJZ_gEwVUDcoNNCfJDIDz9oM",
             fhd: ""
         },
         isSeries: false
@@ -599,8 +599,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/GkXeVIfbJOw",
         movieLinks: {
-            sd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FCartoon_movies%2FThe%20Croods%20A%20New%20Age%2FThe%20Croods%20A%20New%20Age%20480p.mp4&correlationId=c82ba26c-f927-4ce2-a490-481cfec239f7&psi=c75b3f5e-4515-4d1a-ad89-c044899d9ec7&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-            hd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FCartoon_movies%2FThe%20Croods%20A%20New%20Age%2FThe%20Croods%20A%20New%20Age%20720p.mp4&correlationId=297ba22f-d4bd-403f-817e-fc816dc8c41e&psi=3f3b5910-f250-4fe8-9080-0917de4b72e6&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
+            sd: "https://mega.nz/embed/vDREzTDI#JsLJHun_SDGR0Zdd0eclnlQ9x-OBJjGYpE-mwvZNdgc",
+            hd: "https://mega.nz/embed/LeIUzJ5T#tzEuXLPGBJvq3X32Je_OvCJbd4Vkz6xhA30T1Yuyusc",
             fhd: ""
         },
         isSeries: false
@@ -1139,8 +1139,8 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/gmRKv7n2If8",
         movieLinks: {
-            sd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FTop_movies%2FCruella%2FCruella%20480p.mp4&correlationId=179416cb-6e29-4460-8546-e90e0f1bef9d&psi=af70c1de-fee1-4ff0-8d95-b08ae2436f54&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-            hd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FTop_movies%2FCruella%2FCruella.mp4&correlationId=2218ec9f-4c46-4e73-b1be-244a5c93f438&psi=54f8651a-784f-47d0-a541-7d7d10c98341&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
+            sd: "https://mega.nz/embed/GC4S2CbC#bgarghtsnCuCbr8EhN7sCTRnWAO-h5pF671ppIxQMWw",
+            hd: "https://mega.nz/embed/iPp0BRSb#wX7_ZxbTB_5UhDKXO7OqZjP9Wr1mv0L5lKt1ZlMHk-M",
             fhd: ""
         },
         isSeries: false
