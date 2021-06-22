@@ -460,8 +460,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/0hgHY9k-44U",
         movieLinks: {
             sd: "",
-            hd: "",
-            fhd: ""
+            hd: "https://mega.nz/embed/GCh0VDDR#NKp1c5h6EoeDM_E1Xe8mbdmdYLmSw5v1TvhpRZJdt_s",
+            fhd: "https://mega.nz/embed/KSg22Rja#nzbq33dkyByt8OyzVz-Dx6KvI7ldGv58r5z7B_wPUv0"
         },
         isSeries: false
     },
@@ -520,8 +520,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/txdUE10OopA",
         movieLinks: {
             sd: "",
-            hd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FCartoon_movies%2FSoul%2FSoul%20720p.mp4&correlationId=b73b7809-52e6-4708-8b2b-5f41b345b5f6&psi=ef83ef9a-77ad-478b-8adc-5499475d2578&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-            fhd: ""
+            hd: "https://mega.nz/embed/DSwmzLDB#GwTVeIbml1kWAtaGoorWhV3-IW4iikyTOz4csHIIlns",
+            fhd: "https://mega.nz/embed/mH50SByC#qWGV7g-V5XmK4hLLIqMxGRMGunhyncKLhwSTmAU0tiw"
         },
         isSeries: false
     },
@@ -611,7 +611,7 @@ let movie_data = [
     {
         backgroundPoster: "./img/movie_series/1.jpg",
         poster: "./img/movie_series/portrait/1.jpg",
-        title: "THE HEIRS",
+        title: "MR QUEEN",
         rating: "IMDB N/A",
         description: "The series follows a group of rich, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way. Kim Tan (Lee Min-ho) is a wealthy heir to a large Korean conglomerate called Jeguk Group.",
         release: "2021-03-18",
@@ -620,21 +620,29 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/XbQfJNtDSCI",
-        movieLinks: "https://www.youtube.com/embed/XbQfJNtDSCI",
+        trailerLink: "https://www.youtube.com/embed/1PqwnczMPks",
+        movieLinks: "https://www.youtube.com/embed/1PqwnczMPks",
         isSeries: true,
         seasons: {
             season1: {
                 thumbnailLinks: [
-                    "https://m.media-amazon.com/images/M/MV5BMTI2MGY4NzItMTM3My00NmMyLWE3ZGUtNTMwMGI1MDQ1NWZlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
-                    "https://m.media-amazon.com/images/M/MV5BYmJjNGZmMzktMTEwOC00Mzg5LWJkNTUtNDAyMWEzYzg5ZjkwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
-                    "https://m.media-amazon.com/images/M/MV5BMjQ0NjdmMjMtMGZhYS00Y2FiLTkwODUtM2UzOTY0OWFkODQzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                    
 
                 ],
                 videoLinks: [
-                    "https://drive.google.com/file/d/1K7ScoHFCdAsP8kfH95T2qdcYquLHfaFr/preview",
-                    "https://drive.google.com/file/d/1K7ScoHFCdAsP8kfH95T2qdcYquLHfaFr/preview",
-                    "https://drive.google.com/file/d/13OW4tY4tKMCNJ_6F-ateETMLCmx_CSaX/preview"
+                    "https://mega.nz/embed/jaJ3TCpB#tQBCMx12p62Npnez5Z7I8X1zlfRVlPG2Y53UZF0Bdgg",
+                    "https://mega.nz/embed/PeZBwQ7B#r8Hhgp2S_9yoxRsyjO89Zog6yeoUrfjGzNr4n2IKOBg",
+                    "https://mega.nz/embed/PSZ3jYTS#XJjOUXNSmqDTLQwRcwk2zTee6ChGK4ljisgDCz6y97c",
+                    "https://mega.nz/embed/6CIzlYZD#aUdQDX_tDgHDVCdkgOqUUoqH2zladtRSnB5ihSbexBc",
+                    "https://mega.nz/embed/PDBjXKgT#ksMjgsUhb_AIW-OgPTRFXRIhS8VUPIN2nZ8xfw0Ll7A",
+                    "https://mega.nz/embed/SeRzBSpK#coKaisXfMcHfGLJ-TZaduyS69P24FF3eibX0P8kVGxg",
+                    "https://mega.nz/embed/7GZBnYoT#FXiL1qw6mSiVFBYjDG2nKyn49-r03q363QqjCYwWILw",
+                    "https://mega.nz/embed/HeRFwYST#a9RaZa5NVqCOe4KvL5nbm8iba7jTDHdM0uy63L7PfrQ",
+                    "https://mega.nz/embed/bSRBRa5Z#zqRz74NlRPMbLVljkwLSUXtiFgIifEvWC_fUZCcD4oE",
+                    "https://mega.nz/embed/TWBDVYIQ#_W7HiOItJsJpn0Egl3dJvXcNRkh29n1CejmBLBuQCsQ",
+                    "https://mega.nz/embed/XOITDKZK#iJyoZ7q4Z6D4FdsTwMDLqUxX595XTcOufUXhnUfr89w",
+                    "https://mega.nz/embed/iORDkYRB#QK6jy0Qaqv4BysneuKT_psVhvHEFrw9SOXpnHu2_7KE",
+                    "https://mega.nz/embed/rbBBwKSI#T64n6LVgN4Q68UD8r9MrbZ9SkPtXiEy9Y6LQKeUYE-4"
                 ],
                 releaseDate: [
                     "3 Mar, 2021"
@@ -891,24 +899,31 @@ let movie_data = [
                     "https://m.media-amazon.com/images/M/MV5BZWMzMTE1N2QtNmQzYS00OTRmLWE3NmUtYjMzN2FkN2I4OGYzXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
                     "https://m.media-amazon.com/images/M/MV5BODRlOWQ2NjEtOTgwZS00MGIwLThlNDMtODU5ZTYwN2FiODQxXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
                     "https://m.media-amazon.com/images/M/MV5BMDYxMTRiNDAtODE0Zi00NDg0LTkwMGYtYmVkMTMwNTU2NGFmXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
-                    "https://www2.mundodrama.site/wp-content/uploads/2021/05/so-i-married-an-anti-fan-806-backdrop.jpg",
-                    "https://www2.mundodrama.site/wp-content/uploads/2021/05/so-i-married-an-anti-fan-806-backdrop.jpg",
-                    "https://www2.mundodrama.site/wp-content/uploads/2021/05/so-i-married-an-anti-fan-806-backdrop.jpg",
-
+                    "https://m.media-amazon.com/images/M/MV5BYzk0MTEwOTAtNzU3NS00ZWNiLThiNmEtMTdlMmYxZDJhY2I5XkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYjczMGVlODUtMDBkYy00NTM5LTkxYjgtOWIwZWVjYTc1ZDg1XkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNzM5MTY2YzgtZmI5MC00ZDBjLWIxMWUtN2Q1NTA4YWU2ZTNmXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNzM5MTY2YzgtZmI5MC00ZDBjLWIxMWUtN2Q1NTA4YWU2ZTNmXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNzM5MTY2YzgtZmI5MC00ZDBjLWIxMWUtN2Q1NTA4YWU2ZTNmXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNzM5MTY2YzgtZmI5MC00ZDBjLWIxMWUtN2Q1NTA4YWU2ZTNmXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNzM5MTY2YzgtZmI5MC00ZDBjLWIxMWUtN2Q1NTA4YWU2ZTNmXkEyXkFqcGdeQXVyMTU2NjA2MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
                 ],
                 videoLinks: [
-                    "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FSeries%2FSo%20I%20married%20to%20an%20anti%20fan%2FAnti-fan-01.mp4&correlationId=1b637e3d-2b2d-43ea-9558-14ae2f32a8f2&psi=a2c13834-6bed-4860-8a0d-3f8744b653dc&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-                    "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FSeries%2FSo%20I%20married%20to%20an%20anti%20fan%2FAnti-fan-02.mp4&correlationId=3a84117a-aa12-4720-8c76-ef8cba111a81&psi=da4c81e3-4a09-4d33-99f8-654c34d5d8f8&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-                    "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FSeries%2FSo%20I%20married%20to%20an%20anti%20fan%2FAnti-fan-03.mp4&correlationId=e1b9a968-056f-4883-8b87-85a331f3f80e&psi=fef8bc34-80f5-4ee6-947d-8c37fb2b84cd&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-                    "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FSeries%2FSo%20I%20married%20to%20an%20anti%20fan%2FAnti-fan-04.mp4&correlationId=b06ee117-08d7-480b-b025-19f0f60d1c63&psi=32f7ec72-fcac-4a0a-a592-b754419f0048&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-                    "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FSeries%2FSo%20I%20married%20to%20an%20anti%20fan%2FAnti-fan-05.mp4&correlationId=66bb316d-544c-4988-b485-f9c46939ca9b&psi=b16b8b8a-7028-486c-b357-d86199c451c1&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-                    "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FSeries%2FSo%20I%20married%20to%20an%20anti%20fan%2FAnti-fan-06.mp4&correlationId=f6cee551-bb37-49ae-bd04-97fba67f5c31&psi=56bf54b6-d4f2-4330-a22e-2dbbdbf3001d&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-                    "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FSeries%2FSo%20I%20married%20to%20an%20anti%20fan%2FAnti-fan-07.mp4&correlationId=cd40c0e0-18c1-4282-b3e4-b3b10ddb6e18&psi=ca39f83d-0fae-4bda-b0c5-5d47150f0956&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-                    "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FSeries%2FSo%20I%20married%20to%20an%20anti%20fan%2FAnti-fan-08.mp4&correlationId=29cae1bb-638f-41b1-92d1-13b909b62cb1&psi=66694cf3-bf3a-4316-a328-e94302eb4d38&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-                    "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FSeries%2FSo%20I%20married%20to%20an%20anti%20fan%2FAnti-fan-09.mp4&correlationId=0bdade83-dfef-4c62-91fd-74476f6b5360&psi=b0eeea3e-7477-4abc-8904-63ea55e6e1fc&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-                    "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FSeries%2FSo%20I%20married%20to%20an%20anti%20fan%2FAnti-fan-10.mp4&correlationId=11e4784a-773c-48c4-9458-0bdb44943fd5&psi=be408030-a8c7-42d0-b732-8a6ebd9f43bf&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-                    "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FSeries%2FSo%20I%20married%20to%20an%20anti%20fan%2FAnti-fan-11.mp4&correlationId=5d6d6414-3a25-438b-bffa-7ad769ab0943&psi=9b45b88e-90b0-413f-b6d3-a08261842661&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-                    "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FSeries%2FSo%20I%20married%20to%20an%20anti%20fan%2FAnti-fan-12.mp4&correlationId=7f8ce40b-c143-4962-ada2-e990a1b49c25&psi=8195521d-8b4a-4f44-b1ac-e1b85328be39&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo"
+                    "https://mega.nz/embed/LSAhzQZD#zjjRWmPYTI9LB-DGbQe7FHUtIPU_Xw_e-Wkug_CMaJc",
+                    "https://mega.nz/embed/3XAB2a4C#cadRGJ3Eo6HhNZYyIu4a7C6l4aQlfnkB_JvVRepbSf8",
+                    "https://mega.nz/embed/XOBxTS5a#nIEXVKbfQCwPweQDYuRMN7rv_exh75CdNsI8dwlDpak",
+                    "https://mega.nz/embed/OeAVXaQT#r2FJsynK7tie6eog0V2lVmynblTAp5Kzu-guhbVIR00",
+                    "https://mega.nz/embed/KWAhUA7K#aG0b2Xots43C84ogKt65qY380-sMOQ7rccX0leo1afE",
+                    "https://mega.nz/embed/iaABxI4Y#MY6TbFuoh9vjcf3IYjSsQcqAgC_98eCmijAqbpLTCI0",
+                    "https://mega.nz/embed/yWYRUYzK#RHkUDxu4R21H_RBKA6RNXb4rew31iQ-A13tdGuSoUnw",
+                    "https://mega.nz/embed/uaABwK6Y#4VzcWGP_-zxFkThC0gXL0mY5BPwqbVmjzJO7fEzw6Yg",
+                    "https://mega.nz/embed/jLRFjIYT#U9PJIfFWtbh5N4iy1t2FCPlTPoz6Z9SSaN7jVY4d3xY",
+                    "https://mega.nz/embed/yOJjmAiA#crWoT6mxwhlRoQQzqAhEWhV0Zn-Xvd5a4l58jEf7RoI",
+                    "https://mega.nz/embed/KTZlyYIb#BZ686r8b5y1yOs2xdqQaXazGw60fIhzYuak5wJpOwSs",
+                    "https://mega.nz/embed/KDYFkAaQ#QAkGz2SWIo4HrGaWnzjH6O6g8Wi10EGrb8rVnWxBEIg",
+                    "https://mega.nz/embed/zaID2KwR#NQS_JgSfGKCRFv_LofP_kNqGAnZnH-pjJElxm8lkk4w",
+                    "https://mega.nz/embed/KWQBXKqK#YpSnr2U-03508s6lqysjEzXu2RcM_DrYwtRkiM-JtVI",
+                    "https://mega.nz/embed/bfRzAIDY#nq3GuEL2THkOEQjmfdCtVXBOGMbiAgF8dk84aeC7WMY",
+                    "https://mega.nz/embed/jHJX0Kaa#NagXP1tnfq8u1f5ZooqntoFAHk0fM3bSlP3QEc5mfhc"
                 ],
                 releaseDate: [
                     
@@ -919,26 +934,55 @@ let movie_data = [
     {
         backgroundPoster: "./img/movie_series/6.jpg",
         poster: "./img/movie_series/portrait/6.jpg",
-        title: "THE KING",
+        title: "SELL YOUR HAUNTED HOUSE",
         rating: "IMDB N/A",
-        description: "THE KING",
+        description: "SELL YOUR HAUNTED HOUSE",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/N1L1iaFZQ9I",
-        movieLinks: "https://www.youtube.com/embed/N1L1iaFZQ9I",
+        trailerLink: "https://www.youtube.com/embed/ln8MJw5gNZ4",
+        movieLinks: "https://www.youtube.com/embed/ln8MJw5gNZ4",
         isSeries: true,
         seasons: {
             season1: {
                 thumbnailLinks: [
-                    
-
+                    "https://m.media-amazon.com/images/M/MV5BZGM4N2U2NjQtNzc5Ny00YjRiLTk1MTUtZGI0ZjI2MTdhOTA3XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZjU1ZjI4YTUtMThkYS00NjRhLTkyMGQtOGU3YjZjZGQwNThhXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BMjNhOWUwZDEtNTE1My00ZjI0LWIwNjktMWJhYWNmYzUxNDZkXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BODQxNzM3Y2EtZGRlZi00NzcyLTkwMWUtNzhkNzU2NmFmYWQ2XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNjAxZmUwY2YtZWQ2Ny00ODM2LWE5ZjEtNGUwYjY5ZWNlYTAyXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BOTkyYzYzMDQtYzJhMi00MDhlLWEzODktZTEwYmQ4ODJjOGM3XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZTU1NDE1YTUtMGI4OS00MzQwLThkNjQtYjkwNDZjZWI5NjVmXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNjU1YTJjMTItNWU0MC00NzVhLTllOTItNTc5OGQ4YjkxYWRlXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNWFhMDk1YTktNWQ0MS00NDlkLWE0MGItZjU0ZjQ0MzM1MzNhXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYmJmMTRmMjktZGQxOS00YWFlLWEwOGEtYmE5MjFkYjE0OTU3XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BY2YyMTRjYzItMmRhOS00MDIzLWI2ZTYtOTUzMTNiNzk0OWY4XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNGY3MTFiYmQtMDFlZS00NTNhLWFmNGYtYjFiMzM1MmE4NjNlXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYzhkZjY3ZjItYzA0Mi00YjA5LWEzYTMtMGM5YjJlYjIzNTA1XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNDU4OWM5YWItNGYxMi00MWMyLTg5NzktMjE1YjkxNTVmODllXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNWY2ZjEzMDEtZmM4My00YjA0LTlkZDQtZDQ3ZDlhZGI2YmI5XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYjQ2MWZjZTEtNGUxYi00OGM3LTk4OGItOTUwNDdjOTBkYzY1XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg"
                 ],
                 videoLinks: [
-                    
+                    "https://mega.nz/embed/mCZn1abA#OHoxd1r522_S-_xVwlRPF7FNAqSYl7i3AoqD4ykVYII",
+                    "https://mega.nz/embed/TbBhHYDB#fqiE4KIr-hWvKfJ8JQfIH1oDlHl6IrlZUQ6ENKma2Jc",
+                    "https://mega.nz/embed/uGQVUAyA#47SXf8LOIamnewN5upjQq6gWtQzibjzzBBfMxvOf6T0",
+                    "https://mega.nz/embed/CSBz1I4Y#ivKpU6JVeAlj7zTTq7i8hm2qEoacn4dRBU3XZuFounI",
+                    "https://mega.nz/embed/7KYF3SDZ#GgucqtJ9zaBX0_8g3fIJRFrP3Ye4DVW958sAB51FxNc",
+                    "https://mega.nz/embed/SXIj0ArZ#gw6K0Xemey2xW6jtBEpvzACOsqQNY6WBJbCfaCEEans",
+                    "https://mega.nz/embed/uCYBjI4Q#VlDvqdn07PIn5BQ8ygRXsVuOU6QhrDOaDV4Tb6k7e34",
+                    "https://mega.nz/embed/zbRTTQqD#I8SOLSKv3fN1iilwZcxEB8_E-RhM69JUQeSXVnj7Q_Q",
+                    "https://mega.nz/embed/nbZ32AqS#73icmDSfXkHjLDzxdtaI-TOLiy7D8iqdWI1577abkCs",
+                    "https://mega.nz/embed/GSJVGSaJ#WTAPUevWjPEXpzLRpuuBR-MAGVBSFMbdtw3_sbFGc7c",
+                    "https://mega.nz/embed/DbQjGIgK#YqFfUNRTiFsfpopkgkMF_AMmpTLLhwlxeCNwbi_et6M",
+                    "https://mega.nz/embed/fHQ30IpC#szBsXUxFSD1Mf1RNztjz1TUNtwZQY8AGdrOhW_9_t3Y",
+                    "https://mega.nz/embed/PPRTwAjC#OpyaunSdXoNmPJJyG8DkussToMn8q1j4Ayuu3W7uN0c",
+                    "https://mega.nz/embed/3bYD3CZQ#9i6YvaLtMNO56mWJmCv2DBpWy_R71r8y8z1IAzMXzA4",
+                    "https://mega.nz/embed/eCBDWaRS#U0raPRPBujscUkEjtA1reS0a35LyC9g9ul1-ShEo2CQ",
+                    "https://mega.nz/embed/fXQl0AhR#LY6doy-lM4xfmU2spYARccHmLrR7Uh6fRTy_EXpdZlc"
                 ],
                 releaseDate: [
                     
@@ -1191,9 +1235,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/award_movies/1.jpg",
         poster: "./img/award_movies/portrait/1.jpg",
-        title: "MULAN",
+        title: "The Conjuring: The Devil Make Me Do It",
         rating: "IMDB N/A",
-        description: "Mulan",
+        description: "The Conjuring: The Devil Make Me Do It",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -1202,9 +1246,9 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/H3PR1v_5cfc",
         movieLinks: {
-            sd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FAward_movies%2FMulan%2FMulan%20480p.mp4&correlationId=32720d2c-b6d2-4e5f-9725-88d487579c88&psi=226ad2eb-9019-4e65-b87f-d6696b932ff7&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-            hd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FAward_movies%2FMulan%2FMulan%20720p.mp4&correlationId=fdbbc499-3c0f-4684-97dd-7a9696396521&psi=197aa1a3-4e8b-41f5-9115-57a24da154da&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-            fhd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FAward_movies%2FMulan%2FMulan%201080p.mp4&correlationId=c4b7b68c-b74a-4cb9-9306-e38c2cb68c93&psi=7407dc08-e937-425f-922d-6e2ccdc8ded7&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo"
+            sd: "",
+            hd: "https://mega.nz/embed/meI1DQJb#z2ScqcXYyl2K9fmXVdszJ-GnWReWl5rF292Xh3EaTTw",
+            fhd: "https://mega.nz/embed/WLQ1FSQB#Li7kDX1s5xlIVCOO6Ima9MoYoZhn47lN1ULbTdEYFqQ"
         },
         isSeries: false
     },
