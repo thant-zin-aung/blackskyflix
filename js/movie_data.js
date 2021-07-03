@@ -2,9 +2,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/top_release/landscape/1.jpg",
         poster: "./img/top_release/1.jpg",
-        title: "BOSS BABY",
+        title: "BOSS BABY 2 - Family Business",
         rating: "IMDB N/A",
-        description: "Boss Baby",
+        description: "Boss Baby 2 - Family Business",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -14,8 +14,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/EWizz52lZvw",
         movieLinks: {
             sd: "",
-            hd: "",
-            fhd: ""
+            hd: "https://mega.nz/embed/rMhWlJSK#Qe47ZswldYl5O0JMUQ3PdWbiGXeHpyXop49cyO48LjI",
+            fhd: "https://mega.nz/embed/qQ5WxBKT#iaFE23w_Yg9-LAqBltcjvJzVM9GeVyIoWVYYdQlEQHQ"
         },
         isSeries: false
     } , 
@@ -102,9 +102,9 @@ let movie_data = [
     {
         backgroundPoster: "./img/top_release/landscape/6.jpg",
         poster: "./img/top_release/6.jpg",
-        title: "A QUIET PLACE",
+        title: "A QUIET PLACE 2",
         rating: "IMDB N/A",
-        description: "A QUIET PLACE",
+        description: "A QUIET PLACE 2",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
@@ -114,8 +114,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/BpdDN9d9Jio",
         movieLinks: {
             sd: "",
-            hd: "",
-            fhd: ""
+            hd: "https://mega.nz/embed/SVomXZjZ#2QWwz4F-y0lgfGxijRuJvbiC_NFWjtbphHsz77WlBoY",
+            fhd: "https://mega.nz/embed/bA5gHT5a#AiLE2ljFLR0inufCd3pjBJAgjG5nyIIhvDbPSBEGg-U"
         },
         isSeries: false
     } , 
@@ -500,8 +500,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/PWBcqCz7l_c",
         movieLinks: {
             sd: "",
-            hd: "",
-            fhd: ""
+            hd: "https://mega.nz/embed/vQoi0LwQ#NUXjxCG-8taeC4ZhmXi8qJzcicpw2LEGENFUo71FU8Q",
+            fhd: "https://mega.nz/embed/2IxEALAL#YCRffocz3l8AUqkMW1WmQZUMcCIJGpATA0YC03aS_QQ"
         },
         isSeries: false
     },
@@ -540,8 +540,8 @@ let movie_data = [
         trailerLink: "https://www.youtube.com/embed/9jG1nnQGpdI",
         movieLinks: {
             sd: "",
-            hd: "",
-            fhd: ""
+            hd: "https://mega.nz/embed/DNxkwT5Z#w6JMNU9eqtlZ0gve992JnA0N4Jo4s2m1eRYXPk934jU",
+            fhd: "https://mega.nz/embed/uFwwUDiY#hGVqtrQ5XqpUn3-WnBL0Tbzb5ixMsw6cXN8CV0hlK6M"
         },
         isSeries: false
     },
@@ -626,25 +626,70 @@ let movie_data = [
         seasons: {
             season1: {
                 thumbnailLinks: [
-                    
-
+                    "https://m.media-amazon.com/images/M/MV5BMzNlMWZlNTEtNzk0NC00OGFlLTk0YzgtOWY1NGU0YmE3ZmEzXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZTBkMWU0Y2YtZDUyNC00YThkLWJiMzItOGE2NTA5ZjRiODgxXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BOWM2MTg0MWMtODM1Ny00OGI5LTliMzAtZWJiYTEyNmYzNTc1XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYzhiNGU5NjktYWFlMy00OWUxLWFmYjctN2MyZjNkMjY3NjgxXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYWYwMWU0M2EtOTFmZi00YzdjLTgyNTMtMzRhMWMxZDZmNWVlXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYjViYzgzNjgtMTdlMC00ZTVlLWIyM2MtMmJjMmRiZjI5ZjE3XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BOWI3MmM1MzktMDQyMi00MGQxLWJhNTEtN2RhYTYyNTBlOWY1XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNjM1YTIyNjQtMTA5OS00NjhjLWFhNWItNWE4MmI5N2Q4Nzc5XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BOWY2ZmVkMzUtZTg1Mi00NGVmLWI5MDAtODYzN2Q2ODIyMDlmXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNWI3OTMxMWMtOTczMy00ZDdiLWJhZWMtNjU1MGU2NTQ3Njc5XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNGE5YWFjNzItMmUxYS00YzRhLWEyZDctMjc4OWMxMTMyZGRlXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BMjU3ODIxMzQtNTNhMy00ZTI1LWFmMDEtZTQyNTk0M2ZmNmMwXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZTlkZDVmZTMtNTcwMC00MDhjLThiYWYtZDRlMDhiYzJkYzcyXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BOTQyODdiM2ItMzcwZS00MGU5LTk5MmYtOWNkNWYwOThlZjA0XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZWE2ZmQ2NWQtNjMzNy00ODAxLTlkZWUtMGZjN2ZkYjBhMThlXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BZTI2NGVhMTUtMDViOC00ZmJlLWE2NmYtNzljYTRhZTQ1Y2Q0XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BY2JiYWI4M2YtNWUwNS00ZDRiLWE0NzYtNDRlOTZjMzRjYzJhXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BMTE0ZTIzNzctNzFhNi00MGU5LTljYmQtNjZlMjlkYjQyMjMyXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BNWQxZmJhOWYtNzVhNS00YWM4LWIxMzItZGJlNDc4ZTBjM2FiXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "https://m.media-amazon.com/images/M/MV5BYjkyZWMxZDAtODBlOS00OTAyLWJlNmEtN2Y0Y2NmNzQwNTY3XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg"
                 ],
                 videoLinks: [
-                    "https://mega.nz/embed/jaJ3TCpB#tQBCMx12p62Npnez5Z7I8X1zlfRVlPG2Y53UZF0Bdgg",
-                    "https://mega.nz/embed/PeZBwQ7B#r8Hhgp2S_9yoxRsyjO89Zog6yeoUrfjGzNr4n2IKOBg",
-                    "https://mega.nz/embed/PSZ3jYTS#XJjOUXNSmqDTLQwRcwk2zTee6ChGK4ljisgDCz6y97c",
-                    "https://mega.nz/embed/6CIzlYZD#aUdQDX_tDgHDVCdkgOqUUoqH2zladtRSnB5ihSbexBc",
-                    "https://mega.nz/embed/PDBjXKgT#ksMjgsUhb_AIW-OgPTRFXRIhS8VUPIN2nZ8xfw0Ll7A",
-                    "https://mega.nz/embed/SeRzBSpK#coKaisXfMcHfGLJ-TZaduyS69P24FF3eibX0P8kVGxg",
-                    "https://mega.nz/embed/7GZBnYoT#FXiL1qw6mSiVFBYjDG2nKyn49-r03q363QqjCYwWILw",
-                    "https://mega.nz/embed/HeRFwYST#a9RaZa5NVqCOe4KvL5nbm8iba7jTDHdM0uy63L7PfrQ",
-                    "https://mega.nz/embed/bSRBRa5Z#zqRz74NlRPMbLVljkwLSUXtiFgIifEvWC_fUZCcD4oE",
-                    "https://mega.nz/embed/TWBDVYIQ#_W7HiOItJsJpn0Egl3dJvXcNRkh29n1CejmBLBuQCsQ",
-                    "https://mega.nz/embed/XOITDKZK#iJyoZ7q4Z6D4FdsTwMDLqUxX595XTcOufUXhnUfr89w",
-                    "https://mega.nz/embed/iORDkYRB#QK6jy0Qaqv4BysneuKT_psVhvHEFrw9SOXpnHu2_7KE",
-                    "https://mega.nz/embed/rbBBwKSI#T64n6LVgN4Q68UD8r9MrbZ9SkPtXiEy9Y6LQKeUYE-4"
+                    "https://mega.nz/embed/3ZgwzBDZ#7y3U4RLxaeoEGq8CcSqZyRjWXR9Cuo6LmNTEHvwF988",
+                    "https://mega.nz/embed/GdgkUbSJ#DFdEE99n5DFrjErpu7-802TA_yyelhYGiAENGkpI7IM",
+                    "https://mega.nz/embed/idhSWbLC#C4QEBK-ruDfz1lwm8AHIIRII9r8-e4TkAvIaTYV2D50",
+                    "https://mega.nz/embed/TNokFTwC#Snkg3M2hpwYHZ5WW6HX2chrkhVxvx0if-j8_eKu2bMM",
+                    "https://mega.nz/embed/KZgW0DYK#FxoeE2taOQeOqo34wiK3B1YxPs2ZzLaI_YRrnMqgUzg",
+                    "https://mega.nz/embed/XQ5EFZjC#xT-eu6SP0kdpB1XX998BHVkeP5ymC_boy5YCVU-I5Ac",
+                    "https://mega.nz/embed/LZgSyJqC#7_odvSmnNNJuDvqg84pxmvvONYydwjT3g86BQmxg5iI",
+                    "https://mega.nz/embed/fY5CkRJY#R0Ha_VkE8_6JcIx7EtcreTLZxUgW3JI6VpbD71yivhE",
+                    "https://mega.nz/embed/DMgk2TqD#YOHm_MxGd0T9Xu9DQsQqcDP5-9YOAaZWGmqteBcKU1Y",
+                    "https://mega.nz/embed/iFpSzRZS#rimex3nES20o53rWo8prXId4ru5k68QNoYm4-tug6Ec",
+                    "https://mega.nz/embed/HJoC0BoT#bpZhDb5vAeavOev4CpHOqhY1mR3D65L1l1EyOf73hB8",
+                    "https://mega.nz/embed/rA4ADRJJ#v0ltdOsfiR_HZPbeyoL_n7uoK_d5A6HX3znscrf0BEY",
+                    "https://mega.nz/embed/uFpW2Jgb#eSgovRY1oGqKyhTwY8ABfm3dw1hQaMdYsKEhw7Ju4sM",
+                    "https://mega.nz/embed/XEpw2QTK#ti-42zUzC09b496-dDrhuY00ko_EjvixXCeTDTdsTEU",
+                    "https://mega.nz/embed/XUoAARpJ#HngvXBHfmLljP3-0B8gO6PEz_y5rx5mHapHUv3gborE",
+                    "https://mega.nz/embed/KB4UhRLa#wa47Obfk28KJDhms7vt9LfBpsF-ik_tBEOT6VhMCwsA",
+                    "https://mega.nz/embed/jc5yFZRC#qUF5XV510qBaiUIXWnsQALVeqfHw_0AxH6U-QUpKjNw",
+                    "https://mega.nz/embed/PdhkHDTD#sjgVZax2PjFr3vgdptvHAu8x7D0aWflIG6pB0fFWbaQ",
+                    "https://mega.nz/embed/2A5SUBwY#DrmwhfitJfpAbZJvvM02WBKk3XrAueWaA3DPnk0SxzM",
+                    "https://mega.nz/embed/PF4SjTSb#MSWCW434qMhWxZTfeApFNMKGPKa2sZ2ixg5eAwtmKuc"
+
                 ],
                 releaseDate: [
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
+                    "3 Mar, 2021",
                     "3 Mar, 2021"
                 ]
             }
@@ -1255,20 +1300,20 @@ let movie_data = [
     {
         backgroundPoster: "./img/award_movies/2.jpg",
         poster: "./img/award_movies/portrait/2.jpg",
-        title: "JOKER",
+        title: "The Ice Road",
         rating: "IMDB N/A",
-        description: "Joker",
+        description: "The Ice Road",
         release: "2021-03-18",
         genre: "Comedy,Animation,Family",
         casts: "Lisa Kudrow,James Marsden,Jeff Goldblum,Alec Baldwin",
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/embed/-_DJEzZk2pc",
+        trailerLink: "https://www.youtube.com/embed/SHEPdMqrWjE",
         movieLinks: {
             sd: "",
-            hd: "https://minhduc-my.sharepoint.com/personal/streamserver1_onedrive5tb_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fstreamserver1_onedrive5tb_com%2FDocuments%2FAward_movies%2FJoker%2FJoker%20720p.mp4&correlationId=28dfd34a-f009-4157-ac73-cc679d34546a&psi=5cd991ee-0675-49c3-8775-0037b28c7302&ccat=2&cs=fHxPbmVVcFdlYlBsYXllcg%3D%3D&App=OneDriveWebVideo",
-            fhd: ""
+            hd: "https://mega.nz/embed/bJpGWZSZ#dBNHf1mGO85pXARFl5tSICxutp2K9u-mUE-JuMmC9z0",
+            fhd: "https://mega.nz/embed/mZo2RB5C#iAqq6FLd7HCZ5Z3xJ4-JvH3e8Xoh0te3PkX4jE_Izyk"
         },
         isSeries: false
     },

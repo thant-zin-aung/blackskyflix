@@ -1,5 +1,5 @@
 new Splide('.splide',{
-    autoplay: true,
+    autoplay: false,
     interval: 3500,
     pauseOnHover: true,
     type: 'loop',
@@ -29,7 +29,7 @@ new Splide('.splide',{
 }).mount();
 
 new Splide('#newMoviesSplide',{
-    autoplay: true,
+    autoplay: false,
     interval: 5000,
     pauseOnHover: true,
     type: 'loop',
@@ -59,7 +59,7 @@ new Splide('#newMoviesSplide',{
 }).mount();
 
 new Splide('#cartoonSplide',{
-    autoplay: true,
+    autoplay: false,
     interval: 4000,
     pauseOnHover: true,
     type: 'loop',
@@ -88,7 +88,7 @@ new Splide('#cartoonSplide',{
     }
 }).mount();
 new Splide('#seriesSplide',{
-    autoplay: true,
+    autoplay: false,
     interval: 5000,
     pauseOnHover: true,
     type: 'loop',
