@@ -113,9 +113,9 @@ let movie_data = [
         production: "DreamWorks Animation",
         trailerLink: "https://www.youtube.com/embed/BpdDN9d9Jio",
         movieLinks: {
-            sd: "",
-            hd: "https://mega.nz/embed/SVomXZjZ#2QWwz4F-y0lgfGxijRuJvbiC_NFWjtbphHsz77WlBoY",
-            fhd: "https://mega.nz/embed/bA5gHT5a#AiLE2ljFLR0inufCd3pjBJAgjG5nyIIhvDbPSBEGg-U"
+            sd: "https://mega.nz/embed/OJwmAKAD#eE7zNziNqi7KIwys2Fv23KsmtwyiWKtxzdjBYi8q52Y",
+            hd: "https://mega.nz/embed/TRwUEALK#nxTTwRY5vyD50Mn0O9jr09kKu7LNS7CE1UDOiPb7YQM",
+            fhd: "https://mega.nz/embed/zcxBkKrY#Khcx_Ii1abQ6FVKWwwt30u1QSGrHsS8aJnT63wrC3V0"
         },
         isSeries: false
     } , 
