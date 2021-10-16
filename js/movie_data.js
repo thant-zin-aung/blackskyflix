@@ -648,8 +648,8 @@ let movie_data = [
                     "https://m.media-amazon.com/images/M/MV5BYjkyZWMxZDAtODBlOS00OTAyLWJlNmEtN2Y0Y2NmNzQwNTY3XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg"
                 ],
                 videoLinks: [
-                    "https://mega.nz/embed/3ZgwzBDZ#7y3U4RLxaeoEGq8CcSqZyRjWXR9Cuo6LmNTEHvwF988",
-                    "https://mega.nz/embed/GdgkUbSJ#DFdEE99n5DFrjErpu7-802TA_yyelhYGiAENGkpI7IM",
+                    "https://dood.ws/e/uhin3z5zc3dk9egh1asajafj4zn59vio",
+                    "https://dood.ws/e/voawzkq97ym4806zshuigbsmc3vlrprp",
                     "https://mega.nz/embed/idhSWbLC#C4QEBK-ruDfz1lwm8AHIIRII9r8-e4TkAvIaTYV2D50",
                     "https://mega.nz/embed/TNokFTwC#Snkg3M2hpwYHZ5WW6HX2chrkhVxvx0if-j8_eKu2bMM",
                     "https://mega.nz/embed/KZgW0DYK#FxoeE2taOQeOqo34wiK3B1YxPs2ZzLaI_YRrnMqgUzg",
