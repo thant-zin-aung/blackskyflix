@@ -644,11 +644,22 @@ let movie_data = [
                     "https://m.media-amazon.com/images/M/MV5BNDU0MWQxYzUtM2VhYi00ZjVlLWJiMjUtZjMwZTdmNjhhY2E4XkEyXkFqcGdeQXVyMjQ2OTU4Mjg@._V1_UY126_CR24,0,224,126_AL_.jpg",
                 ],
                 videoLinks: [
-                    "https://dood.ws/e/xgribqln56tctj4gpr0h8ephz0pkpm56",
-                    "https://dood.ws/e/ahewfid4ivqdmic5q9h0zvptzlet4kv6",
-                    "https://dood.ws/e/rvqfv6t3m947xmztaso1mrxdo6xf41ey",
+                    "https://short.ink/7RVZnXkQS",
+                    "https://short.ink/S8Ha0h_in_",
+                    "https://short.ink/I2ctQLb-E",
                     "https://short.ink/6CIJ_ffmC",
-                    "https://short.ink/C2oMdqcCY"
+                    "https://short.ink/C2oMdqcCY",
+                    "https://short.ink/bBCcEC6Gi",
+                    "https://short.ink/ePTSZhOI2",
+                    "https://short.ink/tpOs7ubEV",
+                    "https://short.ink/To392mr32",
+                    "https://short.ink/Xcwuz3gDZ",
+                    "https://short.ink/HwIcczPBI",
+                    "https://short.ink/BHyDv_oS4",
+                    "https://short.ink/Jdhq-I4wE",
+                    "https://short.ink/qysa22OLz",
+                    "https://short.ink/Qb9HgLbmU",
+                    "https://short.ink/oyl1H2Hke"
 
                 ],
                 releaseDate: [
