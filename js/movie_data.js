@@ -620,8 +620,8 @@ let movie_data = [
         duration: "97min",
         country: "The United States Of America",
         production: "DreamWorks Animation",
-        trailerLink: "https://www.youtube.com/watch?v=1IjMTR2DxlA",
-        movieLinks: "https://www.youtube.com/watch?v=1IjMTR2DxlA",
+        trailerLink: "https://www.youtube.com/watch?v=iDzR6twXE_E",
+        movieLinks: "https://www.youtube.com/watch?v=iDzR6twXE_E",
         isSeries: true,
         seasons: {
             season1: {
