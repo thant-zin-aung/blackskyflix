@@ -32,14 +32,13 @@
 # Clone the repo
 git clone https://github.com/thant-zin-aung/blackskyflix.git
 cd blackskyflix
-```
-## For Linux/Mac:
+
+# For Linux/Mac:
 open index.html
 
-## For Windows:
+# For Windows:
 start index.html
-
----
+```
 
 ## 💡 Inspiration
 Inspired by modern streaming platforms like Netflix, this project aims to bring the cinematic feel to trailer browsing while keeping the UI minimal and stunning.
